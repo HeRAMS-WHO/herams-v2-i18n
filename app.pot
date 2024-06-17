@@ -2,5 +2,5 @@ msgid "projectLanguage"
 msgstr "projectLanguage"
 
 msgid "projectName"
-msgstr "projectLanguage"
+msgstr "projectName"
 
