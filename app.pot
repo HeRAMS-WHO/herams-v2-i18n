@@ -4,3 +4,6 @@ msgstr "projectLanguage"
 msgid "projectName"
 msgstr "projectName"
 
+msgid "projectVisibilities"
+msgstr "projectVisibilities"
+
