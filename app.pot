@@ -7,3 +7,5 @@ msgstr "projectName"
 msgid "projectVisibilities"
 msgstr "projectVisibilities"
 
+msgid "adminSurvey"
+msgstr "adminSurvey"
