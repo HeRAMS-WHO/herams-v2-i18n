@@ -1,5 +1,0 @@
-msgid "projectLanguage"
-msgstr "Project Language"
-
-msgid "projectName"
-msgstr "Project Name"
