@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2024-06-18 12:42+0000\n"
+"PO-Revision-Date: 2024-06-20 10:28+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.6-dev\n"
+"X-Generator: Weblate 5.6-rc\n"
 
 msgid "projectLanguage"
 msgstr "Langue du projet"
@@ -25,3 +25,30 @@ msgstr "Visibilité du projet"
 
 msgid "adminSurvey"
 msgstr "Questionnaire admin"
+
+msgid "label.projectName"
+msgstr ""
+
+msgid "label.projectLanguage"
+msgstr ""
+
+msgid "label.heramsDescription"
+msgstr ""
+
+msgid "placeholder.loginEmail"
+msgstr ""
+
+msgid "tableHeader.userLastLogin"
+msgstr ""
+
+msgid "label.userLastLogin"
+msgstr ""
+
+msgid "label.loginEmail"
+msgstr ""
+
+msgid "button.login"
+msgstr ""
+
+msgid "pageTitle.login"
+msgstr ""
