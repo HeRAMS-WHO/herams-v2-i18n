@@ -1,5 +1,8 @@
-msgid "projectLanguage"
-msgstr "projectLanguage"
+msgid "label.projectLanguage"
+msgstr "label.projectLanguage"
+
+msgid "tabheader.projectLanguage"
+msgstr "tabheader.projectLanguage"
 
 msgid "label.projectName"
 msgstr "label.projectName"
