@@ -26,6 +26,15 @@ jobs:
         --header "Accept: application/json" \
         --header "Content-Type: application/json" \
         --data "$(jq -n --arg email "$EMAIL" --arg password "$PASSWORD" '{email: $email, password: $password}')"
+
+
+    - name: clone frontend-v2
+      uses: actions/checkout@v2
+      with:
+        repository: 'WorldHealthOrganization/herams-v2-frontend'
+        path: 'herams-v2-frontend'
+        ssh-key: ${{ secrets.V2_I18N_PRIVATE_KEY }}
+
     # - name: Checkout frontend
     #   run: |
     #     git clone git@github.com:HeRAMS-WHO/herams-v2-frontend.git
