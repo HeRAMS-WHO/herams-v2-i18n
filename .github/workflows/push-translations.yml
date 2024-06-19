@@ -37,7 +37,7 @@ jobs:
 
     - name: install nodejs frontend-v2
       run: |
-          sudo apt install nodejs -y
+          sudo apt install nodejs npm -y
 
     - name: npm install and scraper.js
       run: |
