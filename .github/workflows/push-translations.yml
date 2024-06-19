@@ -31,7 +31,7 @@ jobs:
     - name: clone frontend-v2
       uses: actions/checkout@v2
       with:
-        repository: 'WorldHealthOrganization/herams-v2-frontend'
+        repository: 'HeRAMS-WHO/herams-v2-frontend'
         path: 'herams-v2-frontend'
         ssh-key: ${{ secrets.V2_I18N_PRIVATE_KEY }}
 
