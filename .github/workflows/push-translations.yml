@@ -41,7 +41,7 @@ jobs:
 
     - name: npm install
       run: |
-          npm i
+          cd herams-v2-frontend && npm i
 
     - name: scraper.js 
       run: |
