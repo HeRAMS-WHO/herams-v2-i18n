@@ -11,14 +11,14 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Execute Curl POST Request
+      env:
+        EMAIL: ${{ secrets.EMAIL }}
+        PASSWORD: ${{ secrets.PASSWORD }}
+        API_URL: ${{ secrets.API_URL }}
+        API_KEY: ${{ secrets.API_KEY }}
       run: |
-        API_URL="http://heramsv2-backend.test/api/"
-        API_KEY="179|KPPgEMqoQTOL5lLHcns5VPfIRDcZRUWHVBvEpNdZ9ec9604a"
         curl --request POST \
-          --url https://dev-v2.herams-stg.org/api/authentication/login \
-          --header 'Accept: application/json' \
-          --header 'Content-Type: application/json' \
-          --data '{
-            "email":"casisc@who.int",
-            "password":"g_UGNJY6Z+/Ft8z%nm'k=d"
-          }'
+        --url $API_URL \
+        --header "Accept: application/json" \
+        --header "Content-Type: application/json" \
+        --data "$(jq -n --arg email "$EMAIL" --arg password "$PASSWORD" '{email: $email, password: $password}')"
