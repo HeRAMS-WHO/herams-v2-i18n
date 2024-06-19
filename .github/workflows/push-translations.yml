@@ -37,7 +37,7 @@ jobs:
 
     - name: install nodejs frontend-v2
       run: |
-          apt install nodejs -y
+          sudo apt install nodejs -y
 
     - name: npm install
       run: |
