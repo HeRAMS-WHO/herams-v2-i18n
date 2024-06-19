@@ -35,6 +35,9 @@ jobs:
         path: 'herams-v2-frontend'
         ssh-key: ${{ secrets.V2_I18N_PRIVATE_KEY }}
 
+    - name: test frontend-v2
+      run: ls -la && cd herams-v2-frontend
+
     # - name: Checkout frontend
     #   run: |
     #     git clone git@github.com:HeRAMS-WHO/herams-v2-frontend.git
