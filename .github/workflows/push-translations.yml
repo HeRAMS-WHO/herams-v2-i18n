@@ -45,4 +45,4 @@ jobs:
 
     - name: scraper.js 
       run: |
-          node scraper.js
+          cd herams-v2-frontend && node scraper.js
