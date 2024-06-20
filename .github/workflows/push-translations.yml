@@ -41,5 +41,5 @@ jobs:
 
     - name:  scraper.js
       run: |
-          cd herams-v2-frontend && ls -la
+          cd herams-v2-frontend && git checkout -m development &&  ls -la
           node scraper.js
