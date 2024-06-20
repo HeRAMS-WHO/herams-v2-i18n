@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2024-06-20 10:28+0000\n"
+"PO-Revision-Date: 2024-06-25 11:55+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
@@ -51,4 +51,664 @@ msgid "button.login"
 msgstr ""
 
 msgid "pageTitle.login"
+msgstr ""
+
+msgid "confirm.deleteProject"
+msgstr ""
+
+msgid "error.noMatchingUsers"
+msgstr ""
+
+msgid "error.passwordRequired"
+msgstr ""
+
+msgid "error.projectLanguageEnglish"
+msgstr ""
+
+msgid "error.noMatchingRoles"
+msgstr ""
+
+msgid "warning.emptyProject"
+msgstr ""
+
+msgid "error.projectDiffSurvey"
+msgstr ""
+
+msgid "error.projectSelectSitSurvey"
+msgstr ""
+
+msgid "error.projectLatitudeZero"
+msgstr ""
+
+msgid "error.projectSelectAdminSurvey"
+msgstr ""
+
+msgid "label.createdDate"
+msgstr ""
+
+msgid "error.roleSelectName"
+msgstr ""
+
+msgid "error.roleSelectScope"
+msgstr ""
+
+msgid "error.roleSelectType"
+msgstr ""
+
+msgid "error.roleSelectProject"
+msgstr ""
+
+msgid "error.selectRoles"
+msgstr ""
+
+msgid "error.selectWss"
+msgstr ""
+
+msgid "error.selectUsers"
+msgstr ""
+
+msgid "label.dashURL"
+msgstr ""
+
+msgid "label.contributors"
+msgstr ""
+
+msgid "label.createdBy"
+msgstr ""
+
+msgid "label.createUserRole"
+msgstr ""
+
+msgid "label.deletingHsdu"
+msgstr ""
+
+msgid "label.emptyingProject"
+msgstr ""
+
+msgid "label.emptyProject"
+msgstr ""
+
+msgid "label.language"
+msgstr ""
+
+msgid "label.globalRoles"
+msgstr ""
+
+msgid "label.lastUpdatedBy"
+msgstr ""
+
+msgid "label.roleScopeProject"
+msgstr ""
+
+msgid "label.projectSitSurvey"
+msgstr ""
+
+msgid "label.projects"
+msgstr ""
+
+msgid "label.noSitUpdates"
+msgstr ""
+
+msgid "label.projectVisibility"
+msgstr ""
+
+msgid "label.requestDenied"
+msgstr ""
+
+msgid "label.requestGranted"
+msgstr ""
+
+msgid "label.requester"
+msgstr ""
+
+msgid "label.requestInvalid"
+msgstr ""
+
+msgid "label.requestGrantedRoles"
+msgstr ""
+
+msgid "label.requestResponse"
+msgstr ""
+
+msgid "label.requestSubject"
+msgstr ""
+
+msgid "label.roleName"
+msgstr ""
+
+msgid "label.rolePermissions"
+msgstr ""
+
+msgid "label.roles"
+msgstr ""
+
+msgid "label.roleType"
+msgstr ""
+
+msgid "label.roleTypeCustom"
+msgstr ""
+
+msgid "label.userName"
+msgstr ""
+
+msgid "label.users"
+msgstr ""
+
+msgid "label.wsName"
+msgstr ""
+
+msgid "menu.logout"
+msgstr ""
+
+msgid "message.requestDenied"
+msgstr ""
+
+msgid "message.requestSubject"
+msgstr ""
+
+msgid "message.requestGranted"
+msgstr ""
+
+msgid "message.requestedGranted"
+msgstr ""
+
+msgid "pageTitle.createRole"
+msgstr ""
+
+msgid "pageTitle.createWs"
+msgstr ""
+
+msgid "pageTitle.dashPageName"
+msgstr ""
+
+msgid "pageTitle.material"
+msgstr ""
+
+msgid "pageTitle.editAdminUpdate"
+msgstr ""
+
+msgid "pageTitle.hsduName"
+msgstr ""
+
+msgid "pageTitle.newAdminUpdate"
+msgstr ""
+
+msgid "pageTitle.newSitUpdate"
+msgstr ""
+
+msgid "pageTitle.notifications"
+msgstr ""
+
+msgid "pageTitle.projectName"
+msgstr ""
+
+msgid "pageTitle.userName"
+msgstr ""
+
+msgid "pageTitle.userProfile"
+msgstr ""
+
+msgid "pageTitle.viewAdminUpdate"
+msgstr ""
+
+msgid "pageTitle.viewSitUpdate"
+msgstr ""
+
+msgid "tab.globalUsers"
+msgstr ""
+
+msgid "tableHeader.createdDate"
+msgstr ""
+
+msgid "placeholder.selectUsers"
+msgstr ""
+
+msgid "tab.adminUpdates"
+msgstr ""
+
+msgid "tab.deleteHsdu"
+msgstr ""
+
+msgid "tab.dashSettings"
+msgstr ""
+
+msgid "tab.roles"
+msgstr ""
+
+msgid "tab.wsSettings"
+msgstr ""
+
+msgid "tableHeader.contributors"
+msgstr ""
+
+msgid "tableHeader.createdBy"
+msgstr ""
+
+msgid "tableHeader.dateOfUpdate"
+msgstr ""
+
+msgid "tableHeader.hsduType"
+msgstr ""
+
+msgid "tableHeader.hsduAcc"
+msgstr ""
+
+msgid "tableHeader.hsduStatus"
+msgstr ""
+
+msgid "tableHeader.hsduCode"
+msgstr ""
+
+msgid "tableHeader.id"
+msgstr ""
+
+msgid "tableHeader.projectCoordinator"
+msgstr ""
+
+msgid "tableHeader.projectName"
+msgstr ""
+
+msgid "tableHeader.requesterName"
+msgstr ""
+
+msgid "tableHeader.requestRespondedBy"
+msgstr ""
+
+msgid "tableHeader.surveyName"
+msgstr ""
+
+msgid "placeholder.users"
+msgstr ""
+
+msgid "tab.projectSettings"
+msgstr ""
+
+msgid "tooltip.deleteProject"
+msgstr ""
+
+msgid "confirm.deleteUserRole"
+msgstr ""
+
+msgid "confirm.emptyProject"
+msgstr ""
+
+msgid "error.invalidEmail"
+msgstr ""
+
+msgid "error.emailRequired"
+msgstr ""
+
+msgid "error.noMatchingWss"
+msgstr ""
+
+msgid "error.mandatoryFields"
+msgstr ""
+
+msgid "label.country"
+msgstr ""
+
+msgid "tableHeader.hsdus"
+msgstr ""
+
+msgid "tooltip.emptyProject"
+msgstr ""
+
+msgid "tab.notifications"
+msgstr ""
+
+msgid "pageTitle.editRole"
+msgstr ""
+
+msgid "pageTitle.viewRole"
+msgstr ""
+
+msgid "label.password"
+msgstr ""
+
+msgid "placeholder.roles"
+msgstr ""
+
+msgid "tooltip.dashURL"
+msgstr ""
+
+msgid "tab.material"
+msgstr ""
+
+msgid "tab.userProfile"
+msgstr ""
+
+msgid "tableHeader.userName"
+msgstr ""
+
+msgid "tableHeader.hsduName"
+msgstr ""
+
+msgid "tab.projectUsers"
+msgstr ""
+
+msgid "tableHeader.requestResponse"
+msgstr ""
+
+msgid "tab.wsExport"
+msgstr ""
+
+msgid "warning.deleteHsdu"
+msgstr ""
+
+msgid "label.newsleter"
+msgstr ""
+
+msgid "pageTitle.createProject"
+msgstr ""
+
+msgid "warning.deleteProject"
+msgstr ""
+
+msgid "label.deleteProject"
+msgstr ""
+
+msgid "tab.workspaces"
+msgstr ""
+
+msgid "tableHeader.workspaces"
+msgstr ""
+
+msgid "tableHeader.roleName"
+msgstr ""
+
+msgid "tab.projects"
+msgstr ""
+
+msgid "pageTitle.respondRequest"
+msgstr ""
+
+msgid "tab.projectExport"
+msgstr ""
+
+msgid "tab.sitUpdates"
+msgstr ""
+
+msgid "tableHeader.lastUpdatedBy"
+msgstr ""
+
+msgid "label.editAdminUpdate"
+msgstr ""
+
+msgid "label.requestResponseDate"
+msgstr ""
+
+msgid "tab.wsUsers"
+msgstr ""
+
+msgid "pageTitle.wsName"
+msgstr ""
+
+msgid "tableHeader.wsName"
+msgstr ""
+
+msgid "label.roleScopeGlobal"
+msgstr ""
+
+msgid "tab.projectImport"
+msgstr ""
+
+msgid "pageTitle.dashboard"
+msgstr ""
+
+msgid "pageTitle.createSurvey"
+msgstr ""
+
+msgid "tab.hsdus"
+msgstr ""
+
+msgid "tableHeader.actions"
+msgstr ""
+
+msgid "tableHeader.hsduFunc"
+msgstr ""
+
+msgid "label.hsdus"
+msgstr ""
+
+msgid "tableHeader.userEmail"
+msgstr ""
+
+msgid "tableHeader.roleType"
+msgstr ""
+
+msgid "label.editSitUpdate"
+msgstr ""
+
+msgid "label.countryUnspecified"
+msgstr ""
+
+msgid "label.requestedDate"
+msgstr ""
+
+msgid "pageTitle.accessRequest"
+msgstr ""
+
+msgid "label.roleTypeStandard"
+msgstr ""
+
+msgid "tab.surveys"
+msgstr ""
+
+msgid "label.viewAdminUpdate"
+msgstr ""
+
+msgid "label.projectAdminSurvey"
+msgstr ""
+
+msgid "tableHeader.requesterEmail"
+msgstr ""
+
+msgid "tooltip.emptyWs"
+msgstr ""
+
+msgid "tableHeader.hsduTier"
+msgstr ""
+
+msgid "label.roleTargetWs"
+msgstr ""
+
+msgid "label.latitude"
+msgstr ""
+
+msgid "label.requestResponseJustification"
+msgstr ""
+
+msgid "pageTitle.updateSurvey"
+msgstr ""
+
+msgid "button.requestAll"
+msgstr ""
+
+msgid "button.createProject"
+msgstr ""
+
+msgid "button.deleteUser"
+msgstr ""
+
+msgid "button.createWs"
+msgstr ""
+
+msgid "button.createRole"
+msgstr ""
+
+msgid "button.createSurvey"
+msgstr ""
+
+msgid "button.createSitUpdate"
+msgstr ""
+
+msgid "button.dashboard"
+msgstr ""
+
+msgid "button.delete"
+msgstr ""
+
+msgid "button.deleteHsdu"
+msgstr ""
+
+msgid "button.deleteProject"
+msgstr ""
+
+msgid "button.deleteRole"
+msgstr ""
+
+msgid "button.deleteUserRole"
+msgstr ""
+
+msgid "button.requestAccess"
+msgstr ""
+
+msgid "button.impersonate"
+msgstr ""
+
+msgid "button.emptyWs"
+msgstr ""
+
+msgid "button.respondRequest"
+msgstr ""
+
+msgid "button.requestNotResponded"
+msgstr ""
+
+msgid "button.return"
+msgstr ""
+
+msgid "button.workspaces"
+msgstr ""
+
+msgid "button.viewRequest"
+msgstr ""
+
+msgid "button.send"
+msgstr ""
+
+msgid "button.viewSitUpdate"
+msgstr ""
+
+msgid "label.longitude"
+msgstr ""
+
+msgid "pageTitle.createDashPage"
+msgstr ""
+
+msgid "pageTitle.wsRequestAccess"
+msgstr ""
+
+msgid "label.roleProject"
+msgstr ""
+
+msgid "label.deleteAdminUpdate"
+msgstr ""
+
+msgid "label.wss"
+msgstr ""
+
+msgid "label.roleScope"
+msgstr ""
+
+msgid "label.loading"
+msgstr ""
+
+msgid "tableHeader.wsOwner"
+msgstr ""
+
+msgid "error.projectSelectCountry"
+msgstr ""
+
+msgid "label.emptyWs"
+msgstr ""
+
+msgid "tooltip.deleteHsdu"
+msgstr ""
+
+msgid "pageTitle.updateRole"
+msgstr ""
+
+msgid "label.requestResponseMsg"
+msgstr ""
+
+msgid "placeholder.dropdownSelect"
+msgstr ""
+
+msgid "button.deleteSitUpdate"
+msgstr ""
+
+msgid "confirm.deleteHsdu"
+msgstr ""
+
+msgid "label.ws"
+msgstr ""
+
+msgid "label.deletingProject"
+msgstr ""
+
+msgid "label.userEmail"
+msgstr ""
+
+msgid "button.save"
+msgstr ""
+
+msgid "tableHeader.requestedDate"
+msgstr ""
+
+msgid "label.resetGrid"
+msgstr ""
+
+msgid "placeholder.wss"
+msgstr ""
+
+msgid "tableHeader.requestResponseDate"
+msgstr ""
+
+msgid "button.emptyProject"
+msgstr ""
+
+msgid "tableHeader.responses"
+msgstr ""
+
+msgid "pageTitle.userSpace"
+msgstr ""
+
+msgid "pageTitle.administration"
+msgstr ""
+
+msgid "label.roleScopeWs"
+msgstr ""
+
+msgid "label.requestResponseBy"
+msgstr ""
+
+msgid "label.requestJustification"
+msgstr ""
+
+msgid "pageTitle.forbidden"
+msgstr ""
+
+msgid "tab.accessRequests"
+msgstr ""
+
+msgid "pageTitle.homepage"
+msgstr ""
+
+msgid "placeholder.password"
+msgstr ""
+
+msgid "tableHeader.roleScope"
+msgstr ""
+
+msgid "button.ok"
+msgstr ""
+
+msgid "label.lastUpdatedDate"
+msgstr ""
+
+msgid "label.roleTargetProject"
+msgstr ""
+
+msgid "pageTitle.createHsdu"
 msgstr ""
