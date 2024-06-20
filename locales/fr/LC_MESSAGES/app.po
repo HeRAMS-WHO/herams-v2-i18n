@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2024-06-26 11:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-09-02 11:47+0000\n"
+"Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.6-rc\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 msgid "projectLanguage"
 msgstr "Langue du projet"
@@ -828,4 +828,37 @@ msgid "icon.deleteUser"
 msgstr ""
 
 msgid "icon.deleteUserRole"
+msgstr ""
+
+msgid "warning.titleRemoveProjectLanguage"
+msgstr ""
+
+msgid "label.exportTextHeader"
+msgstr ""
+
+msgid "label.exportHistory"
+msgstr ""
+
+msgid "label.exportSendEmail"
+msgstr ""
+
+msgid "label.exportAsOf"
+msgstr ""
+
+msgid "button.exportCsv"
+msgstr ""
+
+msgid "label.exportCodeHeader"
+msgstr ""
+
+msgid "label.exportDate"
+msgstr ""
+
+msgid "label.exportAnswersText"
+msgstr ""
+
+msgid "button.gridExport"
+msgstr ""
+
+msgid "warning.removeProjectLanguage"
 msgstr ""
