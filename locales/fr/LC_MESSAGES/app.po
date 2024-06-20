@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2024-09-02 11:47+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-09-04 08:25+0000\n"
+"Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
 "Language: fr\n"
@@ -861,4 +861,34 @@ msgid "button.gridExport"
 msgstr ""
 
 msgid "warning.removeProjectLanguage"
+msgstr ""
+
+msgid "button.close"
+msgstr ""
+
+msgid "tableHeader.auditOldValue"
+msgstr ""
+
+msgid "label.hsdu"
+msgstr ""
+
+msgid "message.exportSubmited"
+msgstr ""
+
+msgid "label.auditDeleted"
+msgstr ""
+
+msgid "label.auditCreated"
+msgstr ""
+
+msgid "label.auditHistory"
+msgstr ""
+
+msgid "tableHeader.auditNewValue"
+msgstr ""
+
+msgid "label.auditUpdated"
+msgstr ""
+
+msgid "tableHeader.auditFieldName"
 msgstr ""
