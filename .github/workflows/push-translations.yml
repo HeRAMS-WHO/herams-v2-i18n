@@ -34,6 +34,7 @@ jobs:
         repository: 'HeRAMS-WHO/herams-v2-frontend'
         path: 'herams-v2-frontend'
         ssh-key: ${{ secrets.V2_I18N_PRIVATE_KEY }}
+        ref: development
 
     - name: install nodejs frontend-v2
       run: |
@@ -41,5 +42,5 @@ jobs:
 
     - name:  scraper.js
       run: |
-          cd herams-v2-frontend && git checkout -m development &&  ls -la
+          cd herams-v2-frontend &&  ls -la
           node scraper.js
