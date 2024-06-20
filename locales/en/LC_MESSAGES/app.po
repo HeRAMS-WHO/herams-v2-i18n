@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-06-20 10:25+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-06-20 10:28+0000\n"
+"Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
 "Language: en\n"
@@ -39,3 +39,28 @@ msgstr "Language"
 
 msgid "tabheader.projectLanguage"
 msgstr "Lang"
+
+msgid "label.heramsDescription"
+msgstr ""
+"The Health Resources and Services Availability Monitoring System (HeRAMS) is "
+"a collaborative approach aimed at ensuring that core information on "
+"essential health resources and services is systematically shared and readily "
+"available to decision makers at country, regional and global levels"
+
+msgid "label.loginEmail"
+msgstr "Email"
+
+msgid "label.userLastLogin"
+msgstr "Last login"
+
+msgid "pageTitle.login"
+msgstr "Login"
+
+msgid "placeholder.loginEmail"
+msgstr "email"
+
+msgid "tableHeader.userLastLogin"
+msgstr "Last login"
+
+msgid "button.login"
+msgstr "Login"
