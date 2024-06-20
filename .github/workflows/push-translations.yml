@@ -7,7 +7,7 @@ on:
     workflow_dispatch:  # Enable manual triggering
 
 jobs:
-  curl-job:
+  translations-job:
     runs-on: ubuntu-latest
     
     steps:
@@ -44,3 +44,4 @@ jobs:
       run: |
           cd herams-v2-frontend && npm i &&  ls -la
           node scraper.js
+          export
