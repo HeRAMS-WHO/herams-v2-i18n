@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2024-09-23 08:45+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-12-05 10:01+0000\n"
+"Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 msgid "projectLanguage"
 msgstr "Langue du projet"
@@ -897,4 +897,217 @@ msgid "label.history"
 msgstr ""
 
 msgid "label.projectLanguages"
+msgstr ""
+
+msgid "label.userDateFormat"
+msgstr ""
+
+msgid "label.userLanguage"
+msgstr ""
+
+msgid "button.exportDash"
+msgstr ""
+
+msgid "label.dashPage"
+msgstr ""
+
+msgid "chartPage.svlOverview"
+msgstr ""
+
+msgid "chartPage.stiOverview"
+msgstr ""
+
+msgid "button.createDashPage"
+msgstr ""
+
+msgid "chartPage.commOverview"
+msgstr ""
+
+msgid "button.deleteDash"
+msgstr ""
+
+msgid "chartPage.overview"
+msgstr ""
+
+msgid "chartPage.power"
+msgstr ""
+
+msgid "chartPage.services"
+msgstr ""
+
+msgid "confirm.deleteDashboard"
+msgstr ""
+
+msgid "label.dashPageCode"
+msgstr ""
+
+msgid "error.invalidJson"
+msgstr ""
+
+msgid "label.dateFormatYMD"
+msgstr ""
+
+msgid "label.emptyDashboard"
+msgstr ""
+
+msgid "chartPage.ncdOverview"
+msgstr ""
+
+msgid "chartPage.ncdServices"
+msgstr ""
+
+msgid "chartPage.stiServices"
+msgstr ""
+
+msgid "chartPage.gcs"
+msgstr ""
+
+msgid "chartPage.functionality"
+msgstr ""
+
+msgid "chartPage.svl"
+msgstr ""
+
+msgid "chartPage.commServices"
+msgstr ""
+
+msgid "button.importDashPages"
+msgstr ""
+
+msgid "chartPage.gcsService"
+msgstr ""
+
+msgid "chartPage.gcsOverview"
+msgstr ""
+
+msgid "chartPage.mnh"
+msgstr ""
+
+msgid "chartPage.ncd"
+msgstr ""
+
+msgid "chartPage.water"
+msgstr ""
+
+msgid "label.dashDisclaimer"
+msgstr ""
+
+msgid "label.userTimezone"
+msgstr ""
+
+msgid "tableHeader.hsduAdmin1"
+msgstr ""
+
+msgid "chartPage.svlServices"
+msgstr ""
+
+msgid "tableHeader.lastUpdatedDate"
+msgstr ""
+
+msgid "icon.viewSitUpdateHistory"
+msgstr ""
+
+msgid "button.exportDashPages"
+msgstr ""
+
+msgid "label.dashStructure"
+msgstr ""
+
+msgid "label.deleteHsdu"
+msgstr ""
+
+msgid "tableHeader.dashPageCode"
+msgstr ""
+
+msgid "button.goToProject"
+msgstr ""
+
+msgid "chartPage.comms"
+msgstr ""
+
+msgid "tableHeader.hsduBuildCond"
+msgstr ""
+
+msgid "chartPage.mnhServices"
+msgstr ""
+
+msgid "label.dashPages"
+msgstr ""
+
+msgid "tableHeader.hsduLocation"
+msgstr ""
+
+msgid "label.dateFormatMDY"
+msgstr ""
+
+msgid "label.dateFormatDMY"
+msgstr ""
+
+msgid "button.importDash"
+msgstr ""
+
+msgid "tableHeader.dashPageElements"
+msgstr ""
+
+msgid "chartPage.waste"
+msgstr ""
+
+msgid "tableHeader.hsduEquipCond"
+msgstr ""
+
+msgid "chartPage.servicesOverview"
+msgstr ""
+
+msgid "button.print"
+msgstr ""
+
+msgid "tableHeader.createSitUpdate"
+msgstr ""
+
+msgid "label.excludeHsdusNonFunc"
+msgstr ""
+
+msgid "label.excludeHsdusIncomp"
+msgstr ""
+
+msgid "icon.viewAdminUpdateHistory"
+msgstr ""
+
+msgid "label.noFilters"
+msgstr ""
+
+msgid "label.copiedLink"
+msgstr ""
+
+msgid "error.invalidFiles"
+msgstr ""
+
+msgid "chartPage.buildAndEquip"
+msgstr ""
+
+msgid "chartPage.basicAmenities"
+msgstr ""
+
+msgid "chartPage.accessibility"
+msgstr ""
+
+msgid "chartPage.cold"
+msgstr ""
+
+msgid "chartPage.comm"
+msgstr ""
+
+msgid "chartPage.healthInf"
+msgstr ""
+
+msgid "chartPage.mgmntAndSupp"
+msgstr ""
+
+msgid "chartPage.mnhOverview"
+msgstr ""
+
+msgid "chartPage.sanitation"
+msgstr ""
+
+msgid "chartPage.sti"
 msgstr ""
