@@ -45,3 +45,5 @@ jobs:
           cd herams-v2-frontend && npm i &&  ls -la
           node scraper.js
           export
+          echo  "API_URL=http://dev-v2back.herams-stg.org/api" > .env
+          echo "API_KEY=179|KPPgEMqoQTOL5lLHcns5VPfIRDcZRUWHVBvEpNdZ9ec9604a" >> .env
