@@ -43,7 +43,7 @@ jobs:
     - name: npm install & scraper.js
       run: |
           cd herams-v2-frontend && npm i &&  ls -la
-          echo  "API_URL=http://dev-v2back.herams-stg.org/api" > .env
+          echo "API_URL=http://dev-v2back.herams-stg.org/api/" > .env
           echo "API_KEY=179|KPPgEMqoQTOL5lLHcns5VPfIRDcZRUWHVBvEpNdZ9ec9604a" >> .env
           node scraper.js
           export
