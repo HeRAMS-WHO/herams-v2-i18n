@@ -37,9 +37,8 @@ jobs:
 
     - name: install nodejs frontend-v2
       run: |
-          sudo apt install nodejs npm -y
+          sudo apt install nodejs -y
 
-    - name: npm install and scraper.js
+    - name:  scraper.js
       run: |
-          cd herams-v2-frontend && npm i
-          node scraper.js
+          cd herams-v2-frontend && node scraper.js
