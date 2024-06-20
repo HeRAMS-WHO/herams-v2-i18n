@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-06-20 12:57+0000\n"
+"PO-Revision-Date: 2024-06-21 13:09+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -14,14 +14,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.6-rc\n"
 
-#, fuzzy
 msgid "label.projectName"
-msgstr "Project name (label)"
+msgstr "Project name"
 
 msgid "tabheader.projectName"
 msgstr "Project name (tab)"
 
-#, fuzzy
 msgid "label.projectLanguage"
 msgstr "Language"
 
@@ -63,6 +61,669 @@ msgid "button.createHsdu"
 msgstr "Register HSDU"
 
 msgid "tooltip.dashURL"
+msgstr "Leave this URL empty to use the standard project dashboard"
+
+msgid "button.createProject"
+msgstr "Create project"
+
+msgid "button.createRole"
+msgstr "Create role"
+
+msgid "button.createSitUpdate"
+msgstr "Update situation"
+
+msgid "button.createSurvey"
+msgstr "Create survey"
+
+msgid "button.createWs"
+msgstr "Create workspace"
+
+msgid "button.dashboard"
+msgstr "Dashboards"
+
+msgid "button.delete"
+msgstr "Delete"
+
+msgid "button.deleteHsdu"
+msgstr "Delete HSDU"
+
+msgid "button.deleteProject"
+msgstr "Delete project"
+
+msgid "button.deleteRole"
+msgstr "Delete role"
+
+msgid "button.deleteSitUpdate"
+msgstr "Delete"
+
+msgid "button.deleteUser"
+msgstr "Delete"
+
+msgid "button.deleteUserRole"
+msgstr "Delete"
+
+msgid "button.emptyWs"
+msgstr "Delete workspace"
+
+msgid "button.impersonate"
+msgstr "Impersonate"
+
+msgid "button.ok"
+msgstr "Ok"
+
+msgid "button.requestAccess"
+msgstr "Request access"
+
+msgid "button.requestAll"
+msgstr "All requests"
+
+msgid "button.requestNotResponded"
+msgstr "Pending requests"
+
+msgid "button.respondRequest"
+msgstr "Respond"
+
+msgid "button.return"
+msgstr "Return"
+
+msgid "button.viewRequest"
+msgstr "View"
+
+msgid "button.viewSitUpdate"
+msgstr "View"
+
+msgid "button.workspaces"
+msgstr "Workspaces"
+
+msgid "confirm.deleteHsdu"
+msgstr "Delete HSDU"
+
+msgid "confirm.deleteProject"
+msgstr "Do you want to delete this project ?"
+
+msgid "confirm.deleteUserRole"
+msgstr "Do you want to remove this role ?"
+
+msgid "error.emailRequired"
+msgstr "Email is required"
+
+msgid "error.invalidEmail"
+msgstr "Invalid email"
+
+msgid "error.mandatoryFields"
+msgstr "Required field"
+
+msgid "error.noMatchingRoles"
+msgstr "No roles matched your search"
+
+msgid "error.noMatchingUsers"
+msgstr "No users matched your search"
+
+msgid "error.noMatchingWss"
+msgstr "No workspaces matched your search"
+
+msgid "error.passwordRequired"
+msgstr "Password is required"
+
+msgid "error.projectDiffSurvey"
+msgstr "HSDU survey and Situation survey must be different"
+
+msgid "error.projectLanguageEnglish"
+msgstr "Project name in English is required"
+
+msgid "error.projectLatitudeZero"
+msgstr "Both latitude and longitude cannot be zero"
+
+msgid "error.projectSelectAdminSurvey"
+msgstr "Please select a HSDU survey"
+
+msgid "error.projectSelectCountry"
+msgstr "Please select a country"
+
+msgid "error.roleSelectName"
+msgstr "Role name is required"
+
+msgid "error.roleSelectProject"
+msgstr "A project is required for this role"
+
+msgid "error.roleSelectScope"
+msgstr "Role scope is required"
+
+msgid "error.roleSelectType"
+msgstr "Role type is required"
+
+msgid "error.selectRoles"
+msgstr "At least one role is required"
+
+msgid "error.selectUsers"
+msgstr "At least one user is required"
+
+msgid "error.selectWss"
+msgstr "At least one workspace is required"
+
+msgid "label.contributors"
+msgstr "Contributors"
+
+msgid "label.country"
+msgstr "Country"
+
+msgid "label.countryUnspecified"
+msgstr "Unspecified / Training"
+
+msgid "label.createdDate"
+msgstr "Created date"
+
+msgid "label.createUserRole"
+msgstr "Add users"
+
+msgid "label.dashURL"
+msgstr "Dashboard URL"
+
+msgid "label.deleteAdminUpdate"
+msgstr "Delete"
+
+msgid "label.deleteProject"
+msgstr "Delete project"
+
+msgid "label.deletingHsdu"
+msgstr "Deleting HSDU ..."
+
+msgid "label.deletingProject"
+msgstr "Deleting project ..."
+
+msgid "label.editAdminUpdate"
+msgstr "Edit"
+
+msgid "label.editSitUpdate"
+msgstr "Edit"
+
+msgid "label.emptyingProject"
+msgstr "Deleting all workspaces ..."
+
+msgid "label.emptyWs"
+msgstr "Delete workspace"
+
+msgid "label.globalRoles"
+msgstr "Roles"
+
+msgid "label.hsdus"
+msgstr "HSDUs"
+
+msgid "label.language"
+msgstr "Language"
+
+msgid "label.lastUpdatedBy"
+msgstr "Last updated by"
+
+msgid "label.lastUpdatedDate"
+msgstr "Last updated date"
+
+msgid "label.latitude"
+msgstr "Latitude"
+
+msgid "label.loading"
+msgstr "Loading ..."
+
+msgid "label.longitude"
+msgstr "Longitude"
+
+msgid "label.newsleter"
+msgstr "Subscribe to newsletter"
+
+msgid "label.noSitUpdates"
+msgstr "No updates expected"
+
+msgid "label.projectAdminSurvey"
+msgstr "HSDU Survey"
+
+msgid "label.projects"
+msgstr "Projects"
+
+msgid "label.projectSitSurvey"
+msgstr "Situation survey"
+
+msgid "label.projectVisibility"
+msgstr "Visibility"
+
+msgid "label.requestDenied"
+msgstr "Denied"
+
+msgid "label.requestedDate"
+msgstr "Requested date"
+
+msgid "label.requester"
+msgstr "Requester"
+
+msgid "label.requestGranted"
+msgstr "Granted"
+
+msgid "label.requestGrantedRoles"
+msgstr "Granted roles"
+
+msgid "label.requestInvalid"
+msgstr "Invalid request"
+
+msgid "label.requestResponse"
+msgstr "Response"
+
+msgid "label.requestResponseBy"
+msgstr "Response by"
+
+msgid "label.requestResponseDate"
+msgstr "Response date"
+
+msgid "label.requestResponseJustification"
+msgstr "Justification (private)"
+
+msgid "label.requestResponseMsg"
+msgstr "Message to user"
+
+msgid "label.requestSubject"
+msgstr "Subject"
+
+msgid "label.roleName"
+msgstr "Role name"
+
+msgid "label.rolePermissions"
+msgstr "Permissions"
+
+msgid "label.roleScope"
+msgstr "Scope"
+
+msgid "label.roleScopeGlobal"
+msgstr "Global role"
+
+msgid "label.roleScopeProject"
+msgstr "Project"
+
+msgid "label.roleScopeWs"
+msgstr "Workspace"
+
+msgid "label.roleTargetProject"
+msgstr "to project"
+
+msgid "label.roleTargetWs"
+msgstr "to workspace"
+
+msgid "label.roleType"
+msgstr "Type"
+
+msgid "label.roleTypeCustom"
+msgstr "Custom (for one project only)"
+
+msgid "label.userEmail"
+msgstr "User email"
+
+msgid "label.userName"
+msgstr "User name"
+
+msgid "label.users"
+msgstr "Users"
+
+msgid "label.ws"
+msgstr "Workspace"
+
+msgid "label.wsName"
+msgstr "Workspace name"
+
+msgid "label.wss"
+msgstr "Workspaces"
+
+msgid "menu.logout"
+msgstr "Logout"
+
+msgid "message.requestSubject"
+msgstr "Subject"
+
+msgid "message.requestGranted"
 msgstr ""
-"Text with line breaks\n"
-"this is the second line"
+"Dear :requesterName,\n"
+"Your access request to workspace :workspaceName has been accepted"
+
+msgid "message.requestDenied"
+msgstr ""
+"Dear :requesterName,\n"
+"Your access request to workspace :workspaceName has been denied "
+
+msgid "pageTitle.accessRequest"
+msgstr "Access requests"
+
+msgid "pageTitle.administration"
+msgstr "Administration"
+
+msgid "pageTitle.createDashPage"
+msgstr "Create page"
+
+msgid "pageTitle.createHsdu"
+msgstr "Create HSDU"
+
+msgid "pageTitle.createProject"
+msgstr "Create project"
+
+msgid "pageTitle.createRole"
+msgstr "Create role"
+
+msgid "pageTitle.createSurvey"
+msgstr "Create survey"
+
+msgid "pageTitle.createWs"
+msgstr "Create workspace"
+
+msgid "pageTitle.dashboard"
+msgstr "Dashboard"
+
+msgid "pageTitle.editAdminUpdate"
+msgstr "Edit"
+
+msgid "pageTitle.forbidden"
+msgstr "Forbidden page"
+
+msgid "pageTitle.homepage"
+msgstr "Homepage"
+
+msgid "pageTitle.hsduName"
+msgstr ":hsduName"
+
+msgid "pageTitle.material"
+msgstr "Material demo"
+
+msgid "pageTitle.newAdminUpdate"
+msgstr "Update HSDU"
+
+msgid "pageTitle.newSitUpdate"
+msgstr "Update situation"
+
+msgid "pageTitle.projectName"
+msgstr ":projectName"
+
+msgid "pageTitle.respondRequest"
+msgstr "Respond to access request"
+
+msgid "pageTitle.updateRole"
+msgstr "Update role"
+
+msgid "pageTitle.updateSurvey"
+msgstr "Update survey"
+
+msgid "pageTitle.userName"
+msgstr ":userName"
+
+msgid "pageTitle.userProfile"
+msgstr "Profile"
+
+msgid "pageTitle.userSpace"
+msgstr "User space"
+
+msgid "pageTitle.viewAdminUpdate"
+msgstr "HSDU update"
+
+msgid "pageTitle.viewSitUpdate"
+msgstr "Situation update"
+
+msgid "pageTitle.wsName"
+msgstr ":workspaceName"
+
+msgid "pageTitle.wsRequestAccess"
+msgstr "Request access to workspace"
+
+msgid "placeholder.dropdownSelect"
+msgstr "Please select a value ..."
+
+msgid "placeholder.selectUsers"
+msgstr ""
+
+msgid "placeholder.users"
+msgstr "Start typing to select a user ..."
+
+msgid "placeholder.wss"
+msgstr "Start typing to select a workspace ..."
+
+msgid "tab.adminUpdates"
+msgstr "HSDU updates"
+
+msgid "tab.dashSettings"
+msgstr "Dashboard settings"
+
+msgid "tab.deleteHsdu"
+msgstr "Delete HSDU"
+
+msgid "tab.globalUsers"
+msgstr "Users"
+
+msgid "tab.hsdus"
+msgstr "HSDUs (:hsduCount)"
+
+msgid "tab.material"
+msgstr "Material demo"
+
+msgid "tab.projectExport"
+msgstr "Export data"
+
+msgid "tab.projectUsers"
+msgstr "Users (:projectUsersCount)"
+
+msgid "tab.projectImport"
+msgstr "Import data"
+
+msgid "tab.projects"
+msgstr "Projects"
+
+msgid "tab.projectSettings"
+msgstr "Project settings"
+
+msgid "tab.sitUpdates"
+msgstr "Situation updates (:SitUpCount)"
+
+msgid "tab.surveys"
+msgstr "Surveys"
+
+msgid "tab.userProfile"
+msgstr "Profile"
+
+msgid "tab.workspaces"
+msgstr "Workspaces"
+
+msgid "tab.wsExport"
+msgstr "Export data"
+
+msgid "tab.wsSettings"
+msgstr "Workspace settings"
+
+msgid "tab.wsUsers"
+msgstr "Users (:workspaceUsersCount)"
+
+msgid "tableHeader.actions"
+msgstr "Actions"
+
+msgid "tableHeader.contributors"
+msgstr "Contributors"
+
+msgid "tableHeader.createdBy"
+msgstr "Created by"
+
+msgid "tableHeader.createdDate"
+msgstr "Created date"
+
+msgid "tableHeader.dateOfUpdate"
+msgstr "Date of Update"
+
+msgid "tableHeader.hsduCode"
+msgstr "HSDU code"
+
+msgid "tableHeader.hsduFunc"
+msgstr "Functionality"
+
+msgid "tableHeader.hsduName"
+msgstr "HSDU name"
+
+msgid "tableHeader.hsdus"
+msgstr "HSDUs"
+
+msgid "tableHeader.hsduStatus"
+msgstr "Status"
+
+msgid "tableHeader.hsduType"
+msgstr "Type"
+
+msgid "tableHeader.id"
+msgstr "Id"
+
+msgid "tableHeader.projectCoordinator"
+msgstr "Project coordinator"
+
+msgid "tableHeader.projectName"
+msgstr "Project name"
+
+msgid "tableHeader.requestedDate"
+msgstr "Requested date"
+
+msgid "tableHeader.requesterName"
+msgstr "Requester"
+
+msgid "tableHeader.requestRespondedBy"
+msgstr "Responded by"
+
+msgid "tableHeader.requestResponse"
+msgstr "Response"
+
+msgid "tableHeader.requestResponseDate"
+msgstr "Responded date"
+
+msgid "tableHeader.roleName"
+msgstr "Role name"
+
+msgid "tableHeader.responses"
+msgstr "Responses"
+
+msgid "tableHeader.roleScope"
+msgstr "Scope"
+
+msgid "tableHeader.surveyName"
+msgstr "Survey name"
+
+msgid "tableHeader.userEmail"
+msgstr "User email"
+
+msgid "tableHeader.userName"
+msgstr "User name"
+
+msgid "tableHeader.workspaces"
+msgstr "Workspaces"
+
+msgid "tableHeader.wsName"
+msgstr "Workspace name"
+
+msgid "tooltip.deleteHsdu"
+msgstr "This will permanently delete this HSDU. This action cannot be undone."
+
+msgid "tooltip.deleteProject"
+msgstr ""
+"This will permanently delete this project. This operation cannot be undone."
+
+msgid "warning.deleteHsdu"
+msgstr "Do you want to delete this HSDU ?"
+
+msgid "warning.deleteProject"
+msgstr "Do you want to delete this project ?"
+
+msgid "pageTitle.editRole"
+msgstr "Edit"
+
+msgid "pageTitle.viewRole"
+msgstr "Role"
+
+msgid "button.emptyProject"
+msgstr "Delete all workspaces"
+
+msgid "confirm.emptyProject"
+msgstr "Do you want to delete all workspaces for this project ?"
+
+msgid "label.emptyProject"
+msgstr "Delete all workspaces"
+
+msgid "label.password"
+msgstr "Password"
+
+msgid "message.requestedGranted"
+msgstr ""
+
+msgid "pageTitle.notifications"
+msgstr "Notifications"
+
+msgid "placeholder.password"
+msgstr "Password"
+
+msgid "tab.notifications"
+msgstr "Notifications"
+
+msgid "tooltip.emptyProject"
+msgstr ""
+"This will permanently delete all the workspaces in this project. This "
+"operation cannot be undone."
+
+msgid "warning.emptyProject"
+msgstr "Do you want to delete all workspaces in this project ?"
+
+msgid "label.roleProject"
+msgstr "Project"
+
+msgid "button.save"
+msgstr "Save"
+
+msgid "label.roles"
+msgstr "Roles"
+
+msgid "placeholder.roles"
+msgstr "Start typing to search a role ..."
+
+msgid "tab.roles"
+msgstr "Roles"
+
+msgid "tableHeader.lastUpdatedBy"
+msgstr "Last updated by"
+
+msgid "tableHeader.roleType"
+msgstr "Type"
+
+msgid "button.send"
+msgstr "Send"
+
+msgid "label.roleTypeStandard"
+msgstr "Standard (for all projects)"
+
+msgid "pageTitle.dashPageName"
+msgstr "Page"
+
+msgid "label.viewAdminUpdate"
+msgstr "View"
+
+msgid "tableHeader.wsOwner"
+msgstr "Workspace owner"
+
+msgid "tableHeader.hsduAcc"
+msgstr "Accessibility"
+
+msgid "error.projectSelectSitSurvey"
+msgstr "Please select a Situation survey"
+
+msgid "label.requestJustification"
+msgstr "Justification"
+
+msgid "tableHeader.hsduTier"
+msgstr "Tier"
+
+msgid "label.resetGrid"
+msgstr "Reset GRID"
+
+msgid "label.createdBy"
+msgstr "Created by"
+
+msgid "tab.accessRequests"
+msgstr "Access requests"
+
+msgid "tableHeader.requesterEmail"
+msgstr "Requester email"
+
+msgid "tooltip.emptyWs"
+msgstr ""
+"This will permanently delete this workspace. This operation cannot be undone."
