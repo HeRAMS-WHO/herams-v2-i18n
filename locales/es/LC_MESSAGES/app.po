@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-06-21 13:09+0000\n"
+"PO-Revision-Date: 2024-06-25 11:55+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -27,31 +27,719 @@ msgid "adminSurvey"
 msgstr ""
 
 msgid "label.projectName"
-msgstr ""
+msgstr "Nombre del proyecto"
 
 msgid "label.projectLanguage"
-msgstr ""
+msgstr "Idioma"
 
 msgid "button.login"
-msgstr ""
+msgstr "Conectarse"
 
 msgid "label.loginEmail"
-msgstr ""
+msgstr "E-mail"
 
 msgid "pageTitle.login"
-msgstr ""
+msgstr "Login"
 
 msgid "label.heramsDescription"
 msgstr ""
+"HeRAMS (Health Resources and Services Availability Monitoring System) es un "
+"enfoque colaborativo cuyo objetivo es asegurar que la información esencial "
+"de recursos y servicios sanitarios es sistemáticamente compartida, e "
+"immediatamente disponible a los órganos encargados de tomar decisiones en "
+"países, regiones y a nivel global"
 
 msgid "placeholder.loginEmail"
-msgstr ""
+msgstr "E-mail"
 
 msgid "tableHeader.userLastLogin"
-msgstr ""
+msgstr "Último login"
 
 msgid "label.userLastLogin"
-msgstr ""
+msgstr "Último login"
 
 msgid "button.cancel"
 msgstr "Cancelar"
+
+msgid "confirm.deleteProject"
+msgstr "¿ Está seguro de querer eliminar este proyecto ?"
+
+msgid "error.noMatchingWss"
+msgstr "Ningún espacio de trabajo coincide con su búsqueda"
+
+msgid "error.emailRequired"
+msgstr "El e-mail es obligatorio"
+
+msgid "error.invalidEmail"
+msgstr "E-mail inválido"
+
+msgid "confirm.emptyProject"
+msgstr ""
+"¿ Está seguro de querer eliminar todos los espacios de trabajo de este "
+"proyecto ?"
+
+msgid "error.projectDiffSurvey"
+msgstr "Las encuestas de HSDU y Situación deben ser diferentes"
+
+msgid "error.projectLatitudeZero"
+msgstr "Latitud o longitud deben ser diferentes de cero"
+
+msgid "error.projectSelectAdminSurvey"
+msgstr "Seleccione una encuesta de HSDU"
+
+msgid "error.roleSelectName"
+msgstr "El nombre del rol es obligatorio"
+
+msgid "error.roleSelectScope"
+msgstr "El ámbito del rol es obligatorio"
+
+msgid "error.selectRoles"
+msgstr "Debe seleccionar al menos un rol"
+
+msgid "error.selectUsers"
+msgstr "Debe seleccionar al menos un usuario"
+
+msgid "label.dashURL"
+msgstr "URL del tablero"
+
+msgid "label.contributors"
+msgstr "Contribuyentes"
+
+msgid "label.country"
+msgstr "País"
+
+msgid "label.deletingHsdu"
+msgstr "Eliminando HSDU ..."
+
+msgid "label.editAdminUpdate"
+msgstr "Modificar"
+
+msgid "label.emptyingProject"
+msgstr "Eliminando todos los espacios de trabajo ..."
+
+msgid "label.language"
+msgstr "Idoma"
+
+msgid "label.hsdus"
+msgstr "HSDUs"
+
+msgid "label.lastUpdatedBy"
+msgstr "Modificado por"
+
+msgid "label.roleScopeProject"
+msgstr "Proyecto"
+
+msgid "label.projects"
+msgstr "Proyectos"
+
+msgid "label.projectVisibility"
+msgstr "Visibilidad"
+
+msgid "label.requestDenied"
+msgstr "Rechazada"
+
+msgid "label.requester"
+msgstr "Solicitante"
+
+msgid "label.requestGranted"
+msgstr "Concedida"
+
+msgid "label.requestGrantedRoles"
+msgstr "Roles concedidos"
+
+msgid "label.requestResponse"
+msgstr "Respuesta"
+
+msgid "label.requestSubject"
+msgstr "Asunto"
+
+msgid "label.roleName"
+msgstr "Nombre del rol"
+
+msgid "label.rolePermissions"
+msgstr "Permisos"
+
+msgid "label.roleScopeGlobal"
+msgstr "Rol global"
+
+msgid "label.roles"
+msgstr "Roles"
+
+msgid "label.roleType"
+msgstr "Tipo"
+
+msgid "menu.logout"
+msgstr "Desconectar"
+
+msgid "message.requestedGranted"
+msgstr ""
+
+msgid "message.requestSubject"
+msgstr "Asunto"
+
+msgid "pageTitle.createRole"
+msgstr "Nuevo rol"
+
+msgid "pageTitle.createSurvey"
+msgstr "Nueva encuesta"
+
+msgid "pageTitle.dashPageName"
+msgstr "Página"
+
+msgid "pageTitle.homepage"
+msgstr "Inicio"
+
+msgid "pageTitle.material"
+msgstr "Material demo"
+
+msgid "pageTitle.hsduName"
+msgstr ":hsduName"
+
+msgid "pageTitle.newAdminUpdate"
+msgstr "Modificar HSDU"
+
+msgid "pageTitle.projectName"
+msgstr ":projectName"
+
+msgid "pageTitle.userProfile"
+msgstr "Perfil"
+
+msgid "pageTitle.userSpace"
+msgstr "Espacio de usuario"
+
+msgid "pageTitle.viewSitUpdate"
+msgstr "Modificación de situación"
+
+msgid "placeholder.selectUsers"
+msgstr ""
+
+msgid "tab.adminUpdates"
+msgstr "Modificaciones de HSDU"
+
+msgid "tab.dashSettings"
+msgstr "Parámetros del tablero"
+
+msgid "tab.deleteHsdu"
+msgstr "Eliminar HSDU"
+
+msgid "tab.wsSettings"
+msgstr "Parámetros del espacio de trabajo"
+
+msgid "tableHeader.contributors"
+msgstr "Contribuyentes"
+
+msgid "tableHeader.createdBy"
+msgstr "Creado por"
+
+msgid "tableHeader.hsduType"
+msgstr "Tipo"
+
+msgid "tableHeader.requesterName"
+msgstr "Solicitante"
+
+msgid "tableHeader.requestRespondedBy"
+msgstr "Respondido por"
+
+msgid "tableHeader.wsName"
+msgstr "Nombre del espacio de trabajo"
+
+msgid "placeholder.users"
+msgstr "Empiece a escribir para buscar un usuario ..."
+
+msgid "tab.projectSettings"
+msgstr "Parámetros del proyecto"
+
+msgid "button.save"
+msgstr "Guardar"
+
+msgid "button.viewRequest"
+msgstr "Ver"
+
+msgid "tableHeader.userName"
+msgstr "Nombre del usuario"
+
+msgid "tooltip.emptyProject"
+msgstr ""
+"Está acción eliminará todos los espacios de trabajo de este proyecto de "
+"manera permanente. Está accion no se puede revertir."
+
+msgid "label.password"
+msgstr "Contraseña"
+
+msgid "pageTitle.notifications"
+msgstr "Notificaciones"
+
+msgid "pageTitle.viewRole"
+msgstr "Rol"
+
+msgid "placeholder.password"
+msgstr "Contraseña"
+
+msgid "tab.notifications"
+msgstr "Notificaciones"
+
+msgid "label.roleProject"
+msgstr "Proyecto"
+
+msgid "placeholder.roles"
+msgstr "Empiece a escribir para buscar un rol ..."
+
+msgid "tab.material"
+msgstr "Material demo"
+
+msgid "tab.roles"
+msgstr "Roles"
+
+msgid "label.userName"
+msgstr "Nombre del usuario"
+
+msgid "pageTitle.administration"
+msgstr "Administración"
+
+msgid "tooltip.dashURL"
+msgstr "Deje esta URL vacía si quiere utilizar el tablero estándar"
+
+msgid "pageTitle.userName"
+msgstr ":userName"
+
+msgid "tab.userProfile"
+msgstr "Perfil"
+
+msgid "confirm.deleteUserRole"
+msgstr "¿ Está seguro de querer eliminar este rol ?"
+
+msgid "tab.projectUsers"
+msgstr "Usuarios (:projectUsersCount)"
+
+msgid "tab.wsExport"
+msgstr "Exportar datos"
+
+msgid "tableHeader.hsduCode"
+msgstr "Código de HSDU"
+
+msgid "tableHeader.requestResponse"
+msgstr "Respuesta"
+
+msgid "warning.deleteHsdu"
+msgstr "¿ Está seguro de querer eliminar esta HSDU ?"
+
+msgid "tableHeader.createdDate"
+msgstr "Fecha de creación"
+
+msgid "label.lastUpdatedDate"
+msgstr "Fecha de modificación"
+
+msgid "label.ws"
+msgstr "Espacio de trabajo"
+
+msgid "tableHeader.projectCoordinator"
+msgstr "Coordinador del proyecto"
+
+msgid "tab.workspaces"
+msgstr "Espacios de trabajo"
+
+msgid "tableHeader.workspaces"
+msgstr "Espacios de trabajo"
+
+msgid "tab.globalUsers"
+msgstr "Usuarios"
+
+msgid "tableHeader.roleName"
+msgstr "Nombre del rol"
+
+msgid "label.users"
+msgstr "Usuarios"
+
+msgid "tab.projects"
+msgstr "Proyectos"
+
+msgid "error.selectWss"
+msgstr "Debe seleccionar al menos un espacio de trabajo"
+
+msgid "tab.projectExport"
+msgstr "Exportar datos"
+
+msgid "tab.sitUpdates"
+msgstr "Modificaciones de situación (:SitUpCount)"
+
+msgid "tableHeader.id"
+msgstr "Id"
+
+msgid "message.requestDenied"
+msgstr ""
+"Estimado :requesterName,\n"
+"Su solicitud de acceso al espacio de trabajo :workspaceName ha sido "
+"rechazada "
+
+msgid "tableHeader.lastUpdatedBy"
+msgstr "Modificado por"
+
+msgid "tableHeader.requestResponseDate"
+msgstr "Fecha de respuesta"
+
+msgid "tab.wsUsers"
+msgstr "Usuarios (:workspaceUsersCount)"
+
+msgid "label.wsName"
+msgstr "Nombre del espacio de trabajo"
+
+msgid "pageTitle.wsName"
+msgstr ":workspaceName"
+
+msgid "tab.projectImport"
+msgstr "Importar datos"
+
+msgid "tableHeader.projectName"
+msgstr "Nombre del proyecto"
+
+msgid "pageTitle.dashboard"
+msgstr "Tablero"
+
+msgid "button.createAdminUpdate"
+msgstr "Modificar HSDU"
+
+msgid "label.requestInvalid"
+msgstr "Solicitud inválida"
+
+msgid "tableHeader.actions"
+msgstr "Acciones"
+
+msgid "tableHeader.dateOfUpdate"
+msgstr "Fecha de modificación"
+
+msgid "tableHeader.hsduFunc"
+msgstr "Funcionalidad"
+
+msgid "label.wss"
+msgstr "Espacios de trabajo"
+
+msgid "pageTitle.updateRole"
+msgstr "Modificar rol"
+
+msgid "tableHeader.responses"
+msgstr "Respuestas"
+
+msgid "pageTitle.newSitUpdate"
+msgstr "Modificar situación"
+
+msgid "tableHeader.roleType"
+msgstr "Tipo"
+
+msgid "tableHeader.hsduStatus"
+msgstr "Condición"
+
+msgid "error.roleSelectType"
+msgstr "El tipo de rol es obligatorio"
+
+msgid "tab.accessRequests"
+msgstr "Solicitudes de acceso"
+
+msgid "label.roleTargetProject"
+msgstr "al proyecto"
+
+msgid "label.viewAdminUpdate"
+msgstr "Ver"
+
+msgid "pageTitle.viewAdminUpdate"
+msgstr "Modification de HSDU"
+
+msgid "tableHeader.hsduAcc"
+msgstr "Accesibilidad"
+
+msgid "tableHeader.wsOwner"
+msgstr "Propietario del espacio de trabajo"
+
+msgid "label.deletingProject"
+msgstr "Eliminando proyecto ..."
+
+msgid "label.requestResponseJustification"
+msgstr "Justificación (privado)"
+
+msgid "pageTitle.updateSurvey"
+msgstr "Modificar encuesta"
+
+msgid "button.createProject"
+msgstr "Nuevo proyecto"
+
+msgid "button.requestAll"
+msgstr "Todas las solicitudes"
+
+msgid "button.createWs"
+msgstr "Nuevo espacio de trabajo"
+
+msgid "button.deleteUser"
+msgstr "Eliminar"
+
+msgid "button.createSitUpdate"
+msgstr "Modificar situación"
+
+msgid "button.createSurvey"
+msgstr "Nueva encuesta"
+
+msgid "button.dashboard"
+msgstr "Tableros"
+
+msgid "button.delete"
+msgstr "Eliminar"
+
+msgid "button.deleteHsdu"
+msgstr "Eliminar HSDU"
+
+msgid "button.deleteProject"
+msgstr "Eliminar proyecto"
+
+msgid "button.deleteRole"
+msgstr "Eliminar rol"
+
+msgid "error.noMatchingUsers"
+msgstr "Ningún usuario coincide con su búsqueda"
+
+msgid "button.deleteUserRole"
+msgstr "Eliminar"
+
+msgid "button.emptyProject"
+msgstr "Eliminar todos los espacios de trabajo"
+
+msgid "button.requestAccess"
+msgstr "Solicitar acceso"
+
+msgid "button.emptyWs"
+msgstr "Eliminar espacio de trabajo"
+
+msgid "button.ok"
+msgstr "Ok"
+
+msgid "button.respondRequest"
+msgstr "Responder"
+
+msgid "button.return"
+msgstr "Volver"
+
+msgid "button.workspaces"
+msgstr "Espacios de trabajo"
+
+msgid "button.send"
+msgstr "Enviar"
+
+msgid "button.viewSitUpdate"
+msgstr "Ver"
+
+msgid "label.createdBy"
+msgstr "Creado por"
+
+msgid "pageTitle.createDashPage"
+msgstr "Nueva página"
+
+msgid "pageTitle.createWs"
+msgstr "Nuevo espacio de trabajo"
+
+msgid "pageTitle.forbidden"
+msgstr "Página no autorizada"
+
+msgid "pageTitle.editAdminUpdate"
+msgstr "Modificar"
+
+msgid "tooltip.emptyWs"
+msgstr ""
+"Está acción eliminará el espacio de trabajo de manera permanente. Está "
+"accion no se puede revertir."
+
+msgid "error.projectLanguageEnglish"
+msgstr "El nombre del proyecto en inglés es obligatorio"
+
+msgid "label.emptyWs"
+msgstr "Eliminar espacio de trabajo"
+
+msgid "label.requestedDate"
+msgstr "Fecha de solicitud"
+
+msgid "tab.surveys"
+msgstr "Encuestas"
+
+msgid "error.roleSelectProject"
+msgstr "Debe seleccionar un proyecto para este rol"
+
+msgid "label.resetGrid"
+msgstr "Reiniciar la tabla"
+
+msgid "warning.emptyProject"
+msgstr ""
+"¿ Está seguro de querer eliminar todos los espacios de trabajo de este "
+"proyecto ?"
+
+msgid "label.roleTargetWs"
+msgstr "al espacio de trabajo"
+
+msgid "error.noMatchingRoles"
+msgstr "Ningún rol coincide con su búsqueda"
+
+msgid "pageTitle.wsRequestAccess"
+msgstr "Solicita accesso al espacio de trabajo"
+
+msgid "label.deleteAdminUpdate"
+msgstr "Eliminar"
+
+msgid "label.requestResponseDate"
+msgstr "Fecha de respuesta"
+
+msgid "label.deleteProject"
+msgstr "Eliminar proyecto"
+
+msgid "confirm.deleteHsdu"
+msgstr "Eliminar HSDU"
+
+msgid "label.roleTypeStandard"
+msgstr "Estándar (para todos los proyectos)"
+
+msgid "label.noSitUpdates"
+msgstr "Modificaciones no previstas"
+
+msgid "error.projectSelectCountry"
+msgstr "Seleccione un país"
+
+msgid "label.roleTypeCustom"
+msgstr "Personalizado (para un sólo proyecto)"
+
+msgid "label.editSitUpdate"
+msgstr "Modificar"
+
+msgid "tableHeader.surveyName"
+msgstr "Nombre de la encuesta"
+
+msgid "label.createUserRole"
+msgstr "Añadir usuarios"
+
+msgid "label.userEmail"
+msgstr "E-mail del usuario"
+
+msgid "label.countryUnspecified"
+msgstr "Indefinido / Formación"
+
+msgid "label.projectAdminSurvey"
+msgstr "Encuesta de HSDU"
+
+msgid "label.requestResponseMsg"
+msgstr "Mensaje al solicitante"
+
+msgid "button.createHsdu"
+msgstr "Nueva HSDU"
+
+msgid "label.longitude"
+msgstr "Longitud"
+
+msgid "message.requestGranted"
+msgstr ""
+"Estimado :requesterName,\n"
+"Su solicitud de acceso al espacio de trabajo :workspaceName ha sido aceptada"
+
+msgid "label.createdDate"
+msgstr "Fecha de creación"
+
+msgid "tableHeader.hsduName"
+msgstr "Nombre de HSDU"
+
+msgid "pageTitle.accessRequest"
+msgstr "Solicitudes de acceso"
+
+msgid "button.createRole"
+msgstr "Nuevo rol"
+
+msgid "tableHeader.requesterEmail"
+msgstr "E-mail del solicitante"
+
+msgid "pageTitle.respondRequest"
+msgstr "Responder a solicitud"
+
+msgid "error.projectSelectSitSurvey"
+msgstr "Seleccione una encuesta de situación"
+
+msgid "label.roleScope"
+msgstr "Ámbito"
+
+msgid "label.loading"
+msgstr "Cargando ..."
+
+msgid "tooltip.deleteHsdu"
+msgstr ""
+"Está acción eliminará la HSDU de manera permanente. Está accion no se puede "
+"revertir."
+
+msgid "label.requestResponseBy"
+msgstr "Respondida por"
+
+msgid "label.emptyProject"
+msgstr "Eliminar todos los espacios de trabajo"
+
+msgid "warning.deleteProject"
+msgstr "¿ Está seguro de querer eliminar este proyecto ?"
+
+msgid "label.roleScopeWs"
+msgstr "Espacio de trabajo"
+
+msgid "label.newsleter"
+msgstr "Abonarse al boletín"
+
+msgid "button.requestNotResponded"
+msgstr "Solicitudes pendientes"
+
+msgid "label.projectSitSurvey"
+msgstr "Encuesta de situación"
+
+msgid "tableHeader.userEmail"
+msgstr "E-mail del usuario"
+
+msgid "tableHeader.roleScope"
+msgstr "Ámbito"
+
+msgid "label.globalRoles"
+msgstr "Roles"
+
+msgid "pageTitle.editRole"
+msgstr "Modificar"
+
+msgid "button.impersonate"
+msgstr "Suplantar"
+
+msgid "placeholder.dropdownSelect"
+msgstr "Seleccione una opción ..."
+
+msgid "tooltip.deleteProject"
+msgstr ""
+"Está acción eliminará el proyecto de manera permanente. Está accion no se "
+"puede revertir."
+
+msgid "tableHeader.hsduTier"
+msgstr "Nivel"
+
+msgid "button.deleteSitUpdate"
+msgstr "Eliminar"
+
+msgid "error.mandatoryFields"
+msgstr "Campo obligatorio"
+
+msgid "pageTitle.createProject"
+msgstr "Nuevo proyecto"
+
+msgid "label.requestJustification"
+msgstr "Justificación"
+
+msgid "placeholder.wss"
+msgstr "Empiece a escribir para buscar un espacio de trabajo ..."
+
+msgid "tab.hsdus"
+msgstr "HSDUs (:hsduCount)"
+
+msgid "pageTitle.createHsdu"
+msgstr "Nueva HSDU"
+
+msgid "label.latitude"
+msgstr "Latidud"
+
+msgid "tableHeader.requestedDate"
+msgstr "Fecha de solicitud"
+
+msgid "error.passwordRequired"
+msgstr "La contraseña es obligatoria"
+
+msgid "tableHeader.hsdus"
+msgstr "HSDUs"
