@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-06-25 11:55+0000\n"
+"PO-Revision-Date: 2024-06-25 12:15+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -743,3 +743,80 @@ msgstr "La contraseña es obligatoria"
 
 msgid "tableHeader.hsdus"
 msgstr "HSDUs"
+
+msgid "error.importRowNumber"
+msgstr "Error en fila :rowNumber"
+
+msgid "menu.showKeys"
+msgstr "Mostrar claves de traducción"
+
+msgid "message.requestInvalid"
+msgstr ""
+"Estimado :requesterName,\n"
+"Su solicitud de acceso al espacio de trabajo :workspaceName es inválida"
+
+msgid "message.roleAdded"
+msgstr "Rol añadido con éxito"
+
+msgid "pageTitle.importCompleted"
+msgstr "Importación completada"
+
+msgid "pageTitle.importDashPage"
+msgstr "Importar página de tablero"
+
+msgid "label.importErrorCount"
+msgstr ":errorCount filas tienen errores"
+
+msgid "pageTitle.editSitUpdate"
+msgstr "Editar modificación de situación"
+
+msgid "label.importSitValidation"
+msgstr "Validación del fichero de importación"
+
+msgid "button.importValidate"
+msgstr "Validar fichero"
+
+msgid "button.selectCsvFile"
+msgstr "Seleccione un fichero CSV"
+
+msgid "button.submit"
+msgstr "Enviar"
+
+msgid "label.importBaseline"
+msgstr "Base de referencia"
+
+msgid "label.showMore"
+msgstr "Mostrar más"
+
+msgid "label.importAdminUpdates"
+msgstr "Modificaciones de HSDU"
+
+msgid "label.importedRecordCount"
+msgstr ":recordCount filas has sido importadas con éxito"
+
+msgid "label.importRecordCount"
+msgstr ":errorCount filas lista para ser importadas"
+
+msgid "label.importedErrorCount"
+msgstr ":errorCount filas han tenido errores y no han sido importadas"
+
+msgid "label.importTemplate"
+msgstr "Descargar modelo"
+
+msgid "label.importWs"
+msgstr "Espacios de trabajo"
+
+msgid "label.importSitFields"
+msgstr ":sitUpdateCount modificaciones de situación listas para ser importadas"
+
+msgid "label.selectedFile"
+msgstr "Fichero seleccionado"
+
+msgid "label.importSitUpdates"
+msgstr "Modificaciones de situación"
+
+msgid "pageTitle.importValidation"
+msgstr "Validación de la importación"
+
+msgid "label.invalidFileFormat"
+msgstr "El fichero tiene un formato inválido"
