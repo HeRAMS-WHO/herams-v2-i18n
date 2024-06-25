@@ -1,708 +1,765 @@
 msgid "button.cancel"
-msgstr ""button.cancel
+msgstr ""
 
 msgid "button.createAdminUpdate"
-msgstr ""button.createAdminUpdate
+msgstr ""
 
 msgid "button.createHsdu"
-msgstr ""button.createHsdu
+msgstr ""
 
 msgid "button.createProject"
-msgstr ""button.createProject
+msgstr ""
 
 msgid "button.createRole"
-msgstr ""button.createRole
+msgstr ""
 
 msgid "button.createSitUpdate"
-msgstr ""button.createSitUpdate
+msgstr ""
 
 msgid "button.createSurvey"
-msgstr ""button.createSurvey
+msgstr ""
 
 msgid "button.createWs"
-msgstr ""button.createWs
+msgstr ""
 
 msgid "button.dashboard"
-msgstr ""button.dashboard
+msgstr ""
 
 msgid "button.delete"
-msgstr ""button.delete
+msgstr ""
 
 msgid "button.deleteHsdu"
-msgstr ""button.deleteHsdu
+msgstr ""
 
 msgid "button.deleteProject"
-msgstr ""button.deleteProject
+msgstr ""
 
 msgid "button.deleteRole"
-msgstr ""button.deleteRole
+msgstr ""
 
 msgid "button.deleteSitUpdate"
-msgstr ""button.deleteSitUpdate
+msgstr ""
 
 msgid "button.deleteUser"
-msgstr ""button.deleteUser
+msgstr ""
 
 msgid "button.deleteUserRole"
-msgstr ""button.deleteUserRole
+msgstr ""
 
 msgid "button.emptyProject"
-msgstr ""button.emptyProject
+msgstr ""
 
 msgid "button.emptyWs"
-msgstr ""button.emptyWs
+msgstr ""
 
 msgid "button.impersonate"
-msgstr ""button.impersonate
+msgstr ""
+
+msgid "button.importValidate"
+msgstr ""
 
 msgid "button.login"
-msgstr ""button.login
+msgstr ""
 
 msgid "button.ok"
-msgstr ""button.ok
+msgstr ""
 
 msgid "button.requestAccess"
-msgstr ""button.requestAccess
+msgstr ""
 
 msgid "button.requestAll"
-msgstr ""button.requestAll
+msgstr ""
 
 msgid "button.requestNotResponded"
-msgstr ""button.requestNotResponded
+msgstr ""
 
 msgid "button.respondRequest"
-msgstr ""button.respondRequest
+msgstr ""
 
 msgid "button.return"
-msgstr ""button.return
+msgstr ""
 
 msgid "button.save"
-msgstr ""button.save
+msgstr ""
+
+msgid "button.selectCsvFile"
+msgstr ""
 
 msgid "button.send"
-msgstr ""button.send
+msgstr ""
+
+msgid "button.submit"
+msgstr ""
 
 msgid "button.viewRequest"
-msgstr ""button.viewRequest
+msgstr ""
 
 msgid "button.viewSitUpdate"
-msgstr ""button.viewSitUpdate
+msgstr ""
 
 msgid "button.workspaces"
-msgstr ""button.workspaces
+msgstr ""
 
 msgid "confirm.deleteHsdu"
-msgstr ""confirm.deleteHsdu
+msgstr ""
 
 msgid "confirm.deleteProject"
-msgstr ""confirm.deleteProject
+msgstr ""
 
 msgid "confirm.deleteUserRole"
-msgstr ""confirm.deleteUserRole
+msgstr ""
 
 msgid "confirm.emptyProject"
-msgstr ""confirm.emptyProject
+msgstr ""
 
 msgid "error.emailRequired"
-msgstr ""error.emailRequired
+msgstr ""
+
+msgid "error.importRowNumber"
+msgstr ""
 
 msgid "error.invalidEmail"
-msgstr ""error.invalidEmail
+msgstr ""
 
 msgid "error.mandatoryFields"
-msgstr ""error.mandatoryFields
+msgstr ""
 
 msgid "error.noMatchingRoles"
-msgstr ""error.noMatchingRoles
+msgstr ""
 
 msgid "error.noMatchingUsers"
-msgstr ""error.noMatchingUsers
+msgstr ""
 
 msgid "error.noMatchingWss"
-msgstr ""error.noMatchingWss
+msgstr ""
 
 msgid "error.passwordRequired"
-msgstr ""error.passwordRequired
+msgstr ""
 
 msgid "error.projectDiffSurvey"
-msgstr ""error.projectDiffSurvey
+msgstr ""
 
 msgid "error.projectLanguageEnglish"
-msgstr ""error.projectLanguageEnglish
+msgstr ""
 
 msgid "error.projectLatitudeZero"
-msgstr ""error.projectLatitudeZero
+msgstr ""
 
 msgid "error.projectSelectAdminSurvey"
-msgstr ""error.projectSelectAdminSurvey
+msgstr ""
 
 msgid "error.projectSelectCountry"
-msgstr ""error.projectSelectCountry
+msgstr ""
 
 msgid "error.projectSelectSitSurvey"
-msgstr ""error.projectSelectSitSurvey
+msgstr ""
 
 msgid "error.roleSelectName"
-msgstr ""error.roleSelectName
+msgstr ""
 
 msgid "error.roleSelectProject"
-msgstr ""error.roleSelectProject
+msgstr ""
 
 msgid "error.roleSelectScope"
-msgstr ""error.roleSelectScope
+msgstr ""
 
 msgid "error.roleSelectType"
-msgstr ""error.roleSelectType
+msgstr ""
 
 msgid "error.selectRoles"
-msgstr ""error.selectRoles
+msgstr ""
 
 msgid "error.selectUsers"
-msgstr ""error.selectUsers
+msgstr ""
 
 msgid "error.selectWss"
-msgstr ""error.selectWss
+msgstr ""
 
 msgid "label.contributors"
-msgstr ""label.contributors
+msgstr ""
 
 msgid "label.country"
-msgstr ""label.country
+msgstr ""
 
 msgid "label.countryUnspecified"
-msgstr ""label.countryUnspecified
+msgstr ""
 
 msgid "label.createdBy"
-msgstr ""label.createdBy
+msgstr ""
 
 msgid "label.createdDate"
-msgstr ""label.createdDate
+msgstr ""
 
 msgid "label.createUserRole"
-msgstr ""label.createUserRole
+msgstr ""
 
 msgid "label.dashURL"
-msgstr ""label.dashURL
+msgstr ""
 
 msgid "label.deleteAdminUpdate"
-msgstr ""label.deleteAdminUpdate
+msgstr ""
 
 msgid "label.deleteProject"
-msgstr ""label.deleteProject
+msgstr ""
 
 msgid "label.deletingHsdu"
-msgstr ""label.deletingHsdu
+msgstr ""
 
 msgid "label.deletingProject"
-msgstr ""label.deletingProject
+msgstr ""
 
 msgid "label.editAdminUpdate"
-msgstr ""label.editAdminUpdate
+msgstr ""
 
 msgid "label.editSitUpdate"
-msgstr ""label.editSitUpdate
+msgstr ""
 
 msgid "label.emptyingProject"
-msgstr ""label.emptyingProject
+msgstr ""
 
 msgid "label.emptyProject"
-msgstr ""label.emptyProject
+msgstr ""
 
 msgid "label.emptyWs"
-msgstr ""label.emptyWs
+msgstr ""
 
 msgid "label.globalRoles"
-msgstr ""label.globalRoles
+msgstr ""
 
 msgid "label.heramsDescription"
-msgstr ""label.heramsDescription
+msgstr ""
 
 msgid "label.hsdus"
-msgstr ""label.hsdus
+msgstr ""
+
+msgid "label.importAdminUpdates"
+msgstr ""
+
+msgid "label.importBaseline"
+msgstr ""
+
+msgid "label.importedErrorCount"
+msgstr ""
+
+msgid "label.importedRecordCount"
+msgstr ""
+
+msgid "label.importErrorCount"
+msgstr ""
+
+msgid "label.importRecordCount"
+msgstr ""
+
+msgid "label.importSitFields"
+msgstr ""
+
+msgid "label.importSitUpdates"
+msgstr ""
+
+msgid "label.importSitValidation"
+msgstr ""
+
+msgid "label.importTemplate"
+msgstr ""
+
+msgid "label.importWs"
+msgstr ""
+
+msgid "label.invalidFileFormat"
+msgstr ""
 
 msgid "label.language"
-msgstr ""label.language
+msgstr ""
 
 msgid "label.lastUpdatedBy"
-msgstr ""label.lastUpdatedBy
+msgstr ""
 
 msgid "label.lastUpdatedDate"
-msgstr ""label.lastUpdatedDate
+msgstr ""
 
 msgid "label.latitude"
-msgstr ""label.latitude
+msgstr ""
 
 msgid "label.loading"
-msgstr ""label.loading
+msgstr ""
 
 msgid "label.loginEmail"
-msgstr ""label.loginEmail
+msgstr ""
 
 msgid "label.longitude"
-msgstr ""label.longitude
+msgstr ""
 
 msgid "label.newsleter"
-msgstr ""label.newsleter
+msgstr ""
 
 msgid "label.noSitUpdates"
-msgstr ""label.noSitUpdates
+msgstr ""
 
 msgid "label.password"
-msgstr ""label.password
+msgstr ""
 
 msgid "label.projectAdminSurvey"
-msgstr ""label.projectAdminSurvey
+msgstr ""
 
 msgid "label.projectLanguage"
-msgstr ""label.projectLanguage
+msgstr ""
 
 msgid "label.projectName"
-msgstr ""label.projectName
+msgstr ""
 
 msgid "label.projects"
-msgstr ""label.projects
+msgstr ""
 
 msgid "label.projectSitSurvey"
-msgstr ""label.projectSitSurvey
+msgstr ""
 
 msgid "label.projectVisibility"
-msgstr ""label.projectVisibility
+msgstr ""
 
 msgid "label.requestDenied"
-msgstr ""label.requestDenied
+msgstr ""
 
 msgid "label.requestedDate"
-msgstr ""label.requestedDate
+msgstr ""
 
 msgid "label.requester"
-msgstr ""label.requester
+msgstr ""
 
 msgid "label.requestGranted"
-msgstr ""label.requestGranted
+msgstr ""
 
 msgid "label.requestGrantedRoles"
-msgstr ""label.requestGrantedRoles
+msgstr ""
 
 msgid "label.requestInvalid"
-msgstr ""label.requestInvalid
+msgstr ""
 
 msgid "label.requestJustification"
-msgstr ""label.requestJustification
+msgstr ""
 
 msgid "label.requestResponse"
-msgstr ""label.requestResponse
+msgstr ""
 
 msgid "label.requestResponseBy"
-msgstr ""label.requestResponseBy
+msgstr ""
 
 msgid "label.requestResponseDate"
-msgstr ""label.requestResponseDate
+msgstr ""
 
 msgid "label.requestResponseJustification"
-msgstr ""label.requestResponseJustification
+msgstr ""
 
 msgid "label.requestResponseMsg"
-msgstr ""label.requestResponseMsg
+msgstr ""
 
 msgid "label.requestSubject"
-msgstr ""label.requestSubject
+msgstr ""
 
 msgid "label.resetGrid"
-msgstr ""label.resetGrid
+msgstr ""
 
 msgid "label.roleName"
-msgstr ""label.roleName
+msgstr ""
 
 msgid "label.rolePermissions"
-msgstr ""label.rolePermissions
+msgstr ""
 
 msgid "label.roleProject"
-msgstr ""label.roleProject
+msgstr ""
 
 msgid "label.roles"
-msgstr ""label.roles
+msgstr ""
 
 msgid "label.roleScope"
-msgstr ""label.roleScope
+msgstr ""
 
 msgid "label.roleScopeGlobal"
-msgstr ""label.roleScopeGlobal
+msgstr ""
 
 msgid "label.roleScopeProject"
-msgstr ""label.roleScopeProject
+msgstr ""
 
 msgid "label.roleScopeWs"
-msgstr ""label.roleScopeWs
+msgstr ""
 
 msgid "label.roleTargetProject"
-msgstr ""label.roleTargetProject
+msgstr ""
 
 msgid "label.roleTargetWs"
-msgstr ""label.roleTargetWs
+msgstr ""
 
 msgid "label.roleType"
-msgstr ""label.roleType
+msgstr ""
 
 msgid "label.roleTypeCustom"
-msgstr ""label.roleTypeCustom
+msgstr ""
 
 msgid "label.roleTypeStandard"
-msgstr ""label.roleTypeStandard
+msgstr ""
+
+msgid "label.selectedFile"
+msgstr ""
+
+msgid "label.showMore"
+msgstr ""
 
 msgid "label.userEmail"
-msgstr ""label.userEmail
+msgstr ""
 
 msgid "label.userLastLogin"
-msgstr ""label.userLastLogin
+msgstr ""
 
 msgid "label.userName"
-msgstr ""label.userName
+msgstr ""
 
 msgid "label.users"
-msgstr ""label.users
+msgstr ""
 
 msgid "label.viewAdminUpdate"
-msgstr ""label.viewAdminUpdate
+msgstr ""
 
 msgid "label.ws"
-msgstr ""label.ws
+msgstr ""
 
 msgid "label.wsName"
-msgstr ""label.wsName
+msgstr ""
 
 msgid "label.wss"
-msgstr ""label.wss
+msgstr ""
 
 msgid "menu.logout"
-msgstr ""menu.logout
+msgstr ""
+
+msgid "menu.showKeys"
+msgstr ""
 
 msgid "message.requestDenied"
-msgstr ""message.requestDenied
-
-msgid "message.requestedGranted"
-msgstr ""message.requestedGranted
+msgstr ""
 
 msgid "message.requestGranted"
-msgstr ""message.requestGranted
+msgstr ""
+
+msgid "message.requestInvalid"
+msgstr ""
 
 msgid "message.requestSubject"
-msgstr ""message.requestSubject
+msgstr ""
 
-msgid "messages.roles.added_successfully"
-msgstr ""messages.roles.added_successfully
-
-msgid "pageTitle,importDashPage"
-msgstr ""pageTitle,importDashPage
+msgid "message.roleAdded"
+msgstr ""
 
 msgid "pageTitle.accessRequest"
-msgstr ""pageTitle.accessRequest
+msgstr ""
 
 msgid "pageTitle.administration"
-msgstr ""pageTitle.administration
+msgstr ""
 
 msgid "pageTitle.createDashPage"
-msgstr ""pageTitle.createDashPage
+msgstr ""
 
 msgid "pageTitle.createHsdu"
-msgstr ""pageTitle.createHsdu
+msgstr ""
 
 msgid "pageTitle.createProject"
-msgstr ""pageTitle.createProject
+msgstr ""
 
 msgid "pageTitle.createRole"
-msgstr ""pageTitle.createRole
+msgstr ""
 
 msgid "pageTitle.createSurvey"
-msgstr ""pageTitle.createSurvey
+msgstr ""
 
 msgid "pageTitle.createWs"
-msgstr ""pageTitle.createWs
+msgstr ""
 
 msgid "pageTitle.dashboard"
-msgstr ""pageTitle.dashboard
+msgstr ""
 
 msgid "pageTitle.dashPageName"
-msgstr ""pageTitle.dashPageName
-
-msgid "pageTitle.edit SitUpdate"
-msgstr ""pageTitle.edit SitUpdate
+msgstr ""
 
 msgid "pageTitle.editAdminUpdate"
-msgstr ""pageTitle.editAdminUpdate
+msgstr ""
 
 msgid "pageTitle.editRole"
-msgstr ""pageTitle.editRole
+msgstr ""
+
+msgid "pageTitle.editSitUpdate"
+msgstr ""
 
 msgid "pageTitle.forbidden"
-msgstr ""pageTitle.forbidden
+msgstr ""
 
 msgid "pageTitle.homepage"
-msgstr ""pageTitle.homepage
+msgstr ""
 
 msgid "pageTitle.hsduName"
-msgstr ""pageTitle.hsduName
+msgstr ""
+
+msgid "pageTitle.importCompleted"
+msgstr ""
+
+msgid "pageTitle.importDashPage"
+msgstr ""
+
+msgid "pageTitle.importValidation"
+msgstr ""
 
 msgid "pageTitle.login"
-msgstr ""pageTitle.login
+msgstr ""
 
 msgid "pageTitle.material"
-msgstr ""pageTitle.material
+msgstr ""
 
 msgid "pageTitle.newAdminUpdate"
-msgstr ""pageTitle.newAdminUpdate
+msgstr ""
 
 msgid "pageTitle.newSitUpdate"
-msgstr ""pageTitle.newSitUpdate
+msgstr ""
 
 msgid "pageTitle.notifications"
-msgstr ""pageTitle.notifications
+msgstr ""
 
 msgid "pageTitle.projectName"
-msgstr ""pageTitle.projectName
+msgstr ""
 
 msgid "pageTitle.respondRequest"
-msgstr ""pageTitle.respondRequest
+msgstr ""
 
 msgid "pageTitle.updateRole"
-msgstr ""pageTitle.updateRole
+msgstr ""
 
 msgid "pageTitle.updateSurvey"
-msgstr ""pageTitle.updateSurvey
+msgstr ""
 
 msgid "pageTitle.userName"
-msgstr ""pageTitle.userName
+msgstr ""
 
 msgid "pageTitle.userProfile"
-msgstr ""pageTitle.userProfile
+msgstr ""
 
 msgid "pageTitle.userSpace"
-msgstr ""pageTitle.userSpace
+msgstr ""
 
 msgid "pageTitle.viewAdminUpdate"
-msgstr ""pageTitle.viewAdminUpdate
+msgstr ""
 
 msgid "pageTitle.viewRole"
-msgstr ""pageTitle.viewRole
+msgstr ""
 
 msgid "pageTitle.viewSitUpdate"
-msgstr ""pageTitle.viewSitUpdate
+msgstr ""
 
 msgid "pageTitle.wsName"
-msgstr ""pageTitle.wsName
+msgstr ""
 
 msgid "pageTitle.wsRequestAccess"
-msgstr ""pageTitle.wsRequestAccess
+msgstr ""
 
 msgid "placeholder.dropdownSelect"
-msgstr ""placeholder.dropdownSelect
+msgstr ""
 
 msgid "placeholder.loginEmail"
-msgstr ""placeholder.loginEmail
+msgstr ""
 
 msgid "placeholder.password"
-msgstr ""placeholder.password
+msgstr ""
 
 msgid "placeholder.roles"
-msgstr ""placeholder.roles
-
-msgid "placeholder.selectUsers"
-msgstr ""placeholder.selectUsers
+msgstr ""
 
 msgid "placeholder.users"
-msgstr ""placeholder.users
+msgstr ""
 
 msgid "placeholder.wss"
-msgstr ""placeholder.wss
+msgstr ""
 
 msgid "tab.accessRequests"
-msgstr ""tab.accessRequests
+msgstr ""
 
 msgid "tab.adminUpdates"
-msgstr ""tab.adminUpdates
+msgstr ""
 
 msgid "tab.dashSettings"
-msgstr ""tab.dashSettings
+msgstr ""
 
 msgid "tab.deleteHsdu"
-msgstr ""tab.deleteHsdu
+msgstr ""
 
 msgid "tab.globalUsers"
-msgstr ""tab.globalUsers
+msgstr ""
 
 msgid "tab.hsdus"
-msgstr ""tab.hsdus
+msgstr ""
 
 msgid "tab.material"
-msgstr ""tab.material
+msgstr ""
 
 msgid "tab.notifications"
-msgstr ""tab.notifications
+msgstr ""
 
 msgid "tab.projectExport"
-msgstr ""tab.projectExport
+msgstr ""
 
 msgid "tab.projectImport"
-msgstr ""tab.projectImport
+msgstr ""
 
 msgid "tab.projects"
-msgstr ""tab.projects
+msgstr ""
 
 msgid "tab.projectSettings"
-msgstr ""tab.projectSettings
+msgstr ""
 
 msgid "tab.projectUsers"
-msgstr ""tab.projectUsers
+msgstr ""
 
 msgid "tab.roles"
-msgstr ""tab.roles
+msgstr ""
 
 msgid "tab.sitUpdates"
-msgstr ""tab.sitUpdates
+msgstr ""
 
 msgid "tab.surveys"
-msgstr ""tab.surveys
+msgstr ""
 
 msgid "tab.userProfile"
-msgstr ""tab.userProfile
+msgstr ""
 
 msgid "tab.workspaces"
-msgstr ""tab.workspaces
+msgstr ""
 
 msgid "tab.wsExport"
-msgstr ""tab.wsExport
+msgstr ""
 
 msgid "tab.wsSettings"
-msgstr ""tab.wsSettings
+msgstr ""
 
 msgid "tab.wsUsers"
-msgstr ""tab.wsUsers
+msgstr ""
 
 msgid "tableHeader.actions"
-msgstr ""tableHeader.actions
+msgstr ""
 
 msgid "tableHeader.contributors"
-msgstr ""tableHeader.contributors
+msgstr ""
 
 msgid "tableHeader.createdBy"
-msgstr ""tableHeader.createdBy
+msgstr ""
 
 msgid "tableHeader.createdDate"
-msgstr ""tableHeader.createdDate
+msgstr ""
 
 msgid "tableHeader.dateOfUpdate"
-msgstr ""tableHeader.dateOfUpdate
+msgstr ""
 
 msgid "tableHeader.hsduAcc"
-msgstr ""tableHeader.hsduAcc
+msgstr ""
 
 msgid "tableHeader.hsduCode"
-msgstr ""tableHeader.hsduCode
+msgstr ""
 
 msgid "tableHeader.hsduFunc"
-msgstr ""tableHeader.hsduFunc
+msgstr ""
 
 msgid "tableHeader.hsduName"
-msgstr ""tableHeader.hsduName
+msgstr ""
 
 msgid "tableHeader.hsdus"
-msgstr ""tableHeader.hsdus
+msgstr ""
 
 msgid "tableHeader.hsduStatus"
-msgstr ""tableHeader.hsduStatus
+msgstr ""
 
 msgid "tableHeader.hsduTier"
-msgstr ""tableHeader.hsduTier
+msgstr ""
 
 msgid "tableHeader.hsduType"
-msgstr ""tableHeader.hsduType
+msgstr ""
 
 msgid "tableHeader.id"
-msgstr ""tableHeader.id
-
-msgid "tableHeader.lastUpdateBy"
-msgstr ""tableHeader.lastUpdateBy
+msgstr ""
 
 msgid "tableHeader.lastUpdatedBy"
-msgstr ""tableHeader.lastUpdatedBy
+msgstr ""
 
 msgid "tableHeader.projectCoordinator"
-msgstr ""tableHeader.projectCoordinator
+msgstr ""
 
 msgid "tableHeader.projectName"
-msgstr ""tableHeader.projectName
+msgstr ""
 
 msgid "tableHeader.requestedDate"
-msgstr ""tableHeader.requestedDate
+msgstr ""
 
 msgid "tableHeader.requesterEmail"
-msgstr ""tableHeader.requesterEmail
+msgstr ""
 
 msgid "tableHeader.requesterName"
-msgstr ""tableHeader.requesterName
+msgstr ""
 
 msgid "tableHeader.requestRespondedBy"
-msgstr ""tableHeader.requestRespondedBy
+msgstr ""
 
 msgid "tableHeader.requestResponse"
-msgstr ""tableHeader.requestResponse
+msgstr ""
 
 msgid "tableHeader.requestResponseDate"
-msgstr ""tableHeader.requestResponseDate
+msgstr ""
 
 msgid "tableHeader.responses"
-msgstr ""tableHeader.responses
+msgstr ""
 
 msgid "tableHeader.roleName"
-msgstr ""tableHeader.roleName
+msgstr ""
 
 msgid "tableHeader.roleScope"
-msgstr ""tableHeader.roleScope
+msgstr ""
 
 msgid "tableHeader.roleType"
-msgstr ""tableHeader.roleType
+msgstr ""
 
 msgid "tableHeader.surveyName"
-msgstr ""tableHeader.surveyName
+msgstr ""
 
 msgid "tableHeader.userEmail"
-msgstr ""tableHeader.userEmail
+msgstr ""
 
 msgid "tableHeader.userLastLogin"
-msgstr ""tableHeader.userLastLogin
+msgstr ""
 
 msgid "tableHeader.userName"
-msgstr ""tableHeader.userName
+msgstr ""
 
 msgid "tableHeader.workspaces"
-msgstr ""tableHeader.workspaces
+msgstr ""
 
 msgid "tableHeader.wsName"
-msgstr ""tableHeader.wsName
+msgstr ""
 
 msgid "tableHeader.wsOwner"
-msgstr ""tableHeader.wsOwner
+msgstr ""
 
 msgid "tooltip.dashURL"
-msgstr ""tooltip.dashURL
+msgstr ""
 
 msgid "tooltip.deleteHsdu"
-msgstr ""tooltip.deleteHsdu
+msgstr ""
 
 msgid "tooltip.deleteProject"
-msgstr ""tooltip.deleteProject
+msgstr ""
 
 msgid "tooltip.emptyProject"
-msgstr ""tooltip.emptyProject
+msgstr ""
 
 msgid "tooltip.emptyWs"
-msgstr ""tooltip.emptyWs
+msgstr ""
 
 msgid "warning.deleteHsdu"
-msgstr ""warning.deleteHsdu
+msgstr ""
 
 msgid "warning.deleteProject"
-msgstr ""warning.deleteProject
+msgstr ""
 
 msgid "warning.emptyProject"
-msgstr ""warning.emptyProject
+msgstr ""
 
