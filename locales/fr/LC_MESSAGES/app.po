@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
 "PO-Revision-Date: 2024-06-25 11:55+0000\n"
-"Last-Translator: HeRAMS <herams@who.int>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
 "Language: fr\n"
@@ -711,4 +711,13 @@ msgid "label.roleTargetProject"
 msgstr ""
 
 msgid "pageTitle.createHsdu"
+msgstr ""
+
+msgid "button.createHsdu"
+msgstr ""
+
+msgid "button.cancel"
+msgstr ""
+
+msgid "button.createAdminUpdate"
 msgstr ""
