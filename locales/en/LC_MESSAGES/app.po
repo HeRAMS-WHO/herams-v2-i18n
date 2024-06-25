@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-06-25 12:15+0000\n"
+"PO-Revision-Date: 2024-06-26 08:21+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -479,7 +479,7 @@ msgid "placeholder.wss"
 msgstr "Start typing to select a workspace ..."
 
 msgid "tab.adminUpdates"
-msgstr "HSDU updates"
+msgstr "HSDU updates (:AdmUpCount)"
 
 msgid "tab.dashSettings"
 msgstr "Dashboard settings"
@@ -729,10 +729,10 @@ msgstr ""
 "This will permanently delete this workspace. This operation cannot be undone."
 
 msgid "label.importErrorCount"
-msgstr ":errorCount rows found with errors"
+msgstr ":recordCountParameter rows found with errors"
 
 msgid "label.importSitFields"
-msgstr ":sitUpdateCount situation updates ready to be imported"
+msgstr "Situation updates"
 
 msgid "pageTitle.importValidation"
 msgstr "Import validation"
@@ -741,7 +741,7 @@ msgid "label.importBaseline"
 msgstr "Baseline"
 
 msgid "label.importedRecordCount"
-msgstr ":recordCount rows have been successfully imported"
+msgstr ":recordCountParameter rows have been successfully imported"
 
 msgid "message.roleAdded"
 msgstr "Role added successfully"
@@ -767,7 +767,7 @@ msgid "menu.showKeys"
 msgstr "Show translation keys"
 
 msgid "label.importRecordCount"
-msgstr ":errorCount rows ready to be imported"
+msgstr ":recordCountParameter rows ready to be imported"
 
 msgid "pageTitle.editSitUpdate"
 msgstr "Edit situation update"
@@ -791,7 +791,7 @@ msgid "label.importAdminUpdates"
 msgstr "HSDU updates"
 
 msgid "label.importedErrorCount"
-msgstr ":errorCount rows found with errors and could not be imported"
+msgstr ":recordCountParameter rows found with errors and could not be imported"
 
 msgid "label.importWs"
 msgstr "Workspaces"
