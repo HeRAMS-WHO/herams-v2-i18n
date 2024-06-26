@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
 "PO-Revision-Date: 2024-06-26 11:49+0000\n"
-"Last-Translator: HeRAMS <herams@who.int>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
 "Language: es\n"
@@ -820,3 +820,36 @@ msgstr "Validación de la importación"
 
 msgid "label.invalidFileFormat"
 msgstr "El fichero tiene un formato inválido"
+
+msgid "icon.deleteUserRole"
+msgstr ""
+
+msgid "icon.editSitUpdate"
+msgstr ""
+
+msgid "icon.deleteUser"
+msgstr ""
+
+msgid "icon.viewAdminUpdate"
+msgstr ""
+
+msgid "icon.deleteSitUpdate"
+msgstr ""
+
+msgid "icon.editAdminUpdate"
+msgstr ""
+
+msgid "icon.impersonateUser"
+msgstr ""
+
+msgid "icon.deleteAdminUpdate"
+msgstr ""
+
+msgid "icon.viewSitUpdate"
+msgstr ""
+
+msgid "icon.deleteRole"
+msgstr ""
+
+msgid "icon.deleteSurvey"
+msgstr ""
