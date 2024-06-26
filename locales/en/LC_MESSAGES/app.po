@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-06-26 08:21+0000\n"
+"PO-Revision-Date: 2024-06-26 11:49+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -395,7 +395,7 @@ msgid "pageTitle.createDashPage"
 msgstr "Create page"
 
 msgid "pageTitle.createHsdu"
-msgstr "Create HSDU"
+msgstr "Register HSDU"
 
 msgid "pageTitle.createProject"
 msgstr "Create project"
@@ -804,3 +804,36 @@ msgstr "Situation updates"
 
 msgid "pageTitle.importCompleted"
 msgstr "Import completed"
+
+msgid "icon.viewAdminUpdate"
+msgstr "View HSDU update"
+
+msgid "icon.viewSitUpdate"
+msgstr "View situation update"
+
+msgid "icon.deleteUserRole"
+msgstr "Delete user"
+
+msgid "icon.deleteRole"
+msgstr "Delete role"
+
+msgid "icon.deleteSitUpdate"
+msgstr "Delete situation update"
+
+msgid "icon.deleteSurvey"
+msgstr "Delete survey"
+
+msgid "icon.editSitUpdate"
+msgstr "Edit situation update"
+
+msgid "icon.impersonateUser"
+msgstr "Impersonate user"
+
+msgid "icon.deleteAdminUpdate"
+msgstr "Delete HSDU update"
+
+msgid "icon.deleteUser"
+msgstr "Delete user"
+
+msgid "icon.editAdminUpdate"
+msgstr "Edit HSDU update"
