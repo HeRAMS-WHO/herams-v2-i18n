@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-06-26 11:49+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-06-26 11:53+0000\n"
+"Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
 "Language: es\n"
@@ -822,34 +822,34 @@ msgid "label.invalidFileFormat"
 msgstr "El fichero tiene un formato inválido"
 
 msgid "icon.deleteUserRole"
-msgstr ""
+msgstr "Eliminar usuario"
 
 msgid "icon.editSitUpdate"
-msgstr ""
+msgstr "Editar modificación"
 
 msgid "icon.deleteUser"
-msgstr ""
+msgstr "Eliminar usuario"
 
 msgid "icon.viewAdminUpdate"
-msgstr ""
+msgstr "Ver modificiación"
 
 msgid "icon.deleteSitUpdate"
-msgstr ""
+msgstr "Eliminar modificación"
 
 msgid "icon.editAdminUpdate"
-msgstr ""
+msgstr "Editar modificiación"
 
 msgid "icon.impersonateUser"
-msgstr ""
+msgstr "Suplantar usuario"
 
 msgid "icon.deleteAdminUpdate"
-msgstr ""
+msgstr "Eliminar modificación"
 
 msgid "icon.viewSitUpdate"
-msgstr ""
+msgstr "Ver modificación"
 
 msgid "icon.deleteRole"
-msgstr ""
+msgstr "Eliminar rol"
 
 msgid "icon.deleteSurvey"
-msgstr ""
+msgstr "Eliminar encuesta"
