@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-06-26 12:14+0000\n"
+"PO-Revision-Date: 2024-06-27 13:09+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6-rc\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 msgid "projectLanguage"
 msgstr ""
@@ -79,13 +79,13 @@ msgstr ""
 "proyecto ?"
 
 msgid "error.projectDiffSurvey"
-msgstr "Las encuestas de HSDU y Situación deben ser diferentes"
+msgstr "Las encuestas de UPSS y Situación deben ser diferentes"
 
 msgid "error.projectLatitudeZero"
 msgstr "Latitud o longitud deben ser diferentes de cero"
 
 msgid "error.projectSelectAdminSurvey"
-msgstr "Seleccione una encuesta de HSDU"
+msgstr "Seleccione una encuesta de UPSS"
 
 msgid "error.roleSelectName"
 msgstr "El nombre del rol es obligatorio"
@@ -109,7 +109,7 @@ msgid "label.country"
 msgstr "País"
 
 msgid "label.deletingHsdu"
-msgstr "Eliminando HSDU ..."
+msgstr "Eliminando UPSS ..."
 
 msgid "label.editAdminUpdate"
 msgstr "Modificar"
@@ -121,7 +121,7 @@ msgid "label.language"
 msgstr "Idoma"
 
 msgid "label.hsdus"
-msgstr "HSDUs"
+msgstr "UPSSs"
 
 msgid "label.lastUpdatedBy"
 msgstr "Modificado por"
@@ -196,7 +196,7 @@ msgid "pageTitle.hsduName"
 msgstr ":hsduName"
 
 msgid "pageTitle.newAdminUpdate"
-msgstr "Modificar HSDU"
+msgstr "Modificar UPSS"
 
 msgid "pageTitle.projectName"
 msgstr ":projectName"
@@ -214,13 +214,13 @@ msgid "placeholder.selectUsers"
 msgstr ""
 
 msgid "tab.adminUpdates"
-msgstr "Modificaciones de HSDU (:AdmUpCount)"
+msgstr "Modificaciones de UPSS (:AdmUpCount)"
 
 msgid "tab.dashSettings"
 msgstr "Parámetros del tablero"
 
 msgid "tab.deleteHsdu"
-msgstr "Eliminar HSDU"
+msgstr "Eliminar UPSS"
 
 msgid "tab.wsSettings"
 msgstr "Parámetros del espacio de trabajo"
@@ -315,13 +315,13 @@ msgid "tab.wsExport"
 msgstr "Exportar datos"
 
 msgid "tableHeader.hsduCode"
-msgstr "Código de HSDU"
+msgstr "Código de UPSS"
 
 msgid "tableHeader.requestResponse"
 msgstr "Respuesta"
 
 msgid "warning.deleteHsdu"
-msgstr "¿ Está seguro de querer eliminar esta HSDU ?"
+msgstr "¿ Está seguro de querer eliminar esta UPSS ?"
 
 msgid "tableHeader.createdDate"
 msgstr "Fecha de creación"
@@ -396,7 +396,7 @@ msgid "pageTitle.dashboard"
 msgstr "Tablero"
 
 msgid "button.createAdminUpdate"
-msgstr "Modificar HSDU"
+msgstr "Modificar UPSS"
 
 msgid "label.requestInvalid"
 msgstr "Solicitud inválida"
@@ -426,7 +426,7 @@ msgid "tableHeader.roleType"
 msgstr "Tipo"
 
 msgid "tableHeader.hsduStatus"
-msgstr "Condición"
+msgstr "Estado"
 
 msgid "error.roleSelectType"
 msgstr "El tipo de rol es obligatorio"
@@ -441,7 +441,7 @@ msgid "label.viewAdminUpdate"
 msgstr "Ver"
 
 msgid "pageTitle.viewAdminUpdate"
-msgstr "Modification de HSDU"
+msgstr "Modification de UPSS"
 
 msgid "tableHeader.hsduAcc"
 msgstr "Accesibilidad"
@@ -483,7 +483,7 @@ msgid "button.delete"
 msgstr "Eliminar"
 
 msgid "button.deleteHsdu"
-msgstr "Eliminar HSDU"
+msgstr "Eliminar UPSS"
 
 msgid "button.deleteProject"
 msgstr "Eliminar proyecto"
@@ -574,7 +574,7 @@ msgid "error.noMatchingRoles"
 msgstr "Ningún rol coincide con su búsqueda"
 
 msgid "pageTitle.wsRequestAccess"
-msgstr "Solicita accesso al espacio de trabajo"
+msgstr "Solicitud de accesso al espacio de trabajo"
 
 msgid "label.deleteAdminUpdate"
 msgstr "Eliminar"
@@ -586,7 +586,7 @@ msgid "label.deleteProject"
 msgstr "Eliminar proyecto"
 
 msgid "confirm.deleteHsdu"
-msgstr "Eliminar HSDU"
+msgstr "Eliminar UPSS"
 
 msgid "label.roleTypeStandard"
 msgstr "Estándar (para todos los proyectos)"
@@ -616,13 +616,13 @@ msgid "label.countryUnspecified"
 msgstr "Indefinido / Formación"
 
 msgid "label.projectAdminSurvey"
-msgstr "Encuesta de HSDU"
+msgstr "Encuesta de UPSS"
 
 msgid "label.requestResponseMsg"
 msgstr "Mensaje al solicitante"
 
 msgid "button.createHsdu"
-msgstr "Nueva HSDU"
+msgstr "Nueva UPSS"
 
 msgid "label.longitude"
 msgstr "Longitud"
@@ -636,7 +636,7 @@ msgid "label.createdDate"
 msgstr "Fecha de creación"
 
 msgid "tableHeader.hsduName"
-msgstr "Nombre de HSDU"
+msgstr "Nombre de UPSS"
 
 msgid "pageTitle.accessRequest"
 msgstr "Solicitudes de acceso"
@@ -661,7 +661,7 @@ msgstr "Cargando ..."
 
 msgid "tooltip.deleteHsdu"
 msgstr ""
-"Está acción eliminará la HSDU de manera permanente. Está accion no se puede "
+"Está acción eliminará la UPSS de manera permanente. Está accion no se puede "
 "revertir."
 
 msgid "label.requestResponseBy"
@@ -727,10 +727,10 @@ msgid "placeholder.wss"
 msgstr "Empiece a escribir para buscar un espacio de trabajo ..."
 
 msgid "tab.hsdus"
-msgstr "HSDUs (:hsduCount)"
+msgstr "UPSSs (:hsduCount)"
 
 msgid "pageTitle.createHsdu"
-msgstr "Nueva HSDU"
+msgstr "Nueva UPSS"
 
 msgid "label.latitude"
 msgstr "Latidud"
@@ -742,7 +742,7 @@ msgid "error.passwordRequired"
 msgstr "La contraseña es obligatoria"
 
 msgid "tableHeader.hsdus"
-msgstr "HSDUs"
+msgstr "UPSSs"
 
 msgid "error.importRowNumber"
 msgstr "Error en fila :rowNumber"
@@ -789,7 +789,7 @@ msgid "label.showMore"
 msgstr "Mostrar más"
 
 msgid "label.importAdminUpdates"
-msgstr "Modificaciones de HSDU"
+msgstr "Modificaciones de UPSS"
 
 msgid "label.importedRecordCount"
 msgstr ":recordCountParameter filas has sido importadas con éxito"
