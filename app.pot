@@ -40,6 +40,9 @@ msgstr ""
 msgid "button.emptyWs"
 msgstr ""
 
+msgid "button.exportCsv"
+msgstr ""
+
 msgid "button.importValidate"
 msgstr ""
 
@@ -227,6 +230,27 @@ msgid "label.emptyProject"
 msgstr ""
 
 msgid "label.emptyWs"
+msgstr ""
+
+msgid "label.exportAnswersText"
+msgstr ""
+
+msgid "label.exportAsOf"
+msgstr ""
+
+msgid "label.exportCodeHeader"
+msgstr ""
+
+msgid "label.exportDate"
+msgstr ""
+
+msgid "label.exportHistory"
+msgstr ""
+
+msgid "label.exportSendEmail"
+msgstr ""
+
+msgid "label.exportTextHeader"
 msgstr ""
 
 msgid "label.globalRoles"
