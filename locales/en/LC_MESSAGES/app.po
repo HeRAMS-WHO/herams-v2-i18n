@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-07-04 15:09+0000\n"
+"PO-Revision-Date: 2024-07-09 09:57+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -845,3 +845,27 @@ msgid "warning.removeProjectLanguage"
 msgstr ""
 "If you remove a project language, existing translations to this language may "
 "be lost"
+
+msgid "label.exportHistory"
+msgstr "Export responses history"
+
+msgid "label.exportAnswersText"
+msgstr "Export answers as text"
+
+msgid "label.exportAsOf"
+msgstr "Export latest response as of"
+
+msgid "label.exportDate"
+msgstr "Date range"
+
+msgid "label.exportSendEmail"
+msgstr "Send an e-mail notification when export is ready"
+
+msgid "label.exportTextHeader"
+msgstr "Include text header"
+
+msgid "label.exportCodeHeader"
+msgstr "Include code header"
+
+msgid "button.exportCsv"
+msgstr "Export CSV"
