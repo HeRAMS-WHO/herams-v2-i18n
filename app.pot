@@ -43,6 +43,9 @@ msgstr ""
 msgid "button.exportCsv"
 msgstr ""
 
+msgid "button.gridExport"
+msgstr ""
+
 msgid "button.importValidate"
 msgstr ""
 
