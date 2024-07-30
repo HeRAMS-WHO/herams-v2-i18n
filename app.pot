@@ -430,6 +430,9 @@ msgstr ""
 msgid "label.roleTypeStandard"
 msgstr ""
 
+msgid "label.scope"
+msgstr ""
+
 msgid "label.selectedFile"
 msgstr ""
 
