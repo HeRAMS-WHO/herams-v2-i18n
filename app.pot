@@ -352,6 +352,9 @@ msgstr ""
 msgid "label.requestDenied"
 msgstr ""
 
+msgid "label.requestedDataExport"
+msgstr ""
+
 msgid "label.requestedDate"
 msgstr ""
 
