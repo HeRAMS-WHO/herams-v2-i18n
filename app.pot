@@ -469,6 +469,9 @@ msgstr ""
 msgid "menu.showKeys"
 msgstr ""
 
+msgid "message.exportSubmited"
+msgstr ""
+
 msgid "message.requestDenied"
 msgstr ""
 
