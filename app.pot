@@ -1,6 +1,9 @@
 msgid "button.cancel"
 msgstr ""
 
+msgid "button.close"
+msgstr ""
+
 msgid "button.createAdminUpdate"
 msgstr ""
 
@@ -262,6 +265,12 @@ msgstr ""
 msgid "label.heramsDescription"
 msgstr ""
 
+msgid "label.history"
+msgstr ""
+
+msgid "label.hsdu"
+msgstr ""
+
 msgid "label.hsdus"
 msgstr ""
 
@@ -331,13 +340,22 @@ msgstr ""
 msgid "label.password"
 msgstr ""
 
+msgid "label.project"
+msgstr ""
+
 msgid "label.projectAdminSurvey"
 msgstr ""
 
 msgid "label.projectLanguage"
 msgstr ""
 
+msgid "label.projectLanguages"
+msgstr ""
+
 msgid "label.projectName"
+msgstr ""
+
+msgid "label.projectPrimaryLanguage"
 msgstr ""
 
 msgid "label.projects"
@@ -347,6 +365,15 @@ msgid "label.projectSitSurvey"
 msgstr ""
 
 msgid "label.projectVisibility"
+msgstr ""
+
+msgid "label.recordCreated"
+msgstr ""
+
+msgid "label.recordDeleted"
+msgstr ""
+
+msgid "label.recordUpdated"
 msgstr ""
 
 msgid "label.requestDenied"
@@ -392,6 +419,9 @@ msgid "label.requestSubject"
 msgstr ""
 
 msgid "label.resetGrid"
+msgstr ""
+
+msgid "label.response"
 msgstr ""
 
 msgid "label.roleName"
@@ -440,6 +470,9 @@ msgid "label.selectedFile"
 msgstr ""
 
 msgid "label.showMore"
+msgstr ""
+
+msgid "label.status"
 msgstr ""
 
 msgid "label.userEmail"
@@ -691,6 +724,9 @@ msgstr ""
 msgid "tableHeader.dateOfUpdate"
 msgstr ""
 
+msgid "tableHeader.fieldName"
+msgstr ""
+
 msgid "tableHeader.hsduAcc"
 msgstr ""
 
@@ -719,6 +755,9 @@ msgid "tableHeader.id"
 msgstr ""
 
 msgid "tableHeader.lastUpdatedBy"
+msgstr ""
+
+msgid "tableHeader.oldValue"
 msgstr ""
 
 msgid "tableHeader.projectCoordinator"
