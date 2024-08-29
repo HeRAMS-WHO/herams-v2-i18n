@@ -196,7 +196,13 @@ msgstr ""
 msgid "icon.viewAdminUpdate"
 msgstr ""
 
+msgid "icon.viewAdminUpdateHistory"
+msgstr ""
+
 msgid "icon.viewSitUpdate"
+msgstr ""
+
+msgid "icon.viewSitUpdateHistory"
 msgstr ""
 
 msgid "label.contributors"
