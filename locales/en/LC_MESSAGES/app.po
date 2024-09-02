@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-08-06 13:09+0000\n"
+"PO-Revision-Date: 2024-09-02 11:59+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 msgid "label.projectName"
 msgstr "Project name"
@@ -872,3 +872,35 @@ msgstr "Export CSV"
 
 msgid "button.gridExport"
 msgstr "Export table"
+
+msgid "button.close"
+msgstr "Close"
+
+msgid "label.auditDeleted"
+msgstr "Record deleted"
+
+msgid "label.auditUpdated"
+msgstr "Record updated"
+
+msgid "tableHeader.auditFieldName"
+msgstr "Field name"
+
+msgid "tableHeader.auditNewValue"
+msgstr "New values"
+
+msgid "label.hsdu"
+msgstr "HSDU"
+
+msgid "message.exportSubmited"
+msgstr ""
+"Your data export request has been submitted. You will receive a notification "
+"once the export file is ready."
+
+msgid "tableHeader.auditOldValue"
+msgstr "Old values"
+
+msgid "label.auditCreated"
+msgstr "Record created"
+
+msgid "label.auditHistory"
+msgstr "History"
