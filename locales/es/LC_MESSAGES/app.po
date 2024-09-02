@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-09-02 11:47+0000\n"
+"PO-Revision-Date: 2024-09-02 12:04+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -889,3 +889,35 @@ msgstr "Fechas"
 
 msgid "button.gridExport"
 msgstr "Exportar tabla"
+
+msgid "button.close"
+msgstr "Cerrar"
+
+msgid "label.auditUpdated"
+msgstr "Registro modificado"
+
+msgid "label.hsdu"
+msgstr "UPSS"
+
+msgid "message.exportSubmited"
+msgstr ""
+"Su solicitud de exportación ha sido registrada. Recibirá una notificación "
+"cuando el fichero esté listo."
+
+msgid "tableHeader.auditOldValue"
+msgstr "Valores antiguos"
+
+msgid "label.auditCreated"
+msgstr "Registro creado"
+
+msgid "label.auditDeleted"
+msgstr "Registro borrado"
+
+msgid "label.auditHistory"
+msgstr "Historial"
+
+msgid "tableHeader.auditFieldName"
+msgstr "Nombre del campo"
+
+msgid "tableHeader.auditNewValue"
+msgstr "Valores nuevos"
