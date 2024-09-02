@@ -205,6 +205,18 @@ msgstr ""
 msgid "icon.viewSitUpdateHistory"
 msgstr ""
 
+msgid "label.auditCreated"
+msgstr ""
+
+msgid "label.auditDeleted"
+msgstr ""
+
+msgid "label.auditHistory"
+msgstr ""
+
+msgid "label.auditUpdated"
+msgstr ""
+
 msgid "label.contributors"
 msgstr ""
 
@@ -716,6 +728,15 @@ msgid "tab.wsUsers"
 msgstr ""
 
 msgid "tableHeader.actions"
+msgstr ""
+
+msgid "tableHeader.auditFieldName"
+msgstr ""
+
+msgid "tableHeader.auditNewValue"
+msgstr ""
+
+msgid "tableHeader.auditOldValue"
 msgstr ""
 
 msgid "tableHeader.contributors"
