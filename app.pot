@@ -385,15 +385,6 @@ msgstr ""
 msgid "label.projectVisibility"
 msgstr ""
 
-msgid "label.recordCreated"
-msgstr ""
-
-msgid "label.recordDeleted"
-msgstr ""
-
-msgid "label.recordUpdated"
-msgstr ""
-
 msgid "label.requestDenied"
 msgstr ""
 
@@ -751,9 +742,6 @@ msgstr ""
 msgid "tableHeader.dateOfUpdate"
 msgstr ""
 
-msgid "tableHeader.fieldName"
-msgstr ""
-
 msgid "tableHeader.hsduAcc"
 msgstr ""
 
@@ -782,9 +770,6 @@ msgid "tableHeader.id"
 msgstr ""
 
 msgid "tableHeader.lastUpdatedBy"
-msgstr ""
-
-msgid "tableHeader.oldValue"
 msgstr ""
 
 msgid "tableHeader.projectCoordinator"
