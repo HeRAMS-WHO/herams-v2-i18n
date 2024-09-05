@@ -238,6 +238,9 @@ msgstr ""
 msgid "label.dashURL"
 msgstr ""
 
+msgid "label.deleteHsdu"
+msgstr ""
+
 msgid "label.deleteProject"
 msgstr ""
 
@@ -496,6 +499,9 @@ msgstr ""
 msgid "label.users"
 msgstr ""
 
+msgid "label.workspaceTitle"
+msgstr ""
+
 msgid "label.ws"
 msgstr ""
 
@@ -737,6 +743,9 @@ msgid "tableHeader.createdBy"
 msgstr ""
 
 msgid "tableHeader.createdDate"
+msgstr ""
+
+msgid "tableHeader.createSitUpdate"
 msgstr ""
 
 msgid "tableHeader.dateOfUpdate"
