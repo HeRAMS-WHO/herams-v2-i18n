@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-09-18 05:58+0000\n"
+"PO-Revision-Date: 2024-09-23 08:49+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -910,3 +910,24 @@ msgstr "Record history"
 
 msgid "label.projectLanguages"
 msgstr "Languages"
+
+msgid "tableHeader.hsduAdmin1"
+msgstr "Admin 1"
+
+msgid "tableHeader.hsduBuildCond"
+msgstr "Building Condition"
+
+msgid "tableHeader.hsduEquipCond"
+msgstr "Equipment Condition"
+
+msgid "tableHeader.hsduLocation"
+msgstr "Location"
+
+msgid "label.deleteHsdu"
+msgstr "Delete HSDU"
+
+msgid "icon.viewAdminUpdateHistory"
+msgstr "View history"
+
+msgid "icon.viewSitUpdateHistory"
+msgstr "View history"
