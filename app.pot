@@ -754,10 +754,22 @@ msgstr ""
 msgid "tableHeader.hsduAcc"
 msgstr ""
 
+msgid "tableHeader.hsduAdmin1"
+msgstr ""
+
+msgid "tableHeader.hsduBuildCond"
+msgstr ""
+
 msgid "tableHeader.hsduCode"
 msgstr ""
 
+msgid "tableHeader.hsduEquipCond"
+msgstr ""
+
 msgid "tableHeader.hsduFunc"
+msgstr ""
+
+msgid "tableHeader.hsduLocation"
 msgstr ""
 
 msgid "tableHeader.hsduName"
@@ -779,6 +791,9 @@ msgid "tableHeader.id"
 msgstr ""
 
 msgid "tableHeader.lastUpdatedBy"
+msgstr ""
+
+msgid "tableHeader.lastUpdatedDate"
 msgstr ""
 
 msgid "tableHeader.projectCoordinator"
