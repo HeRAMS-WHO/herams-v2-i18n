@@ -238,6 +238,15 @@ msgstr ""
 msgid "label.dashURL"
 msgstr ""
 
+msgid "label.dateFormatDMY"
+msgstr ""
+
+msgid "label.dateFormatMDY"
+msgstr ""
+
+msgid "label.dateFormatYMD"
+msgstr ""
+
 msgid "label.deleteHsdu"
 msgstr ""
 
@@ -487,7 +496,13 @@ msgstr ""
 msgid "label.status"
 msgstr ""
 
+msgid "label.userDateFormat"
+msgstr ""
+
 msgid "label.userEmail"
+msgstr ""
+
+msgid "label.userLanguage"
 msgstr ""
 
 msgid "label.userLastLogin"
@@ -497,6 +512,9 @@ msgid "label.userName"
 msgstr ""
 
 msgid "label.users"
+msgstr ""
+
+msgid "label.userTimezone"
 msgstr ""
 
 msgid "label.workspaceTitle"
