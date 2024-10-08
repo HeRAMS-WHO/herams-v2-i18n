@@ -91,6 +91,9 @@ msgstr ""
 msgid "button.workspaces"
 msgstr ""
 
+msgid "charts.demo"
+msgstr ""
+
 msgid "confirm.deleteHsdu"
 msgstr ""
 
@@ -557,6 +560,9 @@ msgid "pageTitle.accessRequest"
 msgstr ""
 
 msgid "pageTitle.administration"
+msgstr ""
+
+msgid "pageTitle.chartsDemo"
 msgstr ""
 
 msgid "pageTitle.createDashPage"
