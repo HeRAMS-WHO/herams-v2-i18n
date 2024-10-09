@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-10-09 11:53+0000\n"
+"PO-Revision-Date: 2024-10-09 12:02+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -960,3 +960,15 @@ msgstr "Mes/Día/Año"
 
 msgid "label.dateFormatYMD"
 msgstr "Año-Mes-Día"
+
+msgid "tableHeader.createSitUpdate"
+msgstr "Modificar situación"
+
+msgid "label.userDateFormat"
+msgstr "Formato de fecha"
+
+msgid "label.userLanguage"
+msgstr "Idioma de preferencia"
+
+msgid "label.userTimezone"
+msgstr "Zona horaria"
