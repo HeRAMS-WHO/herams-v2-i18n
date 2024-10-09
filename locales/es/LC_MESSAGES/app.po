@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-09-23 08:45+0000\n"
+"PO-Revision-Date: 2024-10-09 11:53+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -923,7 +923,40 @@ msgid "tableHeader.auditNewValue"
 msgstr "Valores nuevos"
 
 msgid "label.history"
-msgstr ""
+msgstr "Histórico del registro"
 
 msgid "label.projectLanguages"
-msgstr ""
+msgstr "Idiomas"
+
+msgid "tableHeader.lastUpdatedDate"
+msgstr "Última modificación"
+
+msgid "tableHeader.hsduBuildCond"
+msgstr "Estado del edificio"
+
+msgid "icon.viewSitUpdateHistory"
+msgstr "Ver histórico"
+
+msgid "tableHeader.hsduAdmin1"
+msgstr "Admin 1"
+
+msgid "icon.viewAdminUpdateHistory"
+msgstr "Ver histórico"
+
+msgid "label.deleteHsdu"
+msgstr "Borrar UPSS"
+
+msgid "tableHeader.hsduEquipCond"
+msgstr "Estado del equipamiento"
+
+msgid "tableHeader.hsduLocation"
+msgstr "Ubicación"
+
+msgid "label.dateFormatDMY"
+msgstr "Día/Mes/Año"
+
+msgid "label.dateFormatMDY"
+msgstr "Mes/Día/Año"
+
+msgid "label.dateFormatYMD"
+msgstr "Año-Mes-Día"
