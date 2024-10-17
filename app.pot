@@ -91,9 +91,6 @@ msgstr ""
 msgid "button.workspaces"
 msgstr ""
 
-msgid "charts.demo"
-msgstr ""
-
 msgid "confirm.deleteHsdu"
 msgstr ""
 
@@ -119,12 +116,6 @@ msgid "error.mandatoryFields"
 msgstr ""
 
 msgid "error.noMatchingRoles"
-msgstr ""
-
-msgid "error.noMatchingUsers"
-msgstr ""
-
-msgid "error.noMatchingWss"
 msgstr ""
 
 msgid "error.passwordRequired"
@@ -298,9 +289,6 @@ msgstr ""
 msgid "label.heramsDescription"
 msgstr ""
 
-msgid "label.history"
-msgstr ""
-
 msgid "label.hsdu"
 msgstr ""
 
@@ -373,16 +361,10 @@ msgstr ""
 msgid "label.password"
 msgstr ""
 
-msgid "label.project"
-msgstr ""
-
 msgid "label.projectAdminSurvey"
 msgstr ""
 
 msgid "label.projectLanguage"
-msgstr ""
-
-msgid "label.projectLanguages"
 msgstr ""
 
 msgid "label.projectName"
@@ -401,9 +383,6 @@ msgid "label.projectVisibility"
 msgstr ""
 
 msgid "label.requestDenied"
-msgstr ""
-
-msgid "label.requestedDataExport"
 msgstr ""
 
 msgid "label.requestedDate"
@@ -487,9 +466,6 @@ msgstr ""
 msgid "label.roleTypeStandard"
 msgstr ""
 
-msgid "label.scope"
-msgstr ""
-
 msgid "label.selectedFile"
 msgstr ""
 
@@ -562,9 +538,6 @@ msgstr ""
 msgid "pageTitle.administration"
 msgstr ""
 
-msgid "pageTitle.chartsDemo"
-msgstr ""
-
 msgid "pageTitle.createDashPage"
 msgstr ""
 
@@ -590,9 +563,6 @@ msgid "pageTitle.dashPageName"
 msgstr ""
 
 msgid "pageTitle.editAdminUpdate"
-msgstr ""
-
-msgid "pageTitle.editRole"
 msgstr ""
 
 msgid "pageTitle.editSitUpdate"
@@ -739,9 +709,6 @@ msgstr ""
 msgid "tab.workspaces"
 msgstr ""
 
-msgid "tab.wsExport"
-msgstr ""
-
 msgid "tab.wsSettings"
 msgstr ""
 
@@ -803,9 +770,6 @@ msgid "tableHeader.hsdus"
 msgstr ""
 
 msgid "tableHeader.hsduStatus"
-msgstr ""
-
-msgid "tableHeader.hsduTier"
 msgstr ""
 
 msgid "tableHeader.hsduType"
