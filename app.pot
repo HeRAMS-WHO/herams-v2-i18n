@@ -1,3 +1,6 @@
+msgid "button.button.exportDashPages"
+msgstr ""
+
 msgid "button.cancel"
 msgstr ""
 
@@ -5,6 +8,9 @@ msgid "button.close"
 msgstr ""
 
 msgid "button.createAdminUpdate"
+msgstr ""
+
+msgid "button.createDashPage"
 msgstr ""
 
 msgid "button.createHsdu"
@@ -31,6 +37,9 @@ msgstr ""
 msgid "button.delete"
 msgstr ""
 
+msgid "button.deleteDash"
+msgstr ""
+
 msgid "button.deleteHsdu"
 msgstr ""
 
@@ -46,7 +55,16 @@ msgstr ""
 msgid "button.exportCsv"
 msgstr ""
 
+msgid "button.exportDash"
+msgstr ""
+
 msgid "button.gridExport"
+msgstr ""
+
+msgid "button.importDash"
+msgstr ""
+
+msgid "button.importDashPages"
 msgstr ""
 
 msgid "button.importValidate"
@@ -91,6 +109,12 @@ msgstr ""
 msgid "button.workspaces"
 msgstr ""
 
+msgid "charts.demo"
+msgstr ""
+
+msgid "confirm.deleteDashboard"
+msgstr ""
+
 msgid "confirm.deleteHsdu"
 msgstr ""
 
@@ -112,10 +136,19 @@ msgstr ""
 msgid "error.invalidEmail"
 msgstr ""
 
+msgid "error.invalidJson"
+msgstr ""
+
 msgid "error.mandatoryFields"
 msgstr ""
 
 msgid "error.noMatchingRoles"
+msgstr ""
+
+msgid "error.noMatchingUsers"
+msgstr ""
+
+msgid "error.noMatchingWss"
 msgstr ""
 
 msgid "error.passwordRequired"
@@ -229,6 +262,18 @@ msgstr ""
 msgid "label.createUserRole"
 msgstr ""
 
+msgid "label.dashPage"
+msgstr ""
+
+msgid "label.dashPageCode"
+msgstr ""
+
+msgid "label.dashPages"
+msgstr ""
+
+msgid "label.dashStructure"
+msgstr ""
+
 msgid "label.dashURL"
 msgstr ""
 
@@ -251,6 +296,9 @@ msgid "label.deletingHsdu"
 msgstr ""
 
 msgid "label.deletingProject"
+msgstr ""
+
+msgid "label.emptyDashboard"
 msgstr ""
 
 msgid "label.emptyingProject"
@@ -287,6 +335,9 @@ msgid "label.globalRoles"
 msgstr ""
 
 msgid "label.heramsDescription"
+msgstr ""
+
+msgid "label.history"
 msgstr ""
 
 msgid "label.hsdu"
@@ -361,10 +412,16 @@ msgstr ""
 msgid "label.password"
 msgstr ""
 
+msgid "label.project"
+msgstr ""
+
 msgid "label.projectAdminSurvey"
 msgstr ""
 
 msgid "label.projectLanguage"
+msgstr ""
+
+msgid "label.projectLanguages"
 msgstr ""
 
 msgid "label.projectName"
@@ -383,6 +440,9 @@ msgid "label.projectVisibility"
 msgstr ""
 
 msgid "label.requestDenied"
+msgstr ""
+
+msgid "label.requestedDataExport"
 msgstr ""
 
 msgid "label.requestedDate"
@@ -466,6 +526,9 @@ msgstr ""
 msgid "label.roleTypeStandard"
 msgstr ""
 
+msgid "label.scope"
+msgstr ""
+
 msgid "label.selectedFile"
 msgstr ""
 
@@ -538,6 +601,9 @@ msgstr ""
 msgid "pageTitle.administration"
 msgstr ""
 
+msgid "pageTitle.chartsDemo"
+msgstr ""
+
 msgid "pageTitle.createDashPage"
 msgstr ""
 
@@ -563,6 +629,9 @@ msgid "pageTitle.dashPageName"
 msgstr ""
 
 msgid "pageTitle.editAdminUpdate"
+msgstr ""
+
+msgid "pageTitle.editRole"
 msgstr ""
 
 msgid "pageTitle.editSitUpdate"
@@ -709,6 +778,9 @@ msgstr ""
 msgid "tab.workspaces"
 msgstr ""
 
+msgid "tab.wsExport"
+msgstr ""
+
 msgid "tab.wsSettings"
 msgstr ""
 
@@ -737,6 +809,12 @@ msgid "tableHeader.createdDate"
 msgstr ""
 
 msgid "tableHeader.createSitUpdate"
+msgstr ""
+
+msgid "tableHeader.dashPageCode"
+msgstr ""
+
+msgid "tableHeader.dashPageElements"
 msgstr ""
 
 msgid "tableHeader.dateOfUpdate"
@@ -770,6 +848,9 @@ msgid "tableHeader.hsdus"
 msgstr ""
 
 msgid "tableHeader.hsduStatus"
+msgstr ""
+
+msgid "tableHeader.hsduTier"
 msgstr ""
 
 msgid "tableHeader.hsduType"
