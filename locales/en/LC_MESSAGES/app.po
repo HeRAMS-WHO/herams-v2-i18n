@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-10-09 12:02+0000\n"
+"PO-Revision-Date: 2024-10-24 08:41+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.8.2-dev\n"
 
 msgid "label.projectName"
 msgstr "Project name"
@@ -955,3 +955,47 @@ msgstr "Timezone"
 
 msgid "tableHeader.createSitUpdate"
 msgstr "Update situation"
+
+msgid "button.deleteDash"
+msgstr "Clear dashboard"
+
+msgid "confirm.deleteDashboard"
+msgstr "Delete dashboard"
+
+msgid "label.dashStructure"
+msgstr "Structure"
+
+msgid "label.emptyDashboard"
+msgstr ""
+"This action will delete the dashboard structure and all pages. Do you want "
+"to continue ?"
+
+msgid "tableHeader.dashPageCode"
+msgstr "Page code"
+
+msgid "tableHeader.dashPageElements"
+msgstr "Number of elements"
+
+msgid "label.dashPages"
+msgstr "Pages"
+
+msgid "error.invalidJson"
+msgstr "Invalid JSON"
+
+msgid "label.dashPage"
+msgstr "Page"
+
+msgid "button.importDashPages"
+msgstr "Import pages"
+
+msgid "button.createDashPage"
+msgstr "Add page"
+
+msgid "button.exportDash"
+msgstr "Export structure"
+
+msgid "button.importDash"
+msgstr "Import structure"
+
+msgid "label.dashPageCode"
+msgstr "Page code"
