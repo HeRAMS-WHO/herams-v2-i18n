@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-11-25 09:53+0000\n"
+"PO-Revision-Date: 2024-12-05 10:01+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -1125,3 +1125,24 @@ msgstr "Descripción general"
 
 msgid "chartPage.commServices"
 msgstr "Servicios"
+
+msgid "chartPage.svlOverview"
+msgstr ""
+
+msgid "chartPage.stiOverview"
+msgstr ""
+
+msgid "chartPage.ncdOverview"
+msgstr ""
+
+msgid "chartPage.ncdServices"
+msgstr ""
+
+msgid "chartPage.stiServices"
+msgstr ""
+
+msgid "chartPage.svlServices"
+msgstr ""
+
+msgid "error.invalidFiles"
+msgstr ""
