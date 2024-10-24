@@ -58,6 +58,9 @@ msgstr ""
 msgid "button.exportDash"
 msgstr ""
 
+msgid "button.exportDashPages"
+msgstr ""
+
 msgid "button.gridExport"
 msgstr ""
 
