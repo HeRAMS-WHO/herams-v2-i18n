@@ -1,6 +1,3 @@
-msgid "button.button.exportDashPages"
-msgstr ""
-
 msgid "button.cancel"
 msgstr ""
 
