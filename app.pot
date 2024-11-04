@@ -136,6 +136,9 @@ msgstr ""
 msgid "error.invalidEmail"
 msgstr ""
 
+msgid "error.invalidFiles"
+msgstr ""
+
 msgid "error.invalidJson"
 msgstr ""
 
@@ -149,6 +152,9 @@ msgid "error.noMatchingUsers"
 msgstr ""
 
 msgid "error.noMatchingWss"
+msgstr ""
+
+msgid "error.pageCodeNotFound"
 msgstr ""
 
 msgid "error.passwordRequired"
