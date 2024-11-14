@@ -322,6 +322,15 @@ msgstr ""
 msgid "label.emptyWs"
 msgstr ""
 
+msgid "label.excludeHsdusIncomp"
+msgstr ""
+
+msgid "label.excludeHsdusNonFunc"
+msgstr ""
+
+msgid "label.excludeHsdusPlanned"
+msgstr ""
+
 msgid "label.exportAnswersText"
 msgstr ""
 
