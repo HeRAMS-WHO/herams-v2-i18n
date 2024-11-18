@@ -115,12 +115,6 @@ msgstr ""
 msgid "button.workspaces"
 msgstr ""
 
-msgid "charts.demo"
-msgstr ""
-
-msgid "chartsDemo"
-msgstr ""
-
 msgid "confirm.deleteDashboard"
 msgstr ""
 
@@ -134,9 +128,6 @@ msgid "confirm.deleteUserRole"
 msgstr ""
 
 msgid "confirm.emptyProject"
-msgstr ""
-
-msgid "demo"
 msgstr ""
 
 msgid "error.emailRequired"
@@ -638,9 +629,6 @@ msgid "pageTitle.accessRequest"
 msgstr ""
 
 msgid "pageTitle.administration"
-msgstr ""
-
-msgid "pageTitle.chartsDemo"
 msgstr ""
 
 msgid "pageTitle.createDashPage"
