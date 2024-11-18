@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-10-28 15:17+0000\n"
+"PO-Revision-Date: 2024-11-18 09:45+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.2-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 msgid "projectLanguage"
 msgstr ""
@@ -1019,3 +1019,15 @@ msgstr ""
 
 msgid "button.exportDashPages"
 msgstr "Exportar páginas"
+
+msgid "button.goToProject"
+msgstr "Ir al proyecto"
+
+msgid "button.print"
+msgstr "Imprimir"
+
+msgid "label.excludeHsdusIncomp"
+msgstr "Excluir referencias incompletas"
+
+msgid "label.excludeHsdusNonFunc"
+msgstr "Excluir UPSSs no funcionales"
