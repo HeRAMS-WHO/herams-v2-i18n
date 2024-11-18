@@ -58,6 +58,9 @@ msgstr ""
 msgid "button.exportDashPages"
 msgstr ""
 
+msgid "button.goToProject"
+msgstr ""
+
 msgid "button.gridExport"
 msgstr ""
 
@@ -74,6 +77,9 @@ msgid "button.login"
 msgstr ""
 
 msgid "button.ok"
+msgstr ""
+
+msgid "button.print"
 msgstr ""
 
 msgid "button.requestAccess"
@@ -242,6 +248,12 @@ msgid "icon.viewSitUpdate"
 msgstr ""
 
 msgid "icon.viewSitUpdateHistory"
+msgstr ""
+
+msgid "label.asOfDate\', { date: selectedDate.format(\'YYYY-MM-DD"
+msgstr ""
+
+msgid "label.asOfToday"
 msgstr ""
 
 msgid "label.auditCreated"
@@ -427,7 +439,13 @@ msgstr ""
 msgid "label.newsleter"
 msgstr ""
 
+msgid "label.noFilters"
+msgstr ""
+
 msgid "label.noSitUpdates"
+msgstr ""
+
+msgid "label.noWorkspacesAvailable"
 msgstr ""
 
 msgid "label.password"
