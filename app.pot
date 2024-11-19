@@ -115,6 +115,9 @@ msgstr ""
 msgid "button.workspaces"
 msgstr ""
 
+msgid "chartsDemo"
+msgstr ""
+
 msgid "confirm.deleteDashboard"
 msgstr ""
 
@@ -128,6 +131,9 @@ msgid "confirm.deleteUserRole"
 msgstr ""
 
 msgid "confirm.emptyProject"
+msgstr ""
+
+msgid "demo"
 msgstr ""
 
 msgid "error.emailRequired"
@@ -260,6 +266,9 @@ msgid "label.auditUpdated"
 msgstr ""
 
 msgid "label.contributors"
+msgstr ""
+
+msgid "label.copiedLink"
 msgstr ""
 
 msgid "label.country"
