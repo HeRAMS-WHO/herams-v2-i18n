@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-11-18 09:45+0000\n"
+"PO-Revision-Date: 2024-11-21 13:34+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -1014,3 +1014,81 @@ msgstr "Exclude incomplete baselines"
 
 msgid "label.excludeHsdusNonFunc"
 msgstr "Exclude non-functional HSDUs"
+
+msgid "label.copiedLink"
+msgstr "The link has been copied into your device clipboard"
+
+msgid "chartPage.cold"
+msgstr "Cold chain"
+
+msgid "chartPage.gcsService"
+msgstr "Services"
+
+msgid "chartPage.mnh"
+msgstr "Maternal and newborn health"
+
+msgid "chartPage.ncd"
+msgstr "Non-communicable diseases"
+
+msgid "chartPage.healthInf"
+msgstr "Health information"
+
+msgid "chartPage.svl"
+msgstr "Sexual violence"
+
+msgid "chartPage.mnhOverview"
+msgstr "Overview"
+
+msgid "chartPage.overview"
+msgstr "Overview"
+
+msgid "chartPage.sanitation"
+msgstr "Sanitation"
+
+msgid "chartPage.water"
+msgstr "Water"
+
+msgid "chartPage.basicAmenities"
+msgstr "Basic Amenities"
+
+msgid "chartPage.gcs"
+msgstr "General clinical services"
+
+msgid "chartPage.buildAndEquip"
+msgstr "Building and equipment condition"
+
+msgid "chartPage.services"
+msgstr "Services"
+
+msgid "chartPage.comms"
+msgstr "Communications"
+
+msgid "chartPage.mnhServices"
+msgstr "Services"
+
+msgid "chartPage.functionality"
+msgstr "Functionality"
+
+msgid "chartPage.gcsOverview"
+msgstr "Overview"
+
+msgid "chartPage.power"
+msgstr "Power"
+
+msgid "chartPage.servicesOverview"
+msgstr "Overview"
+
+msgid "chartPage.waste"
+msgstr "Waste management"
+
+msgid "chartPage.accessibility"
+msgstr "Accessibility"
+
+msgid "chartPage.comm"
+msgstr "Communication"
+
+msgid "chartPage.mgmntAndSupp"
+msgstr "Management and support"
+
+msgid "chartPage.sti"
+msgstr "SIT & HIV/AIDS"
