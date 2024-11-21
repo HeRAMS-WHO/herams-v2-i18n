@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-11-18 09:45+0000\n"
+"PO-Revision-Date: 2024-11-21 13:41+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -1031,3 +1031,81 @@ msgstr "Excluir referencias incompletas"
 
 msgid "label.excludeHsdusNonFunc"
 msgstr "Excluir UPSSs no funcionales"
+
+msgid "label.copiedLink"
+msgstr "El link ha sido copiado al portapapeles de su dispositivo"
+
+msgid "chartPage.gcsService"
+msgstr "Servicios"
+
+msgid "chartPage.mnh"
+msgstr "Salud materna y neonatal"
+
+msgid "chartPage.mnhOverview"
+msgstr "Descripción general"
+
+msgid "chartPage.ncd"
+msgstr "Enfermedades no transmisibles"
+
+msgid "chartPage.overview"
+msgstr "Descripción general"
+
+msgid "chartPage.svl"
+msgstr "Violencia sexual"
+
+msgid "chartPage.water"
+msgstr "Agua"
+
+msgid "chartPage.basicAmenities"
+msgstr "Amenidades básicas"
+
+msgid "chartPage.buildAndEquip"
+msgstr "Estado operacional"
+
+msgid "chartPage.comms"
+msgstr "Comunicaciones"
+
+msgid "chartPage.functionality"
+msgstr "Funcionalidad"
+
+msgid "chartPage.gcs"
+msgstr "Servicios clínicos generales"
+
+msgid "chartPage.gcsOverview"
+msgstr "Descripción general"
+
+msgid "chartPage.mnhServices"
+msgstr "Servicios"
+
+msgid "chartPage.power"
+msgstr "Energía"
+
+msgid "chartPage.services"
+msgstr "Servicios"
+
+msgid "chartPage.servicesOverview"
+msgstr "Descripción general"
+
+msgid "chartPage.waste"
+msgstr "Tratamiento de deshechos"
+
+msgid "chartPage.accessibility"
+msgstr "Accesibilidad"
+
+msgid "chartPage.cold"
+msgstr "Cadena de frío"
+
+msgid "chartPage.comm"
+msgstr "Comunicación"
+
+msgid "chartPage.healthInf"
+msgstr "Sistemas de información sanitaria"
+
+msgid "chartPage.mgmntAndSupp"
+msgstr "Gestión y soporte"
+
+msgid "chartPage.sanitation"
+msgstr "Instalaciones sanitarias"
+
+msgid "chartPage.sti"
+msgstr "ETS & VIH/SIDA"
