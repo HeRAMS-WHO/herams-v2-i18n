@@ -115,6 +115,81 @@ msgstr ""
 msgid "button.workspaces"
 msgstr ""
 
+msgid "chartPage.accessibility"
+msgstr ""
+
+msgid "chartPage.basicAmenities"
+msgstr ""
+
+msgid "chartPage.buildAndEquip"
+msgstr ""
+
+msgid "chartPage.cold"
+msgstr ""
+
+msgid "chartPage.comm"
+msgstr ""
+
+msgid "chartPage.comms"
+msgstr ""
+
+msgid "chartPage.functionality"
+msgstr ""
+
+msgid "chartPage.gcs"
+msgstr ""
+
+msgid "chartPage.gcsOverview"
+msgstr ""
+
+msgid "chartPage.gcsService"
+msgstr ""
+
+msgid "chartPage.healthInf"
+msgstr ""
+
+msgid "chartPage.mgmntAndSupp"
+msgstr ""
+
+msgid "chartPage.mnh"
+msgstr ""
+
+msgid "chartPage.mnhOverview"
+msgstr ""
+
+msgid "chartPage.mnhServices"
+msgstr ""
+
+msgid "chartPage.ncd"
+msgstr ""
+
+msgid "chartPage.overview"
+msgstr ""
+
+msgid "chartPage.power"
+msgstr ""
+
+msgid "chartPage.sanitation"
+msgstr ""
+
+msgid "chartPage.services"
+msgstr ""
+
+msgid "chartPage.servicesOverview"
+msgstr ""
+
+msgid "chartPage.sti"
+msgstr ""
+
+msgid "chartPage.svl"
+msgstr ""
+
+msgid "chartPage.waste"
+msgstr ""
+
+msgid "chartPage.water"
+msgstr ""
+
 msgid "chartsDemo"
 msgstr ""
 
