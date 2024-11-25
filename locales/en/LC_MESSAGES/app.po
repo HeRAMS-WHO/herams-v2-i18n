@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-11-21 13:34+0000\n"
+"PO-Revision-Date: 2024-11-25 09:53+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -1092,3 +1092,18 @@ msgstr "Management and support"
 
 msgid "chartPage.sti"
 msgstr "SIT & HIV/AIDS"
+
+msgid "label.dashDisclaimer"
+msgstr ""
+"Note: The deployment of HeRAMS, including data reporting, validation, and "
+"verification, is ongoing. Hence, the here presented analysis is subject to "
+"change and has been created solely for the purpose of informing operations"
+
+msgid "chartPage.commOverview"
+msgstr "Overview"
+
+msgid "chartPage.commServices"
+msgstr "Services"
+
+msgid "label.noFilters"
+msgstr "No filters"
