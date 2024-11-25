@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-11-21 13:41+0000\n"
+"PO-Revision-Date: 2024-11-25 09:53+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -1109,3 +1109,19 @@ msgstr "Instalaciones sanitarias"
 
 msgid "chartPage.sti"
 msgstr "ETS & VIH/SIDA"
+
+msgid "label.dashDisclaimer"
+msgstr ""
+"Nota: La implementación de HeRAMS, incluidos los informes, la validación y "
+"la verificación de datos, está en curso. Por lo tanto, el análisis "
+"presentado aquí está sujeto a cambios y se ha creado únicamente con el "
+"propósito de informar las operaciones"
+
+msgid "label.noFilters"
+msgstr "Sin filtros"
+
+msgid "chartPage.commOverview"
+msgstr "Descripción general"
+
+msgid "chartPage.commServices"
+msgstr "Servicios"
