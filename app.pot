@@ -130,7 +130,13 @@ msgstr ""
 msgid "chartPage.comm"
 msgstr ""
 
+msgid "chartPage.commOverview"
+msgstr ""
+
 msgid "chartPage.comms"
+msgstr ""
+
+msgid "chartPage.commServices"
 msgstr ""
 
 msgid "chartPage.functionality"
@@ -359,6 +365,9 @@ msgid "label.createdDate"
 msgstr ""
 
 msgid "label.createUserRole"
+msgstr ""
+
+msgid "label.dashDisclaimer"
 msgstr ""
 
 msgid "label.dashPage"
