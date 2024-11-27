@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-11-25 09:53+0000\n"
+"PO-Revision-Date: 2024-11-27 10:19+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -1107,3 +1107,24 @@ msgstr "Services"
 
 msgid "label.noFilters"
 msgstr "No filters"
+
+msgid "chartPage.stiOverview"
+msgstr "Overview"
+
+msgid "chartPage.svlOverview"
+msgstr "Overview"
+
+msgid "chartPage.ncdOverview"
+msgstr "Overview"
+
+msgid "chartPage.ncdServices"
+msgstr "Services"
+
+msgid "chartPage.stiServices"
+msgstr "Services"
+
+msgid "chartPage.svlServices"
+msgstr "Services"
+
+msgid "error.invalidFiles"
+msgstr "Invalid JSON files"
