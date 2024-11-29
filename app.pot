@@ -214,6 +214,9 @@ msgstr ""
 msgid "chartPage.water"
 msgstr ""
 
+msgid "charts.demo"
+msgstr ""
+
 msgid "confirm.deleteDashboard"
 msgstr ""
 
@@ -339,7 +342,6 @@ msgstr ""
 
 msgid "icon.viewSitUpdateHistory"
 msgstr ""
-
 
 msgid "label.asOfToday"
 msgstr ""
@@ -734,6 +736,9 @@ msgstr ""
 msgid "pageTitle.administration"
 msgstr ""
 
+msgid "pageTitle.chartsDemo"
+msgstr ""
+
 msgid "pageTitle.createDashPage"
 msgstr ""
 
@@ -1081,3 +1086,4 @@ msgstr ""
 
 msgid "warning.titleRemoveProjectLanguage"
 msgstr ""
+
