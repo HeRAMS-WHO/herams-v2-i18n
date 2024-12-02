@@ -217,6 +217,9 @@ msgstr ""
 msgid "charts.demo"
 msgstr ""
 
+msgid "chartsDemo"
+msgstr ""
+
 msgid "confirm.deleteDashboard"
 msgstr ""
 
@@ -230,6 +233,9 @@ msgid "confirm.deleteUserRole"
 msgstr ""
 
 msgid "confirm.emptyProject"
+msgstr ""
+
+msgid "demo"
 msgstr ""
 
 msgid "error.emailRequired"
@@ -341,6 +347,9 @@ msgid "icon.viewSitUpdate"
 msgstr ""
 
 msgid "icon.viewSitUpdateHistory"
+msgstr ""
+
+msgid "label.asOfDate\', { date: selectedDate.format(\'YYYY-MM-DD"
 msgstr ""
 
 msgid "label.asOfToday"
