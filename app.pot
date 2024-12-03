@@ -58,6 +58,9 @@ msgstr ""
 msgid "button.exportDashPages"
 msgstr ""
 
+msgid "button.goToHSDU"
+msgstr ""
+
 msgid "button.goToProject"
 msgstr ""
 
@@ -349,6 +352,12 @@ msgstr ""
 msgid "icon.viewSitUpdateHistory"
 msgstr ""
 
+msgid "label.accessibility"
+msgstr ""
+
+msgid "label.adm1and2"
+msgstr ""
+
 msgid "label.asOfDate\', { date: selectedDate.format(\'YYYY-MM-DD"
 msgstr ""
 
@@ -415,6 +424,9 @@ msgstr ""
 msgid "label.dateFormatYMD"
 msgstr ""
 
+msgid "label.dateOfUpdate"
+msgstr ""
+
 msgid "label.deleteHsdu"
 msgstr ""
 
@@ -469,6 +481,9 @@ msgstr ""
 msgid "label.exportTextHeader"
 msgstr ""
 
+msgid "label.functionality"
+msgstr ""
+
 msgid "label.globalRoles"
 msgstr ""
 
@@ -482,6 +497,9 @@ msgid "label.hsdu"
 msgstr ""
 
 msgid "label.hsdus"
+msgstr ""
+
+msgid "label.hsduType"
 msgstr ""
 
 msgid "label.importAdminUpdates"
@@ -680,6 +698,9 @@ msgid "label.showMore"
 msgstr ""
 
 msgid "label.status"
+msgstr ""
+
+msgid "label.tableHeader.hsduBuildCond"
 msgstr ""
 
 msgid "label.userDateFormat"
