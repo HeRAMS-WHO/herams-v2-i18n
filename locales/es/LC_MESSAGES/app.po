@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-12-05 10:01+0000\n"
+"PO-Revision-Date: 2024-12-05 10:08+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -1096,7 +1096,7 @@ msgid "chartPage.cold"
 msgstr "Cadena de frío"
 
 msgid "chartPage.comm"
-msgstr "Comunicación"
+msgstr "Enfermedades transmisibles"
 
 msgid "chartPage.healthInf"
 msgstr "Sistemas de información sanitaria"
@@ -1127,22 +1127,40 @@ msgid "chartPage.commServices"
 msgstr "Servicios"
 
 msgid "chartPage.svlOverview"
-msgstr ""
+msgstr "Descripción general"
 
 msgid "chartPage.stiOverview"
-msgstr ""
+msgstr "Descripción general"
 
 msgid "chartPage.ncdOverview"
-msgstr ""
+msgstr "Descripción general"
 
 msgid "chartPage.ncdServices"
-msgstr ""
+msgstr "Servicios"
 
 msgid "chartPage.stiServices"
-msgstr ""
+msgstr "Servicios"
 
 msgid "chartPage.svlServices"
-msgstr ""
+msgstr "Servicios"
 
 msgid "error.invalidFiles"
-msgstr ""
+msgstr "Fichero JSON inválido"
+
+msgid "label.dateOfUpdate"
+msgstr "Fecha de modificación"
+
+msgid "label.functionality"
+msgstr "Funcionalidad"
+
+msgid "button.goToHSDU"
+msgstr "Ir a la UPSS"
+
+msgid "label.accessibility"
+msgstr "Accesibilidad"
+
+msgid "label.adm1and2"
+msgstr "Región / Districto"
+
+msgid "label.hsduType"
+msgstr "Tipo"
