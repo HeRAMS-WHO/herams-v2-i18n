@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-11-27 10:19+0000\n"
+"PO-Revision-Date: 2024-12-05 10:08+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -1085,7 +1085,7 @@ msgid "chartPage.accessibility"
 msgstr "Accessibility"
 
 msgid "chartPage.comm"
-msgstr "Communication"
+msgstr "Communicable diseases"
 
 msgid "chartPage.mgmntAndSupp"
 msgstr "Management and support"
@@ -1128,3 +1128,21 @@ msgstr "Services"
 
 msgid "error.invalidFiles"
 msgstr "Invalid JSON files"
+
+msgid "label.adm1and2"
+msgstr "Region / District"
+
+msgid "label.accessibility"
+msgstr "Accessibility"
+
+msgid "label.hsduType"
+msgstr "HSDU Type"
+
+msgid "label.functionality"
+msgstr "Functionality"
+
+msgid "label.dateOfUpdate"
+msgstr "Date of update"
+
+msgid "button.goToHSDU"
+msgstr "Go to HSDU"
