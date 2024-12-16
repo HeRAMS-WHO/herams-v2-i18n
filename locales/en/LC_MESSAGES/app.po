@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2024-12-05 10:08+0000\n"
+"PO-Revision-Date: 2024-12-16 10:08+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.9-rc\n"
 
 msgid "label.projectName"
 msgstr "Project name"
@@ -1146,3 +1146,27 @@ msgstr "Date of update"
 
 msgid "button.goToHSDU"
 msgstr "Go to HSDU"
+
+msgid "chartPage.handHyg"
+msgstr "Hand hygiene"
+
+msgid "chartPage.partnerSupport"
+msgstr "Partner support"
+
+msgid "chartPage.management"
+msgstr "Management"
+
+msgid "chartPage.equipment"
+msgstr "Equipment condition"
+
+msgid "chartPage.building"
+msgstr "Building condition"
+
+msgid "chartPage.cleanEquip"
+msgstr "Cleaning equipment"
+
+msgid "chartPage.sources"
+msgstr "Sources"
+
+msgid "chartPage.availability"
+msgstr "Availability"
