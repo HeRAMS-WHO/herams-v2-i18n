@@ -127,6 +127,9 @@ msgstr ""
 msgid "chartPage.buildAndEquip"
 msgstr ""
 
+msgid "chartPage.chn"
+msgstr ""
+
 msgid "chartPage.cold"
 msgstr ""
 
@@ -602,6 +605,9 @@ msgid "label.projectSitSurvey"
 msgstr ""
 
 msgid "label.projectVisibility"
+msgstr ""
+
+msgid "label.questions"
 msgstr ""
 
 msgid "label.requestDenied"
