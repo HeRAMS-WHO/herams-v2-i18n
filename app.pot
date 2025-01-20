@@ -490,6 +490,9 @@ msgstr ""
 msgid "label.globalRoles"
 msgstr ""
 
+msgid "label.groupedBy"
+msgstr ""
+
 msgid "label.heramsDescription"
 msgstr ""
 
