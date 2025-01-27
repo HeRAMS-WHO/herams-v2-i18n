@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-01-20 15:20+0000\n"
+"PO-Revision-Date: 2025-01-27 13:14+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -1176,3 +1176,33 @@ msgstr "Nutrition and Child Health"
 
 msgid "label.groupedBy"
 msgstr "grouped by"
+
+msgid "button.add"
+msgstr "Add"
+
+msgid "label.operator"
+msgstr "Operator"
+
+msgid "tableHeader.operators"
+msgstr "Operators"
+
+msgid "label.choices"
+msgstr "Choices"
+
+msgid "label.response"
+msgstr "Response"
+
+msgid "tableHeader.choices"
+msgstr "Choices"
+
+msgid "label.question"
+msgstr "Question"
+
+msgid "pageTitle.dashboardFilters"
+msgstr "Dashboard filters"
+
+msgid "tableHeader.questions"
+msgstr "Questions"
+
+msgid "label.questions"
+msgstr "Questions"
