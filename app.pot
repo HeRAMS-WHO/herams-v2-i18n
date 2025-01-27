@@ -1,3 +1,6 @@
+msgid "button.add"
+msgstr ""
+
 msgid "button.cancel"
 msgstr ""
 
@@ -379,6 +382,9 @@ msgstr ""
 msgid "label.auditUpdated"
 msgstr ""
 
+msgid "label.choices"
+msgstr ""
+
 msgid "label.contributors"
 msgstr ""
 
@@ -580,6 +586,9 @@ msgstr ""
 msgid "label.noWorkspacesAvailable"
 msgstr ""
 
+msgid "label.operator"
+msgstr ""
+
 msgid "label.password"
 msgstr ""
 
@@ -608,6 +617,9 @@ msgid "label.projectSitSurvey"
 msgstr ""
 
 msgid "label.projectVisibility"
+msgstr ""
+
+msgid "label.question"
 msgstr ""
 
 msgid "label.questions"
@@ -802,6 +814,9 @@ msgstr ""
 msgid "pageTitle.dashboard"
 msgstr ""
 
+msgid "pageTitle.dashboardFilters"
+msgstr ""
+
 msgid "pageTitle.dashPageName"
 msgstr ""
 
@@ -976,6 +991,9 @@ msgstr ""
 msgid "tableHeader.auditOldValue"
 msgstr ""
 
+msgid "tableHeader.choices"
+msgstr ""
+
 msgid "tableHeader.contributors"
 msgstr ""
 
@@ -1042,10 +1060,16 @@ msgstr ""
 msgid "tableHeader.lastUpdatedDate"
 msgstr ""
 
+msgid "tableHeader.operators"
+msgstr ""
+
 msgid "tableHeader.projectCoordinator"
 msgstr ""
 
 msgid "tableHeader.projectName"
+msgstr ""
+
+msgid "tableHeader.questions"
 msgstr ""
 
 msgid "tableHeader.requestedDate"
