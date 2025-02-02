@@ -577,6 +577,9 @@ msgstr ""
 msgid "label.newsleter"
 msgstr ""
 
+msgid "label.noDataAvailable"
+msgstr ""
+
 msgid "label.noFilters"
 msgstr ""
 
