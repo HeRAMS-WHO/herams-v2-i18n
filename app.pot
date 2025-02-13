@@ -355,12 +355,6 @@ msgstr ""
 msgid "label.adm1and2"
 msgstr ""
 
-msgid "label.asOfDate\', { date: selectedDate.format(\'YYYY-MM-DD"
-msgstr ""
-
-msgid "label.asOfToday"
-msgstr ""
-
 msgid "label.auditCreated"
 msgstr ""
 
@@ -455,9 +449,6 @@ msgid "label.excludeHsdusIncomp"
 msgstr ""
 
 msgid "label.excludeHsdusNonFunc"
-msgstr ""
-
-msgid "label.excludeHsdusPlanned"
 msgstr ""
 
 msgid "label.exportAnswersText"
@@ -577,16 +568,10 @@ msgstr ""
 msgid "label.noSitUpdates"
 msgstr ""
 
-msgid "label.noWorkspacesAvailable"
-msgstr ""
-
 msgid "label.operator"
 msgstr ""
 
 msgid "label.password"
-msgstr ""
-
-msgid "label.project"
 msgstr ""
 
 msgid "label.projectAdminSurvey"
@@ -599,9 +584,6 @@ msgid "label.projectLanguages"
 msgstr ""
 
 msgid "label.projectName"
-msgstr ""
-
-msgid "label.projectPrimaryLanguage"
 msgstr ""
 
 msgid "label.projects"
@@ -620,9 +602,6 @@ msgid "label.questions"
 msgstr ""
 
 msgid "label.requestDenied"
-msgstr ""
-
-msgid "label.requestedDataExport"
 msgstr ""
 
 msgid "label.requestedDate"
@@ -706,9 +685,6 @@ msgstr ""
 msgid "label.roleTypeStandard"
 msgstr ""
 
-msgid "label.scope"
-msgstr ""
-
 msgid "label.selectedFile"
 msgstr ""
 
@@ -716,9 +692,6 @@ msgid "label.showMore"
 msgstr ""
 
 msgid "label.status"
-msgstr ""
-
-msgid "label.tableHeader.hsduBuildCond"
 msgstr ""
 
 msgid "label.userDateFormat"
@@ -740,9 +713,6 @@ msgid "label.users"
 msgstr ""
 
 msgid "label.userTimezone"
-msgstr ""
-
-msgid "label.workspaceTitle"
 msgstr ""
 
 msgid "label.ws"
