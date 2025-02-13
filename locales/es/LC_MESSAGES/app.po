@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-01-27 13:14+0000\n"
+"PO-Revision-Date: 2025-02-13 11:05+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -1224,3 +1224,15 @@ msgstr "Preguntas"
 
 msgid "label.response"
 msgstr "Respuesta"
+
+msgid "label.status"
+msgstr "Estado"
+
+msgid "error.pageCodeNotFound"
+msgstr "La página importada no contiene el código de página"
+
+msgid "label.noDataAvailable"
+msgstr "No hay datos para mostrar"
+
+msgid "label.hsduBuildCond"
+msgstr "Estado del edificio"
