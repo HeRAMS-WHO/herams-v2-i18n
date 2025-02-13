@@ -223,9 +223,6 @@ msgstr ""
 msgid "chartPage.water"
 msgstr ""
 
-msgid "charts.demo"
-msgstr ""
-
 msgid "chartsDemo"
 msgstr ""
 
@@ -791,9 +788,6 @@ msgid "pageTitle.accessRequest"
 msgstr ""
 
 msgid "pageTitle.administration"
-msgstr ""
-
-msgid "pageTitle.chartsDemo"
 msgstr ""
 
 msgid "pageTitle.createDashPage"
