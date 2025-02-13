@@ -223,9 +223,6 @@ msgstr ""
 msgid "chartPage.water"
 msgstr ""
 
-msgid "chartsDemo"
-msgstr ""
-
 msgid "confirm.deleteDashboard"
 msgstr ""
 
@@ -239,9 +236,6 @@ msgid "confirm.deleteUserRole"
 msgstr ""
 
 msgid "confirm.emptyProject"
-msgstr ""
-
-msgid "demo"
 msgstr ""
 
 msgid "error.emailRequired"
