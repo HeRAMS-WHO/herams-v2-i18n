@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-02-13 10:08+0000\n"
+"PO-Revision-Date: 2025-02-13 10:14+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -1209,3 +1209,9 @@ msgstr "Questions"
 
 msgid "error.pageCodeNotFound"
 msgstr "The imported page is missing the page code"
+
+msgid "label.noDataAvailable"
+msgstr "No data to display"
+
+msgid "label.hsduBuildCond"
+msgstr "Building condition"
