@@ -130,10 +130,22 @@ msgstr ""
 msgid "chartPage.buildAndEquip"
 msgstr ""
 
+msgid "chartPage.building"
+msgstr ""
+
 msgid "chartPage.chn"
 msgstr ""
 
+msgid "chartPage.cleanEquip"
+msgstr ""
+
 msgid "chartPage.cold"
+msgstr ""
+
+msgid "chartPage.coldAvail"
+msgstr ""
+
+msgid "chartPage.coldSources"
 msgstr ""
 
 msgid "chartPage.comm"
@@ -145,7 +157,16 @@ msgstr ""
 msgid "chartPage.comms"
 msgstr ""
 
+msgid "chartPage.commsAvail"
+msgstr ""
+
 msgid "chartPage.commServices"
+msgstr ""
+
+msgid "chartPage.commsSources"
+msgstr ""
+
+msgid "chartPage.equipment"
 msgstr ""
 
 msgid "chartPage.functionality"
@@ -160,7 +181,16 @@ msgstr ""
 msgid "chartPage.gcsService"
 msgstr ""
 
+msgid "chartPage.gsc"
+msgstr ""
+
+msgid "chartPage.handHyg"
+msgstr ""
+
 msgid "chartPage.healthInf"
+msgstr ""
+
+msgid "chartPage.management"
 msgstr ""
 
 msgid "chartPage.mgmntAndSupp"
@@ -184,13 +214,34 @@ msgstr ""
 msgid "chartPage.ncdServices"
 msgstr ""
 
+msgid "chartPage.numberOfUpdates"
+msgstr ""
+
 msgid "chartPage.overview"
+msgstr ""
+
+msgid "chartPage.partnerSupport"
 msgstr ""
 
 msgid "chartPage.power"
 msgstr ""
 
+msgid "chartPage.powerAvail"
+msgstr ""
+
+msgid "chartPage.powerSources"
+msgstr ""
+
+msgid "chartPage.sanitAccept"
+msgstr ""
+
 msgid "chartPage.sanitation"
+msgstr ""
+
+msgid "chartPage.sanitAvail"
+msgstr ""
+
+msgid "chartPage.sanitTypes"
 msgstr ""
 
 msgid "chartPage.services"
@@ -220,7 +271,25 @@ msgstr ""
 msgid "chartPage.waste"
 msgstr ""
 
+msgid "chartPage.wasteInf"
+msgstr ""
+
+msgid "chartPage.wasteSeggregation"
+msgstr ""
+
+msgid "chartPage.wasteSharps"
+msgstr ""
+
+msgid "chartPage.wasteSources"
+msgstr ""
+
 msgid "chartPage.water"
+msgstr ""
+
+msgid "chartPage.waterAvail"
+msgstr ""
+
+msgid "chartPage.waterSources"
 msgstr ""
 
 msgid "confirm.deleteDashboard"
