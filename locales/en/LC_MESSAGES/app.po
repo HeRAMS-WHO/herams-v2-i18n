@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-02-13 10:22+0000\n"
+"PO-Revision-Date: 2025-02-25 14:08+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.10.2-dev\n"
 
 msgid "label.projectName"
 msgstr "Project name"
@@ -1218,3 +1218,84 @@ msgstr "Building condition"
 
 msgid "label.status"
 msgstr "Status"
+
+msgid "chartPage.coldSources"
+msgstr "Sources"
+
+msgid "chartPage.waterSources"
+msgstr "Sources"
+
+msgid "chartPage.wasteSeggregation"
+msgstr "Waste Seggregation"
+
+msgid "button.unreadNotif"
+msgstr "Unread notifications"
+
+msgid "label.notifMarkRead"
+msgstr "Mark as read"
+
+msgid "chartPage.coldAvail"
+msgstr "Availability"
+
+msgid "tableHeader.notifReadDate"
+msgstr "Read date"
+
+msgid "chartPage.sanitAvail"
+msgstr "Availability"
+
+msgid "chartPage.wasteSources"
+msgstr "Sources"
+
+msgid "tableHeader.notifSubject"
+msgstr "Subject"
+
+msgid "chartPage.commsAvail"
+msgstr "Availability"
+
+msgid "chartPage.powerAvail"
+msgstr "Availability"
+
+msgid "chartPage.commsSources"
+msgstr "Sources"
+
+msgid "chartPage.wasteInf"
+msgstr "Infectious waste disposal"
+
+msgid "chartPage.powerSources"
+msgstr "Sources"
+
+msgid "label.NotifGoToRequest"
+msgstr "Go to access request"
+
+msgid "label.notifMarkUnread"
+msgstr "Mark as unread"
+
+msgid "tableHeader.notifLink"
+msgstr "Link"
+
+msgid "button.allNotif"
+msgstr "All notifications"
+
+msgid "chartPage.numberOfUpdates"
+msgstr "Number of updates"
+
+msgid "chartPage.sanitTypes"
+msgstr "Sanitation types"
+
+msgid "chartPage.sanitAccept"
+msgstr "Acceptability"
+
+msgid "chartPage.wasteSharps"
+msgstr "Sharps disposal"
+
+msgid "label.NotifDownload"
+msgstr "Download file"
+
+msgid "chartPage.waterAvail"
+msgstr "Availability"
+
+msgid "tableHeader.notifDate"
+msgstr "Date"
+
+msgid "tableHeader.notifType"
+msgstr "Type"
