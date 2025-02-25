@@ -1,6 +1,9 @@
 msgid "button.add"
 msgstr ""
 
+msgid "button.allNotif"
+msgstr ""
+
 msgid "button.cancel"
 msgstr ""
 
@@ -113,6 +116,9 @@ msgid "button.send"
 msgstr ""
 
 msgid "button.submit"
+msgstr ""
+
+msgid "button.unreadNotif"
 msgstr ""
 
 msgid "button.viewRequest"
@@ -637,6 +643,18 @@ msgstr ""
 msgid "label.noSitUpdates"
 msgstr ""
 
+msgid "label.NotifDownload"
+msgstr ""
+
+msgid "label.NotifGoToRequest"
+msgstr ""
+
+msgid "label.notifMarkRead"
+msgstr ""
+
+msgid "label.notifMarkUnread"
+msgstr ""
+
 msgid "label.operator"
 msgstr ""
 
@@ -1088,6 +1106,21 @@ msgid "tableHeader.lastUpdatedBy"
 msgstr ""
 
 msgid "tableHeader.lastUpdatedDate"
+msgstr ""
+
+msgid "tableHeader.notifDate"
+msgstr ""
+
+msgid "tableHeader.notifLink"
+msgstr ""
+
+msgid "tableHeader.notifReadDate"
+msgstr ""
+
+msgid "tableHeader.notifSubject"
+msgstr ""
+
+msgid "tableHeader.notifType"
 msgstr ""
 
 msgid "tableHeader.operators"
