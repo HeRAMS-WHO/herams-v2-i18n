@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-02-13 11:05+0000\n"
+"PO-Revision-Date: 2025-02-25 14:08+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.10.2-dev\n"
 
 msgid "projectLanguage"
 msgstr ""
@@ -1236,3 +1236,84 @@ msgstr "No hay datos para mostrar"
 
 msgid "label.hsduBuildCond"
 msgstr "Estado del edificio"
+
+msgid "chartPage.commsAvail"
+msgstr "Disponibilidad"
+
+msgid "chartPage.commsSources"
+msgstr "Procedencia"
+
+msgid "chartPage.sanitAccept"
+msgstr "Aceptación"
+
+msgid "chartPage.coldSources"
+msgstr "Procedencia"
+
+msgid "chartPage.waterAvail"
+msgstr "Disponibilidad"
+
+msgid "chartPage.powerSources"
+msgstr "Procedencia"
+
+msgid "chartPage.sanitAvail"
+msgstr "Disponibilidad"
+
+msgid "chartPage.wasteSeggregation"
+msgstr "Separación de residuos"
+
+msgid "button.unreadNotif"
+msgstr "No leídas"
+
+msgid "chartPage.sanitTypes"
+msgstr "Tipos de instalación"
+
+msgid "tableHeader.notifLink"
+msgstr "Enlace"
+
+msgid "label.NotifGoToRequest"
+msgstr "Ir a la solicitud"
+
+msgid "label.notifMarkRead"
+msgstr "Marcar como leído"
+
+msgid "chartPage.coldAvail"
+msgstr "Disponibilidad"
+
+msgid "tableHeader.notifReadDate"
+msgstr "Fecha de lectura"
+
+msgid "chartPage.wasteSources"
+msgstr "Procedencia"
+
+msgid "tableHeader.notifSubject"
+msgstr "Asunto"
+
+msgid "chartPage.wasteInf"
+msgstr "Eliminación de residuos infecciosos"
+
+msgid "chartPage.powerAvail"
+msgstr "Disponibilidad"
+
+msgid "label.notifMarkUnread"
+msgstr "Marcar como no leído"
+
+msgid "chartPage.numberOfUpdates"
+msgstr "Número de respuestas"
+
+msgid "chartPage.wasteSharps"
+msgstr "Eliminación de objetos punzantes"
+
+msgid "button.allNotif"
+msgstr "Todas"
+
+msgid "label.NotifDownload"
+msgstr "Descargar archivo"
+
+msgid "tableHeader.notifDate"
+msgstr "Fecha"
+
+msgid "tableHeader.notifType"
+msgstr "Tipo"
+
+msgid "chartPage.waterSources"
+msgstr "Procedencia"
