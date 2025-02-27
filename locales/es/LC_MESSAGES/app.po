@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-02-25 14:23+0000\n"
+"PO-Revision-Date: 2025-02-27 13:39+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -1317,3 +1317,27 @@ msgstr "Tipo"
 
 msgid "chartPage.waterSources"
 msgstr "Procedencia"
+
+msgid "notif.dataExport"
+msgstr "Exportación de datos"
+
+msgid "button.back"
+msgstr "Volver"
+
+msgid "notif.accessRequestApproved"
+msgstr "Solicitud aprobada"
+
+msgid "notif.accessRequestDenied"
+msgstr "Solicitud denegada"
+
+msgid "notif.accessRequestInvalid"
+msgstr "Solicitud inválida"
+
+msgid "notif.accessRequestNew"
+msgstr "Nueva solicitud de acceso"
+
+msgid "notif.accessRequestResponded"
+msgstr "Solicitud de acceso procesada"
+
+msgid "notif.dataExportCompleted"
+msgstr "Exportación de datos completada"
