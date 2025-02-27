@@ -838,6 +838,27 @@ msgstr ""
 msgid "message.roleAdded"
 msgstr ""
 
+msgid "notif.accessRequestApproved"
+msgstr ""
+
+msgid "notif.accessRequestDenied"
+msgstr ""
+
+msgid "notif.accessRequestInvalid"
+msgstr ""
+
+msgid "notif.accessRequestNew"
+msgstr ""
+
+msgid "notif.accessRequestResponded"
+msgstr ""
+
+msgid "notif.dataExport"
+msgstr ""
+
+msgid "notif.dataExportCompleted"
+msgstr ""
+
 msgid "pageTitle.accessRequest"
 msgstr ""
 
