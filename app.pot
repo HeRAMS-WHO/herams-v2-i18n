@@ -4,6 +4,9 @@ msgstr ""
 msgid "button.allNotif"
 msgstr ""
 
+msgid "button.back"
+msgstr ""
+
 msgid "button.cancel"
 msgstr ""
 
