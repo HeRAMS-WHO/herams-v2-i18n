@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-02-25 14:08+0000\n"
+"PO-Revision-Date: 2025-02-27 13:39+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -1299,3 +1299,27 @@ msgstr "Date"
 
 msgid "tableHeader.notifType"
 msgstr "Type"
+
+msgid "button.back"
+msgstr "Back"
+
+msgid "notif.accessRequestResponded"
+msgstr "Access request responded"
+
+msgid "notif.accessRequestApproved"
+msgstr "Request approved"
+
+msgid "notif.accessRequestDenied"
+msgstr "Request denied"
+
+msgid "notif.accessRequestInvalid"
+msgstr "Invalid request"
+
+msgid "notif.accessRequestNew"
+msgstr "New access request"
+
+msgid "notif.dataExport"
+msgstr "Data export"
+
+msgid "notif.dataExportCompleted"
+msgstr "Data export completed"
