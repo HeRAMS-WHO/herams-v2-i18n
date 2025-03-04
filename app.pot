@@ -1207,6 +1207,9 @@ msgstr ""
 msgid "tableHeader.workspaces"
 msgstr ""
 
+msgid "tableHeader.wsAccessRequest"
+msgstr ""
+
 msgid "tableHeader.wsName"
 msgstr ""
 
