@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-03-04 08:45+0000\n"
+"PO-Revision-Date: 2025-03-04 13:33+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -1326,3 +1326,24 @@ msgstr "Data export completed"
 
 msgid "label.appliedFilters"
 msgstr "Filters applied"
+
+msgid "label.operatorIn"
+msgstr "Equal to any of"
+
+msgid "label.operatorNotIn"
+msgstr "Different to any of"
+
+msgid "tableHeader.wsAccessRequest"
+msgstr "Request access"
+
+msgid "label.operatorEqual"
+msgstr "Equal to"
+
+msgid "label.operatorNotEqual"
+msgstr "Different from"
+
+msgid "label.operatorNull"
+msgstr "Empty"
+
+msgid "label.operatorNotNull"
+msgstr "Not empty"
