@@ -664,6 +664,24 @@ msgstr ""
 msgid "label.operator"
 msgstr ""
 
+msgid "label.operatorEqual"
+msgstr ""
+
+msgid "label.operatorIn"
+msgstr ""
+
+msgid "label.operatorNotEqual"
+msgstr ""
+
+msgid "label.operatorNotIn"
+msgstr ""
+
+msgid "label.operatorNotNull"
+msgstr ""
+
+msgid "label.operatorNull"
+msgstr ""
+
 msgid "label.password"
 msgstr ""
 
