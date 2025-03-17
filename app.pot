@@ -316,6 +316,12 @@ msgstr ""
 msgid "confirm.emptyProject"
 msgstr ""
 
+msgid "error.confirmPasswordEmpty"
+msgstr ""
+
+msgid "error.currentPasswordEmpty"
+msgstr ""
+
 msgid "error.emailRequired"
 msgstr ""
 
@@ -334,6 +340,9 @@ msgstr ""
 msgid "error.mandatoryFields"
 msgstr ""
 
+msgid "error.newPasswordEmpty"
+msgstr ""
+
 msgid "error.noMatchingRoles"
 msgstr ""
 
@@ -347,6 +356,15 @@ msgid "error.pageCodeNotFound"
 msgstr ""
 
 msgid "error.passwordRequired"
+msgstr ""
+
+msgid "error.passwordsNotMatch"
+msgstr ""
+
+msgid "error.passwordTooLong"
+msgstr ""
+
+msgid "error.passwordTooShort"
 msgstr ""
 
 msgid "error.projectDiffSurvey"
@@ -406,13 +424,22 @@ msgstr ""
 msgid "icon.deleteUserRole"
 msgstr ""
 
+msgid "icon.disableUser"
+msgstr ""
+
 msgid "icon.editAdminUpdate"
 msgstr ""
 
 msgid "icon.editSitUpdate"
 msgstr ""
 
+msgid "icon.enableUser"
+msgstr ""
+
 msgid "icon.impersonateUser"
+msgstr ""
+
+msgid "icon.logoutUser"
 msgstr ""
 
 msgid "icon.viewAdminUpdate"
@@ -470,6 +497,9 @@ msgid "label.createdDate"
 msgstr ""
 
 msgid "label.createUserRole"
+msgstr ""
+
+msgid "label.currentPwd"
 msgstr ""
 
 msgid "label.dashDisclaimer"
@@ -637,6 +667,12 @@ msgstr ""
 msgid "label.longitude"
 msgstr ""
 
+msgid "label.newPwd"
+msgstr ""
+
+msgid "label.newPwdSaved"
+msgstr ""
+
 msgid "label.newsleter"
 msgstr ""
 
@@ -713,6 +749,9 @@ msgid "label.question"
 msgstr ""
 
 msgid "label.questions"
+msgstr ""
+
+msgid "label.repeatNewPwd"
 msgstr ""
 
 msgid "label.requestDenied"
@@ -811,13 +850,22 @@ msgstr ""
 msgid "label.userDateFormat"
 msgstr ""
 
+msgid "label.userDisabled"
+msgstr ""
+
 msgid "label.userEmail"
+msgstr ""
+
+msgid "label.userEnabled"
 msgstr ""
 
 msgid "label.userLanguage"
 msgstr ""
 
 msgid "label.userLastLogin"
+msgstr ""
+
+msgid "label.userLoggedOut"
 msgstr ""
 
 msgid "label.userName"
@@ -887,6 +935,9 @@ msgid "pageTitle.accessRequest"
 msgstr ""
 
 msgid "pageTitle.administration"
+msgstr ""
+
+msgid "pageTitle.changePassword"
 msgstr ""
 
 msgid "pageTitle.createDashPage"
@@ -1016,6 +1067,9 @@ msgid "tab.accessRequests"
 msgstr ""
 
 msgid "tab.adminUpdates"
+msgstr ""
+
+msgid "tab.changePassword"
 msgstr ""
 
 msgid "tab.dashSettings"
@@ -1211,6 +1265,9 @@ msgid "tableHeader.roleScope"
 msgstr ""
 
 msgid "tableHeader.roleType"
+msgstr ""
+
+msgid "tableHeader.status"
 msgstr ""
 
 msgid "tableHeader.surveyName"
