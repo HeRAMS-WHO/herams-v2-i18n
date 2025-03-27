@@ -112,6 +112,9 @@ msgstr ""
 msgid "button.save"
 msgstr ""
 
+msgid "button.saveDraft"
+msgstr ""
+
 msgid "button.selectCsvFile"
 msgstr ""
 
@@ -544,6 +547,9 @@ msgstr ""
 msgid "label.deletingProject"
 msgstr ""
 
+msgid "label.draftSaved"
+msgstr ""
+
 msgid "label.emptyDashboard"
 msgstr ""
 
@@ -890,6 +896,9 @@ msgid "menu.logout"
 msgstr ""
 
 msgid "menu.showKeys"
+msgstr ""
+
+msgid "message.draftSaved"
 msgstr ""
 
 msgid "message.exportSubmited"
