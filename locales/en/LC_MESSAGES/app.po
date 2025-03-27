@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-03-13 13:18+0000\n"
+"PO-Revision-Date: 2025-03-27 10:49+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.3\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 msgid "label.projectName"
 msgstr "Project name"
@@ -1356,3 +1356,57 @@ msgstr "See import details"
 
 msgid "notif.dataImport"
 msgstr "Data import"
+
+msgid "label.userEnabled"
+msgstr "User enabled"
+
+msgid "icon.enableUser"
+msgstr "Enable user"
+
+msgid "label.newPwdSaved"
+msgstr "Password successfully saved"
+
+msgid "label.repeatNewPwd"
+msgstr "Repeat new password"
+
+msgid "error.currentPasswordEmpty"
+msgstr "Please fill your current password to continue"
+
+msgid "error.newPasswordEmpty"
+msgstr "Please fill your new password to continue"
+
+msgid "error.passwordTooShort"
+msgstr "Password is too short"
+
+msgid "icon.disableUser"
+msgstr "Disable user"
+
+msgid "pageTitle.changePassword"
+msgstr "Change password"
+
+msgid "label.userDisabled"
+msgstr "User disabled"
+
+msgid "error.confirmPasswordEmpty"
+msgstr "Please fill the repeat password to continue"
+
+msgid "tab.changePassword"
+msgstr "Change password"
+
+msgid "error.passwordsNotMatch"
+msgstr "The repeated password does not match"
+
+msgid "error.passwordTooLong"
+msgstr "Password is too long"
+
+msgid "icon.logoutUser"
+msgstr "Close user sessions"
+
+msgid "label.userLoggedOut"
+msgstr "User's sessions closed"
+
+msgid "label.newPwd"
+msgstr "New password"
+
+msgid "label.currentPwd"
+msgstr "Current password"
