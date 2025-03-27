@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-03-13 13:18+0000\n"
+"PO-Revision-Date: 2025-03-27 10:49+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.3\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 msgid "projectLanguage"
 msgstr ""
@@ -1374,3 +1374,57 @@ msgstr "Ver detalles"
 
 msgid "notif.dataImport"
 msgstr "Importación de datos"
+
+msgid "error.currentPasswordEmpty"
+msgstr "Indique su nueva contraseña para continuar"
+
+msgid "icon.enableUser"
+msgstr "Reactivar usuario"
+
+msgid "icon.disableUser"
+msgstr "Desactivar usuario"
+
+msgid "label.newPwd"
+msgstr "Nueva contraseña"
+
+msgid "label.newPwdSaved"
+msgstr "Contraseña cambiada con éxito"
+
+msgid "label.userEnabled"
+msgstr "Usuario reactivado"
+
+msgid "label.userLoggedOut"
+msgstr "Conexión del usuario cerrada"
+
+msgid "pageTitle.changePassword"
+msgstr "Cambiar contraseña"
+
+msgid "tab.changePassword"
+msgstr "Cambiar contraseña"
+
+msgid "label.userDisabled"
+msgstr "Usuario desactivado"
+
+msgid "error.passwordsNotMatch"
+msgstr "La contraseña repetida no coincide con la nueva contraseña"
+
+msgid "label.repeatNewPwd"
+msgstr "Repita la nueva contraseña"
+
+msgid "error.confirmPasswordEmpty"
+msgstr "Repita la nueva contraseña para continuar"
+
+msgid "error.newPasswordEmpty"
+msgstr "Indique su contraseña actual para continuar"
+
+msgid "error.passwordTooLong"
+msgstr "La contraseña es demasiado larga"
+
+msgid "error.passwordTooShort"
+msgstr "La contraseña es demasiado corta"
+
+msgid "icon.logoutUser"
+msgstr "Cerrar sesiones del usuario"
+
+msgid "label.currentPwd"
+msgstr "Contraseña actual"
