@@ -325,6 +325,9 @@ msgstr ""
 msgid "error.currentPasswordEmpty"
 msgstr ""
 
+msgid "error.emailEmpty"
+msgstr ""
+
 msgid "error.emailRequired"
 msgstr ""
 
@@ -673,6 +676,12 @@ msgstr ""
 msgid "label.longitude"
 msgstr ""
 
+msgid "label.newEmail"
+msgstr ""
+
+msgid "label.newEmailSaved"
+msgstr ""
+
 msgid "label.newPwd"
 msgstr ""
 
@@ -946,6 +955,9 @@ msgstr ""
 msgid "pageTitle.administration"
 msgstr ""
 
+msgid "pageTitle.changeEmail"
+msgstr ""
+
 msgid "pageTitle.changePassword"
 msgstr ""
 
@@ -1004,6 +1016,9 @@ msgid "pageTitle.importValidation"
 msgstr ""
 
 msgid "pageTitle.login"
+msgstr ""
+
+msgid "pageTitle.logout"
 msgstr ""
 
 msgid "pageTitle.material"
@@ -1076,6 +1091,9 @@ msgid "tab.accessRequests"
 msgstr ""
 
 msgid "tab.adminUpdates"
+msgstr ""
+
+msgid "tab.changeEmail"
 msgstr ""
 
 msgid "tab.changePassword"
