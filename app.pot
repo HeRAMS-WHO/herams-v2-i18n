@@ -598,6 +598,9 @@ msgstr ""
 msgid "label.globalRoles"
 msgstr ""
 
+msgid "label.goToList"
+msgstr ""
+
 msgid "label.groupedBy"
 msgstr ""
 
