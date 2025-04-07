@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-04-07 09:14+0000\n"
+"PO-Revision-Date: 2025-04-07 09:26+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -1458,3 +1458,64 @@ msgstr "Cambiar e-mail"
 
 msgid "label.newEmailSaved"
 msgstr "Nuevo e-mail guardado con éxito"
+
+msgid "error.passwordMismatch"
+msgstr "Las contraseñas no son idénticas"
+
+msgid "label.name"
+msgstr "Nombre"
+
+msgid "label.forgotPwd"
+msgstr "¿Ha olvidado su contraseña?"
+
+msgid "label.forgotPwdSent"
+msgstr ""
+"Le hemos enviado un e-mail con un enlace para reiniciar su contraseña. "
+"Consulte sur bandeja de entrada."
+
+msgid "button.registerUser"
+msgstr "Registrarse"
+
+msgid "pageTitle.register"
+msgstr "Inscripción"
+
+msgid "pageTitle.resetPassword"
+msgstr "Reiniciar contraseña"
+
+msgid "placeholder.registerEmail"
+msgstr "E-mail"
+
+msgid "placeholder.name"
+msgstr "Nombre"
+
+msgid "label.registerUserSuccess"
+msgstr "Usuario registrado con éxito"
+
+msgid "error.nameLength"
+msgstr "El nombre es demasiado corto"
+
+msgid "label.goToList"
+msgstr "Volver"
+
+msgid "button.resetPassword"
+msgstr "Reiniciar contraseña"
+
+msgid "error.passwordLength"
+msgstr "La contraseña es demasiado corta"
+
+msgid "label.rePassword"
+msgstr "Repita la contraseña"
+
+msgid "label.registerUserSent"
+msgstr ""
+"Le hemos enviado un e-mail para verificar su inscripción. Consulte su "
+"bandeja de entrada."
+
+msgid "label.resetUserPasswordSuccess"
+msgstr "Su contraseña ha sido reiniciada con éxito"
+
+msgid "pageTitle.forgotPassword"
+msgstr "Reiniciar contraseña"
+
+msgid "placeholder.rePassword"
+msgstr "Repita la contraseña"
