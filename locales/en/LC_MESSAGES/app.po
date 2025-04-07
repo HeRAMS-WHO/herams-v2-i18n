@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-03-31 13:34+0000\n"
+"PO-Revision-Date: 2025-04-07 09:14+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -1422,3 +1422,21 @@ msgstr "Draft successfully saved"
 
 msgid "tableHeader.status"
 msgstr "Response status"
+
+msgid "pageTitle.logout"
+msgstr "Logout"
+
+msgid "pageTitle.changeEmail"
+msgstr "Change e-mail"
+
+msgid "tab.changeEmail"
+msgstr "Change e-mail"
+
+msgid "label.newEmail"
+msgstr "New e-mail"
+
+msgid "error.emailEmpty"
+msgstr "E-mail is empty"
+
+msgid "label.newEmailSaved"
+msgstr "New e-mail saved successfully"
