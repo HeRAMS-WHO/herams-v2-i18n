@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-04-07 09:14+0000\n"
+"PO-Revision-Date: 2025-04-07 09:26+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -1440,3 +1440,64 @@ msgstr "E-mail is empty"
 
 msgid "label.newEmailSaved"
 msgstr "New e-mail saved successfully"
+
+msgid "label.forgotPwd"
+msgstr "Forgot your password ?"
+
+msgid "error.passwordMismatch"
+msgstr "Passwords do not match"
+
+msgid "button.registerUser"
+msgstr "Register"
+
+msgid "button.resetPassword"
+msgstr "Reset password"
+
+msgid "error.nameLength"
+msgstr "Name is too short"
+
+msgid "error.passwordLength"
+msgstr "Password is too short"
+
+msgid "label.forgotPwdSent"
+msgstr ""
+"You've received an e-mail with a link to reset your password. Please check "
+"your inbox."
+
+msgid "label.goToList"
+msgstr "Go back"
+
+msgid "label.name"
+msgstr "Name"
+
+msgid "label.registerUserSent"
+msgstr ""
+"You will receive an e-mail to validate your registration. Please check your "
+"inbox"
+
+msgid "label.rePassword"
+msgstr "Repeat password"
+
+msgid "pageTitle.forgotPassword"
+msgstr "Forgot your password ?"
+
+msgid "pageTitle.register"
+msgstr "Register"
+
+msgid "placeholder.name"
+msgstr "Name"
+
+msgid "placeholder.registerEmail"
+msgstr "E-mail"
+
+msgid "placeholder.rePassword"
+msgstr "Repeat password"
+
+msgid "pageTitle.resetPassword"
+msgstr "Reset password"
+
+msgid "label.registerUserSuccess"
+msgstr "User registered succesfully"
+
+msgid "label.resetUserPasswordSuccess"
+msgstr "You're password has been reset successfully"
