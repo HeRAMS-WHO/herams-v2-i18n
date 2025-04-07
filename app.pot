@@ -94,6 +94,9 @@ msgstr ""
 msgid "button.print"
 msgstr ""
 
+msgid "button.registerUser"
+msgstr ""
+
 msgid "button.requestAccess"
 msgstr ""
 
@@ -101,6 +104,9 @@ msgid "button.requestAll"
 msgstr ""
 
 msgid "button.requestNotResponded"
+msgstr ""
+
+msgid "button.resetPassword"
 msgstr ""
 
 msgid "button.respondRequest"
@@ -346,6 +352,9 @@ msgstr ""
 msgid "error.mandatoryFields"
 msgstr ""
 
+msgid "error.nameLength"
+msgstr ""
+
 msgid "error.newPasswordEmpty"
 msgstr ""
 
@@ -359,6 +368,12 @@ msgid "error.noMatchingWss"
 msgstr ""
 
 msgid "error.pageCodeNotFound"
+msgstr ""
+
+msgid "error.passwordLength"
+msgstr ""
+
+msgid "error.passwordMismatch"
 msgstr ""
 
 msgid "error.passwordRequired"
@@ -592,6 +607,12 @@ msgstr ""
 msgid "label.exportTextHeader"
 msgstr ""
 
+msgid "label.forgotPwd"
+msgstr ""
+
+msgid "label.forgotPwdSent"
+msgstr ""
+
 msgid "label.functionality"
 msgstr ""
 
@@ -677,6 +698,9 @@ msgid "label.loginEmail"
 msgstr ""
 
 msgid "label.longitude"
+msgstr ""
+
+msgid "label.name"
 msgstr ""
 
 msgid "label.newEmail"
@@ -769,6 +793,15 @@ msgstr ""
 msgid "label.questions"
 msgstr ""
 
+msgid "label.registerUserSent"
+msgstr ""
+
+msgid "label.registerUserSuccess"
+msgstr ""
+
+msgid "label.rePassword"
+msgstr ""
+
 msgid "label.repeatNewPwd"
 msgstr ""
 
@@ -812,6 +845,9 @@ msgid "label.requestSubject"
 msgstr ""
 
 msgid "label.resetGrid"
+msgstr ""
+
+msgid "label.resetUserPasswordSuccess"
 msgstr ""
 
 msgid "label.response"
@@ -1003,6 +1039,9 @@ msgstr ""
 msgid "pageTitle.forbidden"
 msgstr ""
 
+msgid "pageTitle.forgotPassword"
+msgstr ""
+
 msgid "pageTitle.homepage"
 msgstr ""
 
@@ -1037,6 +1076,12 @@ msgid "pageTitle.notifications"
 msgstr ""
 
 msgid "pageTitle.projectName"
+msgstr ""
+
+msgid "pageTitle.register"
+msgstr ""
+
+msgid "pageTitle.resetPassword"
 msgstr ""
 
 msgid "pageTitle.respondRequest"
@@ -1078,7 +1123,16 @@ msgstr ""
 msgid "placeholder.loginEmail"
 msgstr ""
 
+msgid "placeholder.name"
+msgstr ""
+
 msgid "placeholder.password"
+msgstr ""
+
+msgid "placeholder.registerEmail"
+msgstr ""
+
+msgid "placeholder.rePassword"
 msgstr ""
 
 msgid "placeholder.roles"
