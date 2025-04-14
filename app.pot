@@ -109,6 +109,9 @@ msgstr ""
 msgid "button.resetPassword"
 msgstr ""
 
+msgid "button.resetPwd"
+msgstr ""
+
 msgid "button.respondRequest"
 msgstr ""
 
