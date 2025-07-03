@@ -430,6 +430,9 @@ msgstr ""
 msgid "error.selectWss"
 msgstr ""
 
+msgid "error.unauthorized"
+msgstr ""
+
 msgid "icon.deleteAdminUpdate"
 msgstr ""
 
