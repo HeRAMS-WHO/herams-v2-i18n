@@ -436,6 +436,9 @@ msgstr ""
 msgid "icon.deleteAdminUpdate"
 msgstr ""
 
+msgid "icon.deleteDashboardPage"
+msgstr ""
+
 msgid "icon.deleteRole"
 msgstr ""
 
@@ -457,10 +460,16 @@ msgstr ""
 msgid "icon.editAdminUpdate"
 msgstr ""
 
+msgid "icon.editDashboardPage"
+msgstr ""
+
 msgid "icon.editSitUpdate"
 msgstr ""
 
 msgid "icon.enableUser"
+msgstr ""
+
+msgid "icon.exportDashboardPage"
 msgstr ""
 
 msgid "icon.impersonateUser"
@@ -473,6 +482,12 @@ msgid "icon.viewAdminUpdate"
 msgstr ""
 
 msgid "icon.viewAdminUpdateHistory"
+msgstr ""
+
+msgid "icon.viewDashboardPage"
+msgstr ""
+
+msgid "icon.viewHistory"
 msgstr ""
 
 msgid "icon.viewSitUpdate"
@@ -938,6 +953,9 @@ msgid "label.users"
 msgstr ""
 
 msgid "label.userTimezone"
+msgstr ""
+
+msgid "label.viewHistory"
 msgstr ""
 
 msgid "label.ws"
