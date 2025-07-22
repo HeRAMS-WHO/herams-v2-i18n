@@ -442,6 +442,9 @@ msgstr ""
 msgid "icon.deleteRole"
 msgstr ""
 
+msgid "icon.deleteSituationUpdate"
+msgstr ""
+
 msgid "icon.deleteSitUpdate"
 msgstr ""
 
@@ -461,6 +464,9 @@ msgid "icon.editAdminUpdate"
 msgstr ""
 
 msgid "icon.editDashboardPage"
+msgstr ""
+
+msgid "icon.editSituationUpdate"
 msgstr ""
 
 msgid "icon.editSitUpdate"
@@ -488,6 +494,12 @@ msgid "icon.viewDashboardPage"
 msgstr ""
 
 msgid "icon.viewHistory"
+msgstr ""
+
+msgid "icon.viewSituationUpdate"
+msgstr ""
+
+msgid "icon.viewSituationUpdateHistory"
 msgstr ""
 
 msgid "icon.viewSitUpdate"
@@ -1231,6 +1243,9 @@ msgstr ""
 msgid "tab.userProfile"
 msgstr ""
 
+msgid "tab.viewHSDUList"
+msgstr ""
+
 msgid "tab.workspaces"
 msgstr ""
 
@@ -1244,6 +1259,9 @@ msgid "tab.wsUsers"
 msgstr ""
 
 msgid "tableHeader.actions"
+msgstr ""
+
+msgid "tableHeader.adminResponse"
 msgstr ""
 
 msgid "tableHeader.auditFieldName"
@@ -1277,6 +1295,15 @@ msgid "tableHeader.dashPageElements"
 msgstr ""
 
 msgid "tableHeader.dateOfUpdate"
+msgstr ""
+
+msgid "tableHeader.facility_id"
+msgstr ""
+
+msgid "tableHeader.facilityId"
+msgstr ""
+
+msgid "tableHeader.facilityName"
 msgstr ""
 
 msgid "tableHeader.hsduAcc"
@@ -1381,6 +1408,9 @@ msgstr ""
 msgid "tableHeader.roleType"
 msgstr ""
 
+msgid "tableHeader.situationResponse"
+msgstr ""
+
 msgid "tableHeader.status"
 msgstr ""
 
@@ -1394,6 +1424,9 @@ msgid "tableHeader.userLastLogin"
 msgstr ""
 
 msgid "tableHeader.userName"
+msgstr ""
+
+msgid "tableHeader.workspaceName"
 msgstr ""
 
 msgid "tableHeader.workspaces"
