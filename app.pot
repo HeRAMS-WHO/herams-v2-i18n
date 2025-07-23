@@ -433,6 +433,9 @@ msgstr ""
 msgid "error.unauthorized"
 msgstr ""
 
+msgid "false"
+msgstr ""
+
 msgid "icon.deleteAdminUpdate"
 msgstr ""
 
@@ -1454,6 +1457,9 @@ msgid "tooltip.emptyProject"
 msgstr ""
 
 msgid "tooltip.emptyWs"
+msgstr ""
+
+msgid "true"
 msgstr ""
 
 msgid "warning.deleteHsdu"
