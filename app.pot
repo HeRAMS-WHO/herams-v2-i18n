@@ -13,6 +13,9 @@ msgstr ""
 msgid "button.close"
 msgstr ""
 
+msgid "button.confirmDeleteLastAdminResponse"
+msgstr ""
+
 msgid "button.createAdminUpdate"
 msgstr ""
 
@@ -134,6 +137,15 @@ msgid "button.submit"
 msgstr ""
 
 msgid "button.unreadNotif"
+msgstr ""
+
+msgid "button.viewHSDUListAllResponses"
+msgstr ""
+
+msgid "button.viewHSDUListOnlyAdminResponses"
+msgstr ""
+
+msgid "button.viewHSDUListOnlySituationResponses"
 msgstr ""
 
 msgid "button.viewRequest"
@@ -551,6 +563,12 @@ msgid "label.changedEmail"
 msgstr ""
 
 msgid "label.choices"
+msgstr ""
+
+msgid "label.confirmationDeleteLastAdminSurveyResponse"
+msgstr ""
+
+msgid "label.confirmationDeleteLastAdminSurveyResponseExplanation"
 msgstr ""
 
 msgid "label.contributors"
