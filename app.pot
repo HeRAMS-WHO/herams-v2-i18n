@@ -454,6 +454,9 @@ msgstr ""
 msgid "icon.deleteSurvey"
 msgstr ""
 
+msgid "icon.deleteUpdate"
+msgstr ""
+
 msgid "icon.deleteUser"
 msgstr ""
 
@@ -473,6 +476,9 @@ msgid "icon.editSituationUpdate"
 msgstr ""
 
 msgid "icon.editSitUpdate"
+msgstr ""
+
+msgid "icon.editUpdate"
 msgstr ""
 
 msgid "icon.enableUser"
@@ -511,10 +517,19 @@ msgstr ""
 msgid "icon.viewSitUpdateHistory"
 msgstr ""
 
+msgid "icon.viewUpdate"
+msgstr ""
+
+msgid "icon.viewUpdateHistory"
+msgstr ""
+
 msgid "label.accessibility"
 msgstr ""
 
 msgid "label.adm1and2"
+msgstr ""
+
+msgid "label.adminResponse"
 msgstr ""
 
 msgid "label.appliedFilters"
@@ -937,6 +952,9 @@ msgstr ""
 msgid "label.showMore"
 msgstr ""
 
+msgid "label.situationResponse"
+msgstr ""
+
 msgid "label.status"
 msgstr ""
 
@@ -971,6 +989,18 @@ msgid "label.userTimezone"
 msgstr ""
 
 msgid "label.viewHistory"
+msgstr ""
+
+msgid "label.whatKindOfSurveyDoYouWantToDelete"
+msgstr ""
+
+msgid "label.whatKindOfSurveyDoYouWantToEdit"
+msgstr ""
+
+msgid "label.whatKindOfSurveyDoYouWantToView"
+msgstr ""
+
+msgid "label.whatKindOfSurveyDoYouWantToViewHistory"
 msgstr ""
 
 msgid "label.ws"
@@ -1348,6 +1378,9 @@ msgstr ""
 msgid "tableHeader.id"
 msgstr ""
 
+msgid "tableHeader.lastModifiedBy"
+msgstr ""
+
 msgid "tableHeader.lastUpdatedBy"
 msgstr ""
 
@@ -1418,6 +1451,9 @@ msgid "tableHeader.status"
 msgstr ""
 
 msgid "tableHeader.surveyName"
+msgstr ""
+
+msgid "tableHeader.updatedAt"
 msgstr ""
 
 msgid "tableHeader.userEmail"
