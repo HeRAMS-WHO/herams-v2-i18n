@@ -142,6 +142,9 @@ msgstr ""
 msgid "button.viewHSDUListAllResponses"
 msgstr ""
 
+msgid "button.viewHSDUListLatestResponses"
+msgstr ""
+
 msgid "button.viewHSDUListOnlyAdminResponses"
 msgstr ""
 
@@ -1481,6 +1484,9 @@ msgid "tableHeader.userLastLogin"
 msgstr ""
 
 msgid "tableHeader.userName"
+msgstr ""
+
+msgid "tableHeader.workspaceId"
 msgstr ""
 
 msgid "tableHeader.workspaceName"
