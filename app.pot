@@ -748,6 +748,9 @@ msgstr ""
 msgid "label.importTemplate"
 msgstr ""
 
+msgid "label.importWarningCount"
+msgstr ""
+
 msgid "label.importWs"
 msgstr ""
 
