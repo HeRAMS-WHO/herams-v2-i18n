@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2024-12-05 10:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-12 09:11+0000\n"
+"Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 msgid "projectLanguage"
 msgstr "Langue du projet"
@@ -717,10 +717,10 @@ msgid "button.createHsdu"
 msgstr ""
 
 msgid "button.cancel"
-msgstr ""
+msgstr "Annuler"
 
 msgid "button.createAdminUpdate"
-msgstr ""
+msgstr "Mettre à jour l'UPSS"
 
 msgid "label.importSitFields"
 msgstr ""
@@ -864,7 +864,7 @@ msgid "warning.removeProjectLanguage"
 msgstr ""
 
 msgid "button.close"
-msgstr ""
+msgstr "Fermer"
 
 msgid "tableHeader.auditOldValue"
 msgstr ""
@@ -918,7 +918,7 @@ msgid "chartPage.stiOverview"
 msgstr ""
 
 msgid "button.createDashPage"
-msgstr ""
+msgstr "Ajouter la page"
 
 msgid "chartPage.commOverview"
 msgstr ""
@@ -1111,3 +1111,15 @@ msgstr ""
 
 msgid "chartPage.sti"
 msgstr ""
+
+msgid "button.add"
+msgstr "Ajouter"
+
+msgid "button.allNotif"
+msgstr "Toutes les notifications"
+
+msgid "button.back"
+msgstr "Retour"
+
+msgid "chartPage.wasteInf"
+msgstr "Élimination des déchets infectieux"
