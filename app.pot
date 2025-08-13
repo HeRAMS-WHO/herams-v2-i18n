@@ -385,6 +385,9 @@ msgstr ""
 msgid "error.noMatchingWss"
 msgstr ""
 
+msgid "error.noPermissionsSelected"
+msgstr ""
+
 msgid "error.pageCodeNotFound"
 msgstr ""
 
