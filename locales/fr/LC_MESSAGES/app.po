@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2025-08-12 09:11+0000\n"
-"Last-Translator: HeRAMS <herams@who.int>\n"
+"PO-Revision-Date: 2025-08-15 14:02+0000\n"
+"Last-Translator: Ayumi Kodama <kodamaa@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.13\n"
 
 msgid "projectLanguage"
 msgstr "Langue du projet"
@@ -34,6 +34,11 @@ msgstr ""
 
 msgid "label.heramsDescription"
 msgstr ""
+"The Health Resources and Services Availability Monitoring System (HeRAMS) "
+"est est une approche collaborative visant à garantir que les informations "
+"essentielles sur les ressources et services de santé soient systématiquement "
+"partagées et facilement accessibles aux décideurs aux niveaux national, "
+"régional et mondial."
 
 msgid "placeholder.loginEmail"
 msgstr ""
@@ -48,91 +53,91 @@ msgid "label.loginEmail"
 msgstr ""
 
 msgid "button.login"
-msgstr ""
+msgstr "Se connecter"
 
 msgid "pageTitle.login"
 msgstr ""
 
 msgid "confirm.deleteProject"
-msgstr ""
+msgstr "Voulez-vous supprimer ce projet ?"
 
 msgid "error.noMatchingUsers"
-msgstr ""
+msgstr "Aucun utilisateur ne correspond à votre recherche"
 
 msgid "error.passwordRequired"
-msgstr ""
+msgstr "Mot de passe obligatoire"
 
 msgid "error.projectLanguageEnglish"
-msgstr ""
+msgstr "Nom du projet en anglais est requis"
 
 msgid "error.noMatchingRoles"
-msgstr ""
+msgstr "Aucun rôle ne correspond à votre recherche"
 
 msgid "warning.emptyProject"
 msgstr ""
 
 msgid "error.projectDiffSurvey"
-msgstr ""
+msgstr "Le questionnaire d'UPSS et sur la situation doivent être différentes"
 
 msgid "error.projectSelectSitSurvey"
-msgstr ""
+msgstr "Veuillez sélectionner un questionnaire de situation"
 
 msgid "error.projectLatitudeZero"
-msgstr ""
+msgstr "La latitude et la longitude ne peuvent être zéro"
 
 msgid "error.projectSelectAdminSurvey"
-msgstr ""
+msgstr "Veuillez sélectionner un questionnaire UPSS"
 
 msgid "label.createdDate"
-msgstr ""
+msgstr "Date de création"
 
 msgid "error.roleSelectName"
-msgstr ""
+msgstr "Nom de rôle est requis"
 
 msgid "error.roleSelectScope"
-msgstr ""
+msgstr "Le périmètre du rôle est requis"
 
 msgid "error.roleSelectType"
-msgstr ""
+msgstr "Le type de rôle est requis"
 
 msgid "error.roleSelectProject"
-msgstr ""
+msgstr "Un projet est nécessaire pour ce rôle"
 
 msgid "error.selectRoles"
-msgstr ""
+msgstr "Au moins un rôle est requis"
 
 msgid "error.selectWss"
-msgstr ""
+msgstr "Au moins un espace de travail est requis"
 
 msgid "error.selectUsers"
-msgstr ""
+msgstr "Au moins un utilisateur est requis"
 
 msgid "label.dashURL"
-msgstr ""
+msgstr "URL du tableau de bord"
 
 msgid "label.contributors"
-msgstr ""
+msgstr "Contributeurs"
 
 msgid "label.createdBy"
-msgstr ""
+msgstr "Créé par"
 
 msgid "label.createUserRole"
-msgstr ""
+msgstr "Ajouter les utilisateurs"
 
 msgid "label.deletingHsdu"
-msgstr ""
+msgstr "Suppression de l'UPSS en cours..."
 
 msgid "label.emptyingProject"
-msgstr ""
+msgstr "Suppression de tous les espaces de travail en cours..."
 
 msgid "label.emptyProject"
-msgstr ""
+msgstr "Supprimer tous les espaces de travail"
 
 msgid "label.language"
 msgstr ""
 
 msgid "label.globalRoles"
-msgstr ""
+msgstr "Rôles"
 
 msgid "label.lastUpdatedBy"
 msgstr ""
@@ -327,25 +332,25 @@ msgid "tooltip.deleteProject"
 msgstr ""
 
 msgid "confirm.deleteUserRole"
-msgstr ""
+msgstr "Voulez-vous supprimer ce rôle ?"
 
 msgid "confirm.emptyProject"
-msgstr ""
+msgstr "Voulez-vous supprimer tous les espaces de travail pour ce projet ?"
 
 msgid "error.invalidEmail"
-msgstr ""
+msgstr "L'adresse mail invalide"
 
 msgid "error.emailRequired"
-msgstr ""
+msgstr "L'adresse mail est obligatoire"
 
 msgid "error.noMatchingWss"
-msgstr ""
+msgstr "Aucun espace de travail ne correspond à votre recherche"
 
 msgid "error.mandatoryFields"
-msgstr ""
+msgstr "Champ obligatoire"
 
 msgid "label.country"
-msgstr ""
+msgstr "Pay"
 
 msgid "tableHeader.hsdus"
 msgstr ""
@@ -405,7 +410,7 @@ msgid "warning.deleteProject"
 msgstr ""
 
 msgid "label.deleteProject"
-msgstr ""
+msgstr "Supprimer le projet"
 
 msgid "tab.workspaces"
 msgstr ""
@@ -480,7 +485,7 @@ msgid "label.editSitUpdate"
 msgstr ""
 
 msgid "label.countryUnspecified"
-msgstr ""
+msgstr "Non précisé / Formation"
 
 msgid "label.requestedDate"
 msgstr ""
@@ -522,37 +527,37 @@ msgid "pageTitle.updateSurvey"
 msgstr ""
 
 msgid "button.requestAll"
-msgstr ""
+msgstr "Toutes les demandes"
 
 msgid "button.createProject"
-msgstr ""
+msgstr "Créer un projet"
 
 msgid "button.deleteUser"
 msgstr ""
 
 msgid "button.createWs"
-msgstr ""
+msgstr "Créer un espace de travail"
 
 msgid "button.createRole"
-msgstr ""
+msgstr "Créer un rôle"
 
 msgid "button.createSurvey"
-msgstr ""
+msgstr "Créer une enquête"
 
 msgid "button.createSitUpdate"
-msgstr ""
+msgstr "Mettre à jour la situation"
 
 msgid "button.dashboard"
-msgstr ""
+msgstr "Tableau de bord"
 
 msgid "button.delete"
-msgstr ""
+msgstr "Supprimer"
 
 msgid "button.deleteHsdu"
-msgstr ""
+msgstr "Supprimer l'UPSS"
 
 msgid "button.deleteProject"
-msgstr ""
+msgstr "Supprimer le projet"
 
 msgid "button.deleteRole"
 msgstr ""
@@ -561,31 +566,31 @@ msgid "button.deleteUserRole"
 msgstr ""
 
 msgid "button.requestAccess"
-msgstr ""
+msgstr "Demande d'accès"
 
 msgid "button.impersonate"
 msgstr ""
 
 msgid "button.emptyWs"
-msgstr ""
+msgstr "Supprimer l'espace de travail"
 
 msgid "button.respondRequest"
-msgstr ""
+msgstr "Répondre"
 
 msgid "button.requestNotResponded"
-msgstr ""
+msgstr "Demandes en attente"
 
 msgid "button.return"
-msgstr ""
+msgstr "Retour"
 
 msgid "button.workspaces"
-msgstr ""
+msgstr "Espaces de travail"
 
 msgid "button.viewRequest"
-msgstr ""
+msgstr "Afficher"
 
 msgid "button.send"
-msgstr ""
+msgstr "Envoyer"
 
 msgid "button.viewSitUpdate"
 msgstr ""
@@ -618,10 +623,10 @@ msgid "tableHeader.wsOwner"
 msgstr ""
 
 msgid "error.projectSelectCountry"
-msgstr ""
+msgstr "Veuillez sélectionner un pays"
 
 msgid "label.emptyWs"
-msgstr ""
+msgstr "Supprimer l'espace de travail"
 
 msgid "tooltip.deleteHsdu"
 msgstr ""
@@ -639,19 +644,19 @@ msgid "button.deleteSitUpdate"
 msgstr ""
 
 msgid "confirm.deleteHsdu"
-msgstr ""
+msgstr "Supprimer l'UPSS"
 
 msgid "label.ws"
 msgstr ""
 
 msgid "label.deletingProject"
-msgstr ""
+msgstr "Suppression du projet en cours..."
 
 msgid "label.userEmail"
 msgstr ""
 
 msgid "button.save"
-msgstr ""
+msgstr "Sauvegarder"
 
 msgid "tableHeader.requestedDate"
 msgstr ""
@@ -666,7 +671,7 @@ msgid "tableHeader.requestResponseDate"
 msgstr ""
 
 msgid "button.emptyProject"
-msgstr ""
+msgstr "Supprimer tous les espaces de travail"
 
 msgid "tableHeader.responses"
 msgstr ""
@@ -702,7 +707,7 @@ msgid "tableHeader.roleScope"
 msgstr ""
 
 msgid "button.ok"
-msgstr ""
+msgstr "Ok"
 
 msgid "label.lastUpdatedDate"
 msgstr ""
@@ -714,7 +719,7 @@ msgid "pageTitle.createHsdu"
 msgstr ""
 
 msgid "button.createHsdu"
-msgstr ""
+msgstr "Enregistre l'UPSS"
 
 msgid "button.cancel"
 msgstr "Annuler"
@@ -750,13 +755,13 @@ msgid "label.importSitValidation"
 msgstr ""
 
 msgid "button.importValidate"
-msgstr ""
+msgstr "Valider l ' importation"
 
 msgid "button.submit"
-msgstr ""
+msgstr "Soumettre"
 
 msgid "button.selectCsvFile"
-msgstr ""
+msgstr "Sélectionner le fichier CSV"
 
 msgid "label.showMore"
 msgstr ""
@@ -765,7 +770,7 @@ msgid "label.importBaseline"
 msgstr ""
 
 msgid "error.importRowNumber"
-msgstr ""
+msgstr "Erreur détectée à la ligne: Numéro de ligne"
 
 msgid "label.importAdminUpdates"
 msgstr ""
@@ -798,67 +803,67 @@ msgid "pageTitle.importCompleted"
 msgstr ""
 
 msgid "icon.deleteRole"
-msgstr ""
+msgstr "Supprimer le rôle"
 
 msgid "icon.impersonateUser"
-msgstr ""
+msgstr "Se connecter en tant qu’utilisateur"
 
 msgid "icon.deleteSitUpdate"
-msgstr ""
+msgstr "Supprimer la mise à jour de situation"
 
 msgid "icon.viewSitUpdate"
-msgstr ""
+msgstr "Afficher mis à jour de situation"
 
 msgid "icon.editSitUpdate"
 msgstr ""
 
 msgid "icon.viewAdminUpdate"
-msgstr ""
+msgstr "Voir la mise à jour d'UPSS"
 
 msgid "icon.deleteAdminUpdate"
-msgstr ""
+msgstr "Supprimer la mise à jour d'UPSS"
 
 msgid "icon.editAdminUpdate"
-msgstr ""
+msgstr "Modifier la mise à jour d'UPSS"
 
 msgid "icon.deleteSurvey"
-msgstr ""
+msgstr "Supprimer le questionnaire"
 
 msgid "icon.deleteUser"
-msgstr ""
+msgstr "Supprimer l ' utilisateur"
 
 msgid "icon.deleteUserRole"
-msgstr ""
+msgstr "Supprimer l ' utilisateur"
 
 msgid "warning.titleRemoveProjectLanguage"
 msgstr ""
 
 msgid "label.exportTextHeader"
-msgstr ""
+msgstr "Inclure un en-tête de texte"
 
 msgid "label.exportHistory"
-msgstr ""
+msgstr "Exporter l’historique des réponses"
 
 msgid "label.exportSendEmail"
-msgstr ""
+msgstr "Envoyer une notification par e-mail lorsque l'exportation est prête"
 
 msgid "label.exportAsOf"
-msgstr ""
+msgstr "Exporter la dernière réponse en date du"
 
 msgid "button.exportCsv"
-msgstr ""
+msgstr "Exporter CSV"
 
 msgid "label.exportCodeHeader"
-msgstr ""
+msgstr "Inclure l’en-tête du code"
 
 msgid "label.exportDate"
-msgstr ""
+msgstr "Plage de dates"
 
 msgid "label.exportAnswersText"
-msgstr ""
+msgstr "Exporter les réponses au format texte"
 
 msgid "button.gridExport"
-msgstr ""
+msgstr "Exporter le tableau"
 
 msgid "warning.removeProjectLanguage"
 msgstr ""
@@ -870,31 +875,31 @@ msgid "tableHeader.auditOldValue"
 msgstr ""
 
 msgid "label.hsdu"
-msgstr ""
+msgstr "UPSS"
 
 msgid "message.exportSubmited"
 msgstr ""
 
 msgid "label.auditDeleted"
-msgstr ""
+msgstr "Enregistrement supprimé"
 
 msgid "label.auditCreated"
-msgstr ""
+msgstr "Enregistrement créé"
 
 msgid "label.auditHistory"
-msgstr ""
+msgstr "L'historique"
 
 msgid "tableHeader.auditNewValue"
 msgstr ""
 
 msgid "label.auditUpdated"
-msgstr ""
+msgstr "Enregistrement actualisé"
 
 msgid "tableHeader.auditFieldName"
 msgstr ""
 
 msgid "label.history"
-msgstr ""
+msgstr "Historique des données enregistrées"
 
 msgid "label.projectLanguages"
 msgstr ""
@@ -906,91 +911,97 @@ msgid "label.userLanguage"
 msgstr ""
 
 msgid "button.exportDash"
-msgstr ""
+msgstr "Exporter le structure"
 
 msgid "label.dashPage"
-msgstr ""
+msgstr "Page"
 
 msgid "chartPage.svlOverview"
-msgstr ""
+msgstr "Vue d’ensemble"
 
 msgid "chartPage.stiOverview"
-msgstr ""
+msgstr "Vue d’ensemble"
 
 msgid "button.createDashPage"
 msgstr "Ajouter la page"
 
 msgid "chartPage.commOverview"
-msgstr ""
+msgstr "Vue d’ensemble"
 
 msgid "button.deleteDash"
-msgstr ""
+msgstr "Supprimer le tableau de bord"
 
 msgid "chartPage.overview"
-msgstr ""
+msgstr "Vue d’ensemble"
 
 msgid "chartPage.power"
-msgstr ""
+msgstr "Énergie"
 
 msgid "chartPage.services"
-msgstr ""
+msgstr "Disponibilité des services"
 
 msgid "confirm.deleteDashboard"
-msgstr ""
+msgstr "Supprimer le tableau de bord"
 
 msgid "label.dashPageCode"
-msgstr ""
+msgstr "Code de page"
 
 msgid "error.invalidJson"
-msgstr ""
+msgstr "JSON invalide"
 
 msgid "label.dateFormatYMD"
-msgstr ""
+msgstr "Année-Mois-Jour"
 
 msgid "label.emptyDashboard"
 msgstr ""
+"Cette action supprimera la structure du tableau de bord et toutes les pages. "
+"Vous voulez continuer ?"
 
 msgid "chartPage.ncdOverview"
-msgstr ""
+msgstr "Vue d’ensemble"
 
 msgid "chartPage.ncdServices"
-msgstr ""
+msgstr "Disponibilité des services"
 
 msgid "chartPage.stiServices"
-msgstr ""
+msgstr "Disponibilité des services"
 
 msgid "chartPage.gcs"
-msgstr ""
+msgstr "Services cliniques généraux"
 
 msgid "chartPage.functionality"
-msgstr ""
+msgstr "Fonctionnalité"
 
 msgid "chartPage.svl"
-msgstr ""
+msgstr "Violence sexuelle"
 
 msgid "chartPage.commServices"
-msgstr ""
+msgstr "Disponibilité des services"
 
 msgid "button.importDashPages"
-msgstr ""
+msgstr "Importer les pages"
 
 msgid "chartPage.gcsService"
-msgstr ""
+msgstr "Disponibilité des services"
 
 msgid "chartPage.gcsOverview"
-msgstr ""
+msgstr "Vue d’ensemble"
 
 msgid "chartPage.mnh"
-msgstr ""
+msgstr "Santé maternelle et néonatale"
 
 msgid "chartPage.ncd"
-msgstr ""
+msgstr "Maladies non transmissibles"
 
 msgid "chartPage.water"
-msgstr ""
+msgstr "Eau"
 
 msgid "label.dashDisclaimer"
 msgstr ""
+"Remarque : Le déploiement de HeRAMS, y compris la collecte de données, la "
+"validation et la vérification, est en cours. Par conséquent, l'analyse "
+"présentée ici est susceptible d’être modifiée et a été réalisée uniquement "
+"dans le but d’informer les opérations"
 
 msgid "label.userTimezone"
 msgstr ""
@@ -999,118 +1010,118 @@ msgid "tableHeader.hsduAdmin1"
 msgstr ""
 
 msgid "chartPage.svlServices"
-msgstr ""
+msgstr "Disponibilité des services"
 
 msgid "tableHeader.lastUpdatedDate"
 msgstr ""
 
 msgid "icon.viewSitUpdateHistory"
-msgstr ""
+msgstr "Afficher l’historique"
 
 msgid "button.exportDashPages"
-msgstr ""
+msgstr "Exporter toutes les pages"
 
 msgid "label.dashStructure"
-msgstr ""
+msgstr "Structure"
 
 msgid "label.deleteHsdu"
-msgstr ""
+msgstr "Supprimer l'UPSS"
 
 msgid "tableHeader.dashPageCode"
 msgstr ""
 
 msgid "button.goToProject"
-msgstr ""
+msgstr "Aller au projet"
 
 msgid "chartPage.comms"
-msgstr ""
+msgstr "Communications"
 
 msgid "tableHeader.hsduBuildCond"
 msgstr ""
 
 msgid "chartPage.mnhServices"
-msgstr ""
+msgstr "Disponibilité des services"
 
 msgid "label.dashPages"
-msgstr ""
+msgstr "Pages"
 
 msgid "tableHeader.hsduLocation"
 msgstr ""
 
 msgid "label.dateFormatMDY"
-msgstr ""
+msgstr "Mois/Jour/Année"
 
 msgid "label.dateFormatDMY"
-msgstr ""
+msgstr "Jour/Mois/Année"
 
 msgid "button.importDash"
-msgstr ""
+msgstr "Importer le structure"
 
 msgid "tableHeader.dashPageElements"
 msgstr ""
 
 msgid "chartPage.waste"
-msgstr ""
+msgstr "Gestion des déchets"
 
 msgid "tableHeader.hsduEquipCond"
 msgstr ""
 
 msgid "chartPage.servicesOverview"
-msgstr ""
+msgstr "Vue d’ensemble"
 
 msgid "button.print"
-msgstr ""
+msgstr "Imprimer"
 
 msgid "tableHeader.createSitUpdate"
 msgstr ""
 
 msgid "label.excludeHsdusNonFunc"
-msgstr ""
+msgstr "Exclure les UPSS non fonctionnelles"
 
 msgid "label.excludeHsdusIncomp"
-msgstr ""
+msgstr "Exclure les UPSS dont la baseline est incomplètes"
 
 msgid "icon.viewAdminUpdateHistory"
-msgstr ""
+msgstr "Afficher l’historique"
 
 msgid "label.noFilters"
 msgstr ""
 
 msgid "label.copiedLink"
-msgstr ""
+msgstr "Le lien a été copié dans le presse-papiers de votre appareil"
 
 msgid "error.invalidFiles"
-msgstr ""
+msgstr "Fichier JSON invalide"
 
 msgid "chartPage.buildAndEquip"
-msgstr ""
+msgstr "État des bâtiments et des équipements"
 
 msgid "chartPage.basicAmenities"
-msgstr ""
+msgstr "Aménagements structurels"
 
 msgid "chartPage.accessibility"
-msgstr ""
+msgstr "Accessibilité"
 
 msgid "chartPage.cold"
-msgstr ""
+msgstr "Chaîne du froid"
 
 msgid "chartPage.comm"
-msgstr ""
+msgstr "Maladies transmissibles"
 
 msgid "chartPage.healthInf"
-msgstr ""
+msgstr "Systèmes d'information"
 
 msgid "chartPage.mgmntAndSupp"
-msgstr ""
+msgstr "Gestion et soutien"
 
 msgid "chartPage.mnhOverview"
-msgstr ""
+msgstr "Vue d’ensemble"
 
 msgid "chartPage.sanitation"
-msgstr ""
+msgstr "Assainissement"
 
 msgid "chartPage.sti"
-msgstr ""
+msgstr "IST & VIH/SIDA"
 
 msgid "button.add"
 msgstr "Ajouter"
@@ -1123,3 +1134,167 @@ msgstr "Retour"
 
 msgid "chartPage.wasteInf"
 msgstr "Élimination des déchets infectieux"
+
+msgid "button.goToHSDU"
+msgstr "Aller à l'UPSS"
+
+msgid "button.registerUser"
+msgstr "Enregistrer"
+
+msgid "button.resetPassword"
+msgstr "Réinitialiser mot de passe"
+
+msgid "button.resetPwd"
+msgstr "Réinitialiser mot de passe"
+
+msgid "button.saveDraft"
+msgstr "Enregistrer comme brouillon"
+
+msgid "button.unreadNotif"
+msgstr "Notification non lues"
+
+msgid "chartPage.building"
+msgstr "État du bâtiment"
+
+msgid "chartPage.chn"
+msgstr "Nutrition et santé des enfants"
+
+msgid "chartPage.cleanEquip"
+msgstr "Equipement de nettoyage"
+
+msgid "chartPage.coldAvail"
+msgstr "Disponibilité"
+
+msgid "chartPage.coldSources"
+msgstr "Sources"
+
+msgid "chartPage.commsAvail"
+msgstr "Disponibilité"
+
+msgid "chartPage.commsSources"
+msgstr "Sources"
+
+msgid "chartPage.equipment"
+msgstr "État des équipements"
+
+msgid "chartPage.handHyg"
+msgstr "Hygiène des mains"
+
+msgid "chartPage.management"
+msgstr "Gestion"
+
+msgid "chartPage.numberOfUpdates"
+msgstr "Nombre de mises à jour"
+
+msgid "chartPage.partnerSupport"
+msgstr "Soutien des partenaires"
+
+msgid "chartPage.powerAvail"
+msgstr "Disponibilité"
+
+msgid "chartPage.powerSources"
+msgstr "Sources"
+
+msgid "chartPage.sanitAccept"
+msgstr "Acceptabilité"
+
+msgid "chartPage.sanitAvail"
+msgstr "Disponibilité"
+
+msgid "chartPage.sanitTypes"
+msgstr "Types d'assainissement"
+
+msgid "chartPage.wasteSeggregation"
+msgstr "Ségrégation des déchets"
+
+msgid "chartPage.wasteSharps"
+msgstr "Élimination des objets tranchants"
+
+msgid "chartPage.wasteSources"
+msgstr "Sources"
+
+msgid "chartPage.waterAvail"
+msgstr "Disponibilité"
+
+msgid "chartPage.waterSources"
+msgstr "Sources"
+
+msgid "error.confirmPasswordEmpty"
+msgstr "Veuillez remplir le mot de passe répété pour continuer"
+
+msgid "error.currentPasswordEmpty"
+msgstr "Veuillez remplir votre mot de passe actuel pour continuer"
+
+msgid "error.emailEmpty"
+msgstr "E-mail est vide"
+
+msgid "error.nameLength"
+msgstr "Le nom est trop court"
+
+msgid "error.newPasswordEmpty"
+msgstr "Veuillez remplir votre nouveau mot de passe pour continuer"
+
+msgid "error.pageCodeNotFound"
+msgstr "La page importée manque le code de page"
+
+msgid "error.passwordLength"
+msgstr "Mot de passe trop court"
+
+msgid "error.passwordMismatch"
+msgstr "Les mots de passe ne correspondent pas"
+
+msgid "error.passwordsNotMatch"
+msgstr "Le mot de passe répété ne correspond pas"
+
+msgid "error.passwordTooLong"
+msgstr "Mot de passe trop long"
+
+msgid "error.passwordTooShort"
+msgstr "Mot de passe trop court"
+
+msgid "icon.disableUser"
+msgstr "Désactiver l'utilisateur"
+
+msgid "icon.enableUser"
+msgstr "Activer l'utilisateur"
+
+msgid "icon.logoutUser"
+msgstr "Fermer les sessions utilisateur"
+
+msgid "label.accessibility"
+msgstr "Accessibilité"
+
+msgid "label.adm1and2"
+msgstr "Région / District"
+
+msgid "label.appliedFilters"
+msgstr "Filtres appliqués"
+
+msgid "label.choices"
+msgstr "Choix"
+
+msgid "label.currentPwd"
+msgstr "Mot de passe actuel"
+
+msgid "label.dateOfUpdate"
+msgstr "Date de mise à jour"
+
+msgid "label.draftSaved"
+msgstr "Brouillon enregistré"
+
+msgid "label.forgotPwd"
+msgstr "Mot de passe oublié ?"
+
+msgid "label.forgotPwdSent"
+msgstr ""
+"Vous avez reçu un mail avec un lien pour réinitialiser votre mot de passe. "
+"Veuillez vérifier votre boîte de réception."
+
+msgid "label.functionality"
+msgstr "Fonctionnalité"
+
+msgid "label.goToList"
+msgstr "Retouner"
+
+msgid "label.groupedBy"
+msgstr "classé par"
