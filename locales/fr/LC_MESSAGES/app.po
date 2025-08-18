@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2025-08-16 15:01+0000\n"
+"PO-Revision-Date: 2025-08-18 11:14+0000\n"
 "Last-Translator: Ayumi Kodama <kodamaa@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
@@ -27,10 +27,10 @@ msgid "adminSurvey"
 msgstr "Questionnaire admin"
 
 msgid "label.projectName"
-msgstr ""
+msgstr "Nom du projet"
 
 msgid "label.projectLanguage"
-msgstr ""
+msgstr "Langue"
 
 msgid "label.heramsDescription"
 msgstr ""
@@ -41,22 +41,22 @@ msgstr ""
 "aux décideurs aux niveaux national, régional et mondial"
 
 msgid "placeholder.loginEmail"
-msgstr ""
+msgstr "Adresse e-mail"
 
 msgid "tableHeader.userLastLogin"
-msgstr ""
+msgstr "Dernière connexion"
 
 msgid "label.userLastLogin"
-msgstr ""
+msgstr "Dernière connexion"
 
 msgid "label.loginEmail"
-msgstr ""
+msgstr "Adresse e-mail"
 
 msgid "button.login"
 msgstr "Se connecter"
 
 msgid "pageTitle.login"
-msgstr ""
+msgstr "Se connecter"
 
 msgid "confirm.deleteProject"
 msgstr "Voulez-vous supprimer ce projet ?"
@@ -74,7 +74,7 @@ msgid "error.noMatchingRoles"
 msgstr "Aucun rôle ne correspond à votre recherche"
 
 msgid "warning.emptyProject"
-msgstr ""
+msgstr "Voulez-vous supprimer tous les espaces de travail dans ce projet ?"
 
 msgid "error.projectDiffSurvey"
 msgstr "Le questionnaire d'UPSS et sur la situation doivent être différentes"
@@ -134,115 +134,119 @@ msgid "label.emptyProject"
 msgstr "Supprimer tous les espaces de travail"
 
 msgid "label.language"
-msgstr ""
+msgstr "Langue"
 
 msgid "label.globalRoles"
 msgstr "Rôles"
 
 msgid "label.lastUpdatedBy"
-msgstr ""
+msgstr "Dernière mise à jour par"
 
 msgid "label.roleScopeProject"
-msgstr ""
+msgstr "Projet"
 
 msgid "label.projectSitSurvey"
-msgstr ""
+msgstr "Questionnaire sur la situation"
 
 msgid "label.projects"
-msgstr ""
+msgstr "Projets"
 
 msgid "label.noSitUpdates"
-msgstr ""
+msgstr "Aucune mise à jour attendue"
 
 msgid "label.projectVisibility"
-msgstr ""
+msgstr "Visibilité"
 
 msgid "label.requestDenied"
-msgstr ""
+msgstr "Refusé"
 
 msgid "label.requestGranted"
-msgstr ""
+msgstr "Accès accordé"
 
 msgid "label.requester"
-msgstr ""
+msgstr "Demandeur"
 
 msgid "label.requestInvalid"
-msgstr ""
+msgstr "Demande non valide"
 
 msgid "label.requestGrantedRoles"
-msgstr ""
+msgstr "Rôles accordés"
 
 msgid "label.requestResponse"
-msgstr ""
+msgstr "Réponse"
 
 msgid "label.requestSubject"
-msgstr ""
+msgstr "Sujet"
 
 msgid "label.roleName"
-msgstr ""
+msgstr "Nom du rôle"
 
 msgid "label.rolePermissions"
-msgstr ""
+msgstr "Permissions"
 
 msgid "label.roles"
-msgstr ""
+msgstr "Rôles"
 
 msgid "label.roleType"
-msgstr ""
+msgstr "Type"
 
 msgid "label.roleTypeCustom"
-msgstr ""
+msgstr "Personnalisé (pour un seul projet)"
 
 msgid "label.userName"
-msgstr ""
+msgstr "Nom d ' utilisateur"
 
 msgid "label.users"
-msgstr ""
+msgstr "Utilisateur"
 
 msgid "label.wsName"
-msgstr ""
+msgstr "Nom de l'espace de travail"
 
 msgid "menu.logout"
-msgstr ""
+msgstr "Se déconnecter"
 
 msgid "message.requestDenied"
 msgstr ""
+"Cher :requesterName,\n"
+"Votre demande d'accès à l'espace de travail :workspaceName a été refusée "
 
 msgid "message.requestSubject"
-msgstr ""
+msgstr "Demande d'accès à l'espace de travail :workspaceName"
 
 msgid "message.requestGranted"
 msgstr ""
+"Cher:requesterName,\n"
+"Votre demande d'accès à l'espace de travail :workspaceName a été acceptée"
 
 msgid "message.requestedGranted"
 msgstr ""
 
 msgid "pageTitle.createRole"
-msgstr ""
+msgstr "Créer un rôle"
 
 msgid "pageTitle.createWs"
-msgstr ""
+msgstr "Créer un espace de travail"
 
 msgid "pageTitle.dashPageName"
-msgstr ""
+msgstr "Page"
 
 msgid "pageTitle.material"
-msgstr ""
+msgstr "Démo du matériel"
 
 msgid "pageTitle.editAdminUpdate"
-msgstr ""
+msgstr "Modifier"
 
 msgid "pageTitle.hsduName"
 msgstr ""
 
 msgid "pageTitle.newAdminUpdate"
-msgstr ""
+msgstr "Mettre à jour l'UPSS"
 
 msgid "pageTitle.newSitUpdate"
-msgstr ""
+msgstr "Mettre à jour la situation"
 
 msgid "pageTitle.notifications"
-msgstr ""
+msgstr "Notifications"
 
 msgid "pageTitle.projectName"
 msgstr ""
@@ -251,85 +255,88 @@ msgid "pageTitle.userName"
 msgstr ""
 
 msgid "pageTitle.userProfile"
-msgstr ""
+msgstr "Profil"
 
 msgid "pageTitle.viewAdminUpdate"
-msgstr ""
+msgstr "Mises à jour de l'UPSS"
 
 msgid "pageTitle.viewSitUpdate"
-msgstr ""
+msgstr "Mise à jour de la situation"
 
 msgid "tab.globalUsers"
-msgstr ""
+msgstr "Utilisateur"
 
 msgid "tableHeader.createdDate"
-msgstr ""
+msgstr "Date de création"
 
 msgid "placeholder.selectUsers"
 msgstr ""
 
+#, fuzzy
 msgid "tab.adminUpdates"
-msgstr ""
+msgstr "Mise à jour l'UPSS (:AdmUpCount)"
 
 msgid "tab.deleteHsdu"
-msgstr ""
+msgstr "Supprimer l'UPSS"
 
 msgid "tab.dashSettings"
-msgstr ""
+msgstr "Paramètres du tableau de bord"
 
 msgid "tab.roles"
-msgstr ""
+msgstr "Rôles"
 
 msgid "tab.wsSettings"
-msgstr ""
+msgstr "Paramètres de l'espace de travail"
 
 msgid "tableHeader.contributors"
-msgstr ""
+msgstr "Contributeurs"
 
 msgid "tableHeader.createdBy"
-msgstr ""
+msgstr "Créé par"
 
 msgid "tableHeader.dateOfUpdate"
-msgstr ""
+msgstr "Date de mise à jour"
 
 msgid "tableHeader.hsduType"
-msgstr ""
+msgstr "Type"
 
 msgid "tableHeader.hsduAcc"
-msgstr ""
+msgstr "Accessibilité"
 
 msgid "tableHeader.hsduStatus"
-msgstr ""
+msgstr "État"
 
 msgid "tableHeader.hsduCode"
-msgstr ""
+msgstr "Code de l'UPSS"
 
 msgid "tableHeader.id"
-msgstr ""
+msgstr "Identifiant"
 
 msgid "tableHeader.projectCoordinator"
-msgstr ""
+msgstr "Coordonnateur du projet"
 
 msgid "tableHeader.projectName"
-msgstr ""
+msgstr "Nom du projet"
 
 msgid "tableHeader.requesterName"
-msgstr ""
+msgstr "Demandeur"
 
 msgid "tableHeader.requestRespondedBy"
-msgstr ""
+msgstr "Répondé par"
 
 msgid "tableHeader.surveyName"
-msgstr ""
+msgstr "Nom du questionnaire"
 
 msgid "placeholder.users"
-msgstr ""
+msgstr "Commencez à taper pour sélectionner un utilisateur ..."
 
 msgid "tab.projectSettings"
-msgstr ""
+msgstr "Paramètres du projet"
 
 msgid "tooltip.deleteProject"
 msgstr ""
+"Cela supprimera définitivement ce projet. Cette opération ne peut être "
+"annulée."
 
 msgid "confirm.deleteUserRole"
 msgstr "Voulez-vous supprimer ce rôle ?"
@@ -353,133 +360,138 @@ msgid "label.country"
 msgstr "Pay"
 
 msgid "tableHeader.hsdus"
-msgstr ""
+msgstr "UPSS"
 
 msgid "tooltip.emptyProject"
 msgstr ""
+"Cela supprimera définitivement tous les espaces de travail dans ce projet. "
+"Cette opération ne peut être annulée."
 
 msgid "tab.notifications"
-msgstr ""
+msgstr "Notifications"
 
 msgid "pageTitle.editRole"
-msgstr ""
+msgstr "Modifier"
 
 msgid "pageTitle.viewRole"
-msgstr ""
+msgstr "Rôle"
 
 msgid "label.password"
-msgstr ""
+msgstr "Mot de passe"
 
 msgid "placeholder.roles"
-msgstr ""
+msgstr "Commencez à taper pour rechercher un rôle ..."
 
 msgid "tooltip.dashURL"
 msgstr ""
+"Laissez cette URL vide pour utiliser le tableau de bord du projet standard"
 
 msgid "tab.material"
-msgstr ""
+msgstr "Démo du matériel"
 
 msgid "tab.userProfile"
-msgstr ""
+msgstr "Profil"
 
 msgid "tableHeader.userName"
-msgstr ""
+msgstr "Nom d ' utilisateur"
 
 msgid "tableHeader.hsduName"
-msgstr ""
+msgstr "Nom de l'UPSS"
 
 msgid "tab.projectUsers"
-msgstr ""
+msgstr "Utilisateur (:projectUsersCount)"
 
 msgid "tableHeader.requestResponse"
-msgstr ""
+msgstr "Réponse"
 
 msgid "tab.wsExport"
-msgstr ""
+msgstr "Exporter les données"
 
+#, fuzzy
 msgid "warning.deleteHsdu"
-msgstr ""
+msgstr "Voulez-vous supprimer cette UPSS ?"
 
 msgid "label.newsleter"
-msgstr ""
+msgstr "Abonnez-vous à la newsletter"
 
 msgid "pageTitle.createProject"
-msgstr ""
+msgstr "Créer un projet"
 
 msgid "warning.deleteProject"
-msgstr ""
+msgstr "Voulez-vous supprimer ce projet ?"
 
 msgid "label.deleteProject"
 msgstr "Supprimer le projet"
 
 msgid "tab.workspaces"
-msgstr ""
+msgstr "Espaces de travail"
 
 msgid "tableHeader.workspaces"
-msgstr ""
+msgstr "Espaces de travail"
 
 msgid "tableHeader.roleName"
-msgstr ""
+msgstr "Nom du rôle"
 
 msgid "tab.projects"
-msgstr ""
+msgstr "Projets"
 
 msgid "pageTitle.respondRequest"
-msgstr ""
+msgstr "Répondre à la demande d'accès"
 
 msgid "tab.projectExport"
-msgstr ""
+msgstr "Exporter les données"
 
+#, fuzzy
 msgid "tab.sitUpdates"
-msgstr ""
+msgstr "Mises à jour de la situation  (:SitUpCount)"
 
 msgid "tableHeader.lastUpdatedBy"
-msgstr ""
+msgstr "Dernière mise à jour par"
 
 msgid "label.editAdminUpdate"
 msgstr ""
 
 msgid "label.requestResponseDate"
-msgstr ""
+msgstr "Date de réponse"
 
 msgid "tab.wsUsers"
-msgstr ""
+msgstr "Utilisateurs (:workspaceUsersCount)"
 
 msgid "pageTitle.wsName"
 msgstr ""
 
 msgid "tableHeader.wsName"
-msgstr ""
+msgstr "Nom de l'espace de travail"
 
 msgid "label.roleScopeGlobal"
-msgstr ""
+msgstr "Rôle global"
 
 msgid "tab.projectImport"
-msgstr ""
+msgstr "Importer les données"
 
 msgid "pageTitle.dashboard"
-msgstr ""
+msgstr "Tableau de bord"
 
 msgid "pageTitle.createSurvey"
-msgstr ""
+msgstr "Créer un questionnaire"
 
 msgid "tab.hsdus"
-msgstr ""
+msgstr "UPSS  (:hsduCount)"
 
 msgid "tableHeader.actions"
-msgstr ""
+msgstr "Opérations"
 
 msgid "tableHeader.hsduFunc"
-msgstr ""
+msgstr "Fonctionnalité"
 
 msgid "label.hsdus"
 msgstr "UPSSs"
 
 msgid "tableHeader.userEmail"
-msgstr ""
+msgstr "Adresse e-mail de l’utilisateur"
 
 msgid "tableHeader.roleType"
-msgstr ""
+msgstr "Type"
 
 msgid "label.editSitUpdate"
 msgstr ""
@@ -488,43 +500,45 @@ msgid "label.countryUnspecified"
 msgstr "Non précisé / Formation"
 
 msgid "label.requestedDate"
-msgstr ""
+msgstr "Date demandée"
 
 msgid "pageTitle.accessRequest"
-msgstr ""
+msgstr "Demandes d'accès"
 
 msgid "label.roleTypeStandard"
-msgstr ""
+msgstr "Standard (pour tous les projets)"
 
 msgid "tab.surveys"
-msgstr ""
+msgstr "Questionnaires"
 
 msgid "label.viewAdminUpdate"
 msgstr ""
 
 msgid "label.projectAdminSurvey"
-msgstr ""
+msgstr "Questionnaire de l'UPSS"
 
 msgid "tableHeader.requesterEmail"
-msgstr ""
+msgstr "Adresse e-mail du demandeur"
 
 msgid "tooltip.emptyWs"
 msgstr ""
+"Cela supprimera définitivement cet espace de travail. Cette opération ne "
+"peut être annulée."
 
 msgid "tableHeader.hsduTier"
-msgstr ""
+msgstr "Niveau"
 
 msgid "label.roleTargetWs"
-msgstr ""
+msgstr "à l'espace de travail"
 
 msgid "label.latitude"
-msgstr ""
+msgstr "Latitude"
 
 msgid "label.requestResponseJustification"
-msgstr ""
+msgstr "Justification (privée)"
 
 msgid "pageTitle.updateSurvey"
-msgstr ""
+msgstr "Mettre à jour le questionnaire"
 
 msgid "button.requestAll"
 msgstr "Toutes les demandes"
@@ -596,31 +610,31 @@ msgid "button.viewSitUpdate"
 msgstr ""
 
 msgid "label.longitude"
-msgstr ""
+msgstr "Longitude"
 
 msgid "pageTitle.createDashPage"
-msgstr ""
+msgstr "Créer une page"
 
 msgid "pageTitle.wsRequestAccess"
-msgstr ""
+msgstr "Demande d'accès à l'espace de travail"
 
 msgid "label.roleProject"
-msgstr ""
+msgstr "Projet"
 
 msgid "label.deleteAdminUpdate"
 msgstr ""
 
 msgid "label.wss"
-msgstr ""
+msgstr "Espaces de travail"
 
 msgid "label.roleScope"
-msgstr ""
+msgstr "Champ"
 
 msgid "label.loading"
-msgstr ""
+msgstr "Chargement ..."
 
 msgid "tableHeader.wsOwner"
-msgstr ""
+msgstr "Propriétaire de l’espace de travail"
 
 msgid "error.projectSelectCountry"
 msgstr "Veuillez sélectionner un pays"
@@ -630,15 +644,16 @@ msgstr "Supprimer l'espace de travail"
 
 msgid "tooltip.deleteHsdu"
 msgstr ""
+"Cela supprimera définitivement cette UPSS. Cette action ne peut être annulée."
 
 msgid "pageTitle.updateRole"
-msgstr ""
+msgstr "Mettre à jour le rôle"
 
 msgid "label.requestResponseMsg"
-msgstr ""
+msgstr "Message à l'utilisateur"
 
 msgid "placeholder.dropdownSelect"
-msgstr ""
+msgstr "Veuillez sélectionner une valeur ..."
 
 msgid "button.deleteSitUpdate"
 msgstr ""
@@ -647,76 +662,76 @@ msgid "confirm.deleteHsdu"
 msgstr "Supprimer l'UPSS"
 
 msgid "label.ws"
-msgstr ""
+msgstr "Espace de travail"
 
 msgid "label.deletingProject"
 msgstr "Suppression du projet en cours..."
 
 msgid "label.userEmail"
-msgstr ""
+msgstr "Adresse e-mail de l’utilisateur"
 
 msgid "button.save"
 msgstr "Sauvegarder"
 
 msgid "tableHeader.requestedDate"
-msgstr ""
+msgstr "Date demandée"
 
 msgid "label.resetGrid"
-msgstr ""
+msgstr "Réinitialiser GRID"
 
 msgid "placeholder.wss"
-msgstr ""
+msgstr "Commencez à taper pour sélectionner un espace de travail ..."
 
 msgid "tableHeader.requestResponseDate"
-msgstr ""
+msgstr "Date de réponse"
 
 msgid "button.emptyProject"
 msgstr "Supprimer tous les espaces de travail"
 
 msgid "tableHeader.responses"
-msgstr ""
+msgstr "Réponses"
 
 msgid "pageTitle.userSpace"
-msgstr ""
+msgstr "Espace utilisateur"
 
 msgid "pageTitle.administration"
-msgstr ""
+msgstr "Administration"
 
 msgid "label.roleScopeWs"
-msgstr ""
+msgstr "Espace de travail"
 
 msgid "label.requestResponseBy"
-msgstr ""
+msgstr "Réponse par"
 
 msgid "label.requestJustification"
-msgstr ""
+msgstr "Justification"
 
 msgid "pageTitle.forbidden"
-msgstr ""
+msgstr "Page interdite"
 
 msgid "tab.accessRequests"
-msgstr ""
+msgstr "Demandes d'accès"
 
 msgid "pageTitle.homepage"
-msgstr ""
+msgstr "Page d’accueil"
 
 msgid "placeholder.password"
-msgstr ""
+msgstr "Mot de passe"
 
 msgid "tableHeader.roleScope"
-msgstr ""
+msgstr "Champ"
 
 msgid "button.ok"
 msgstr "Ok"
 
 msgid "label.lastUpdatedDate"
-msgstr ""
+msgstr "Dernière mise à jour"
 
 msgid "label.roleTargetProject"
-msgstr ""
+msgstr "au projet"
 
 msgid "pageTitle.createHsdu"
-msgstr ""
+msgstr "Enregistre l'UPSS"
 
 msgid "button.createHsdu"
 msgstr "Enregistre l'UPSS"
@@ -728,31 +743,32 @@ msgid "button.createAdminUpdate"
 msgstr "Mettre à jour l'UPSS"
 
 msgid "label.importSitFields"
-msgstr ""
+msgstr "Mise à jour de la situation"
 
 msgid "label.invalidFileFormat"
-msgstr ""
+msgstr "Format de fichier invalide"
 
 msgid "pageTitle.importDashPage"
-msgstr ""
+msgstr "Importer la page de tableau de bord"
 
 msgid "pageTitle.importValidation"
-msgstr ""
+msgstr "Validation des importations"
 
 msgid "message.roleAdded"
-msgstr ""
+msgstr "Rôle ajouté avec succès"
 
+#, fuzzy
 msgid "label.importErrorCount"
-msgstr ""
+msgstr "les lignes :recordCountParameter  ont été détectées avec des erreurs"
 
 msgid "menu.showKeys"
-msgstr ""
+msgstr "Afficher les clés de traduction"
 
 msgid "label.importWs"
-msgstr ""
+msgstr "Espaces de travail"
 
 msgid "label.importSitValidation"
-msgstr ""
+msgstr "Validation des importations"
 
 msgid "button.importValidate"
 msgstr "Valider l ' importation"
@@ -764,7 +780,7 @@ msgid "button.selectCsvFile"
 msgstr "Sélectionner le fichier CSV"
 
 msgid "label.showMore"
-msgstr ""
+msgstr "Afficher plus"
 
 msgid "label.importBaseline"
 msgstr ""
@@ -775,32 +791,39 @@ msgstr "Erreur détectée à la ligne: Numéro de ligne"
 msgid "label.importAdminUpdates"
 msgstr "Mises à jour de l'UPSS"
 
+#, fuzzy
 msgid "label.importedRecordCount"
-msgstr ""
+msgstr "Les lignes :recordCountParameter ont été importées avec succès."
 
+#, fuzzy
 msgid "label.importRecordCount"
-msgstr ""
+msgstr "Les ligne :recordCountParameter sont prêtes à être importées."
 
+#, fuzzy
 msgid "label.importedErrorCount"
 msgstr ""
+"les lignes :recordCountParameter  ont été détectées avec des erreurs et n’"
+"ont pas pu être importées."
 
 msgid "label.importTemplate"
-msgstr ""
+msgstr "Télécharger le modèle"
 
 msgid "label.selectedFile"
-msgstr ""
+msgstr "Fichier sélectionné"
 
 msgid "label.importSitUpdates"
-msgstr ""
+msgstr "Mise à jour de la situation"
 
 msgid "message.requestInvalid"
 msgstr ""
+"Cher :requesterName,\n"
+"Votre demande d'accès à l'espace de travail :WorkspaceName est invalide"
 
 msgid "pageTitle.editSitUpdate"
-msgstr ""
+msgstr "Modifier la mise à jour de la situation"
 
 msgid "pageTitle.importCompleted"
-msgstr ""
+msgstr "Importation terminée"
 
 msgid "icon.deleteRole"
 msgstr "Supprimer le rôle"
@@ -836,7 +859,7 @@ msgid "icon.deleteUserRole"
 msgstr "Supprimer l ' utilisateur"
 
 msgid "warning.titleRemoveProjectLanguage"
-msgstr ""
+msgstr "Supprimer la langue du projet"
 
 msgid "label.exportTextHeader"
 msgstr "Inclure un en-tête de texte"
@@ -867,18 +890,22 @@ msgstr "Exporter le tableau"
 
 msgid "warning.removeProjectLanguage"
 msgstr ""
+"Si vous supprimez une langue de projet, les traductions existantes dans "
+"cette langue peuvent être perdues"
 
 msgid "button.close"
 msgstr "Fermer"
 
 msgid "tableHeader.auditOldValue"
-msgstr ""
+msgstr "Valeurs anciennes"
 
 msgid "label.hsdu"
 msgstr "UPSS"
 
 msgid "message.exportSubmited"
 msgstr ""
+"Votre demande d'exportation de données a été soumise. Vous recevrez une "
+"notification une fois que le fichier d'exportation sera prêt."
 
 msgid "label.auditDeleted"
 msgstr "Enregistrement supprimé"
@@ -890,25 +917,25 @@ msgid "label.auditHistory"
 msgstr "L'historique"
 
 msgid "tableHeader.auditNewValue"
-msgstr ""
+msgstr "Nouvelles valeurs"
 
 msgid "label.auditUpdated"
 msgstr "Enregistrement actualisé"
 
 msgid "tableHeader.auditFieldName"
-msgstr ""
+msgstr "Nom du champ"
 
 msgid "label.history"
 msgstr "Historique des données enregistrées"
 
 msgid "label.projectLanguages"
-msgstr ""
+msgstr "Langue"
 
 msgid "label.userDateFormat"
-msgstr ""
+msgstr "Format de date préféré"
 
 msgid "label.userLanguage"
-msgstr ""
+msgstr "Langue préférée"
 
 msgid "button.exportDash"
 msgstr "Exporter le structure"
@@ -1004,16 +1031,16 @@ msgstr ""
 "dans le but d’informer les opérations"
 
 msgid "label.userTimezone"
-msgstr ""
+msgstr "Fuseau horaire"
 
 msgid "tableHeader.hsduAdmin1"
-msgstr ""
+msgstr "Admin 1"
 
 msgid "chartPage.svlServices"
 msgstr "Disponibilité des services"
 
 msgid "tableHeader.lastUpdatedDate"
-msgstr ""
+msgstr "Date de dernière mise à jour"
 
 msgid "icon.viewSitUpdateHistory"
 msgstr "Afficher l’historique"
@@ -1028,7 +1055,7 @@ msgid "label.deleteHsdu"
 msgstr "Supprimer l'UPSS"
 
 msgid "tableHeader.dashPageCode"
-msgstr ""
+msgstr "Code de page"
 
 msgid "button.goToProject"
 msgstr "Aller au projet"
@@ -1037,7 +1064,7 @@ msgid "chartPage.comms"
 msgstr "Communications"
 
 msgid "tableHeader.hsduBuildCond"
-msgstr ""
+msgstr "État du bâtiment"
 
 msgid "chartPage.mnhServices"
 msgstr "Disponibilité des services"
@@ -1046,7 +1073,7 @@ msgid "label.dashPages"
 msgstr "Pages"
 
 msgid "tableHeader.hsduLocation"
-msgstr ""
+msgstr "Lieu"
 
 msgid "label.dateFormatMDY"
 msgstr "Mois/Jour/Année"
@@ -1058,13 +1085,13 @@ msgid "button.importDash"
 msgstr "Importer le structure"
 
 msgid "tableHeader.dashPageElements"
-msgstr ""
+msgstr "Nombre d'éléments"
 
 msgid "chartPage.waste"
 msgstr "Gestion des déchets"
 
 msgid "tableHeader.hsduEquipCond"
-msgstr ""
+msgstr "État des équipements"
 
 msgid "chartPage.servicesOverview"
 msgstr "Vue d’ensemble"
@@ -1073,7 +1100,7 @@ msgid "button.print"
 msgstr "Imprimer"
 
 msgid "tableHeader.createSitUpdate"
-msgstr ""
+msgstr "Mettre à jour la situation"
 
 msgid "label.excludeHsdusNonFunc"
 msgstr "Exclure les UPSS non fonctionnelles"
@@ -1085,7 +1112,7 @@ msgid "icon.viewAdminUpdateHistory"
 msgstr "Afficher l’historique"
 
 msgid "label.noFilters"
-msgstr ""
+msgstr "Pas de filtres"
 
 msgid "label.copiedLink"
 msgstr "Le lien a été copié dans le presse-papiers de votre appareil"
@@ -1304,3 +1331,194 @@ msgstr "État du bâtiment"
 
 msgid "label.hsduType"
 msgstr "Type de l'UPSS"
+
+msgid "label.name"
+msgstr "Nom"
+
+msgid "label.newEmail"
+msgstr "Nouvel e-mail"
+
+msgid "label.newEmailSaved"
+msgstr ""
+"Votre demande a été soumise. Vous recevrez un e-mail sur votre nouvelle "
+"adresse pour confirmer le changement, veuillez vérifier votre boîte de "
+"réception. "
+
+msgid "label.newPwd"
+msgstr "Nouveau mot de passe"
+
+msgid "label.newPwdSaved"
+msgstr "Mot de passe enregistré avec succès"
+
+msgid "label.noDataAvailable"
+msgstr "Aucune donnée à afficher"
+
+msgid "label.NotifDownload"
+msgstr "Télécharger fichier"
+
+msgid "label.NotifGoToRequest"
+msgstr "Aller à la demande d'accès"
+
+msgid "label.NotifImportDetails"
+msgstr "Voir détails sur l'importation"
+
+msgid "label.notifMarkRead"
+msgstr "Marquer comme lu"
+
+msgid "label.notifMarkUnread"
+msgstr "Marquer comme non lu"
+
+msgid "label.operator"
+msgstr "Opérateur"
+
+msgid "label.operatorEqual"
+msgstr "Égal à"
+
+msgid "label.operatorIn"
+msgstr "Égal à l’un des"
+
+msgid "label.operatorNotEqual"
+msgstr "Différent de"
+
+msgid "label.operatorNotIn"
+msgstr "Différent de l’un des"
+
+msgid "label.operatorNotNull"
+msgstr "Non vide"
+
+msgid "label.operatorNull"
+msgstr "Vide"
+
+msgid "label.question"
+msgstr "Question"
+
+msgid "label.questions"
+msgstr "Questions"
+
+msgid "label.registerUserSent"
+msgstr ""
+"Vous recevrez un e-mail pour valider votre inscription. Veuillez cocher "
+"votre boîte de réception"
+
+msgid "label.registerUserSuccess"
+msgstr "Utilisateur enregistré avec succès"
+
+msgid "label.rePassword"
+msgstr "Répéter le mot de passe"
+
+msgid "label.repeatNewPwd"
+msgstr "Répéter le nouveau mot de passe"
+
+msgid "label.resetUserPasswordSuccess"
+msgstr "Votre mot de passe a été réinitialisé avec succès"
+
+msgid "label.response"
+msgstr "Réponse"
+
+msgid "label.status"
+msgstr "État"
+
+msgid "label.userDisabled"
+msgstr "Utilisateur désactivé"
+
+msgid "label.userEnabled"
+msgstr "Utilisateur activé"
+
+msgid "label.userLoggedOut"
+msgstr "Sessions de l'utilisateur fermées"
+
+msgid "message.draftSaved"
+msgstr "Brouillon enregistré avec succès"
+
+msgid "message.exportDuplicate"
+msgstr ""
+"Une demande d'exportation de données avec les mêmes paramètres est déjà en "
+"cours de traitement, s'il vous plaît attendre 5 minutes et vérifier vos "
+"notifications pour télécharger le fichier"
+
+msgid "notif.accessRequestApproved"
+msgstr "Demande approuvée"
+
+msgid "notif.accessRequestDenied"
+msgstr "Demande refusée"
+
+msgid "notif.accessRequestInvalid"
+msgstr "Demande non valide"
+
+msgid "notif.accessRequestNew"
+msgstr "Nouvelle demande d'accès"
+
+msgid "notif.accessRequestResponded"
+msgstr "Demande d ' accès répondue"
+
+msgid "notif.dataExport"
+msgstr "Exportation de données"
+
+msgid "notif.dataExportCompleted"
+msgstr "Exportation de données terminée"
+
+msgid "pageTitle.changeEmail"
+msgstr "Modifier l’adresse e-mail"
+
+msgid "pageTitle.changePassword"
+msgstr "Modifier le mot de passe"
+
+msgid "pageTitle.dashboardFilters"
+msgstr "Filtres de tableau de bord"
+
+msgid "pageTitle.forgotPassword"
+msgstr "Mot de passe oublié ?"
+
+msgid "pageTitle.logout"
+msgstr "Se déconnecter"
+
+msgid "pageTitle.register"
+msgstr "Enregistrer"
+
+msgid "pageTitle.resetPassword"
+msgstr "Réinitialiser mot de passe"
+
+msgid "placeholder.name"
+msgstr "Nom"
+
+msgid "placeholder.registerEmail"
+msgstr "Adresse e-mail"
+
+msgid "placeholder.rePassword"
+msgstr "Répéter le mot de passe"
+
+msgid "tab.changeEmail"
+msgstr "Modifier l’adresse e-mail"
+
+msgid "tab.changePassword"
+msgstr "Modifier le mot de passe"
+
+msgid "tableHeader.choices"
+msgstr "Choix"
+
+msgid "tableHeader.notifDate"
+msgstr "Date"
+
+msgid "tableHeader.notifLink"
+msgstr "Lien"
+
+msgid "tableHeader.notifReadDate"
+msgstr "Date de lecture"
+
+msgid "tableHeader.notifSubject"
+msgstr "Sujet"
+
+msgid "tableHeader.notifType"
+msgstr "Type"
+
+msgid "tableHeader.operators"
+msgstr "Opérateurs"
+
+msgid "tableHeader.questions"
+msgstr "Questions"
+
+msgid "tableHeader.status"
+msgstr "État de la réponse"
+
+msgid "tableHeader.wsAccessRequest"
+msgstr "Demande d'accès"
