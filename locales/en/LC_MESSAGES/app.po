@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-05-21 07:13+0000\n"
+"PO-Revision-Date: 2025-08-20 11:01+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13\n"
 
 msgid "label.projectName"
 msgstr "Project name"
@@ -145,10 +145,10 @@ msgid "confirm.deleteUserRole"
 msgstr "Do you want to remove this role ?"
 
 msgid "error.emailRequired"
-msgstr "Email is required"
+msgstr "Email address is required"
 
 msgid "error.invalidEmail"
-msgstr "Invalid email"
+msgstr "Invalid email address"
 
 msgid "error.mandatoryFields"
 msgstr "Required field"
@@ -256,7 +256,7 @@ msgid "label.lastUpdatedBy"
 msgstr "Last updated by"
 
 msgid "label.lastUpdatedDate"
-msgstr "Last updated"
+msgstr "Last updated on"
 
 msgid "label.latitude"
 msgstr "Latitude"
@@ -812,7 +812,7 @@ msgid "icon.viewSitUpdate"
 msgstr "View situation update"
 
 msgid "icon.deleteUserRole"
-msgstr "Delete user"
+msgstr "Delete user role"
 
 msgid "icon.deleteRole"
 msgstr "Delete role"
@@ -859,7 +859,7 @@ msgid "label.exportDate"
 msgstr "Date range"
 
 msgid "label.exportSendEmail"
-msgstr "Send an e-mail notification when export is ready"
+msgstr "Send an email notification when export is ready"
 
 msgid "label.exportTextHeader"
 msgstr "Include text header"
@@ -948,7 +948,7 @@ msgid "label.userLanguage"
 msgstr "Preferred language"
 
 msgid "label.userDateFormat"
-msgstr "Preferred data format"
+msgstr "Preferred date format"
 
 msgid "label.userTimezone"
 msgstr "Timezone"
@@ -1370,10 +1370,10 @@ msgid "label.repeatNewPwd"
 msgstr "Repeat new password"
 
 msgid "error.currentPasswordEmpty"
-msgstr "Please fill your current password to continue"
+msgstr "Please enter your current password to continue"
 
 msgid "error.newPasswordEmpty"
-msgstr "Please fill your new password to continue"
+msgstr "Please enter your new password to continue"
 
 msgid "error.passwordTooShort"
 msgstr "Password is too short"
@@ -1388,13 +1388,13 @@ msgid "label.userDisabled"
 msgstr "User disabled"
 
 msgid "error.confirmPasswordEmpty"
-msgstr "Please fill the repeat password to continue"
+msgstr "Please re-enter your password to continue."
 
 msgid "tab.changePassword"
 msgstr "Change password"
 
 msgid "error.passwordsNotMatch"
-msgstr "The repeated password does not match"
+msgstr "Passwords do not match"
 
 msgid "error.passwordTooLong"
 msgstr "Password is too long"
@@ -1433,15 +1433,15 @@ msgid "tab.changeEmail"
 msgstr "Change e-mail"
 
 msgid "label.newEmail"
-msgstr "New e-mail"
+msgstr "New e-mail address"
 
 msgid "error.emailEmpty"
-msgstr "E-mail is empty"
+msgstr "Email field is empty"
 
 msgid "label.newEmailSaved"
 msgstr ""
-"Your request has been submitted. You will receive an e-mail on your new "
-"address to confirm the change, please check your inbox. "
+"Your request has been submitted. You will receive an email on your new email "
+"address to confirm the change, please check your inbox."
 
 msgid "label.forgotPwd"
 msgstr "Forgot your password ?"
@@ -1463,7 +1463,7 @@ msgstr "Password is too short"
 
 msgid "label.forgotPwdSent"
 msgstr ""
-"You've received an e-mail with a link to reset your password. Please check "
+"You've received an email with a link to reset your password. Please check "
 "your inbox."
 
 msgid "label.goToList"
@@ -1511,3 +1511,90 @@ msgid "message.exportDuplicate"
 msgstr ""
 "A data export request with the same parameters is already being processed, "
 "please wait for 5 minutes and check your notifications to download the file"
+
+msgid "button.confirmDeleteLastAdminResponse"
+msgstr "Delete latest HSDU response"
+
+msgid "button.viewHSDUListAllResponses"
+msgstr "All responses"
+
+msgid "button.viewHSDUListLatestResponses"
+msgstr "Latest responses"
+
+msgid "button.viewHSDUListOnlyAdminResponses"
+msgstr "HSDU updates"
+
+msgid "button.viewHSDUListOnlySituationResponses"
+msgstr "Situation updates"
+
+msgid "error.unauthorized"
+msgstr "Unauthorized"
+
+msgid "icon.deleteDashboardPage"
+msgstr "Delete dashboard page"
+
+msgid "icon.deleteSituationUpdate"
+msgstr "Delete situation update"
+
+msgid "icon.deleteUpdate"
+msgstr "Delete update"
+
+msgid "icon.editDashboardPage"
+msgstr "Edit dashboard page"
+
+msgid "icon.editSituationUpdate"
+msgstr "Edit situation update"
+
+msgid "icon.editUpdate"
+msgstr "Edit update"
+
+msgid "icon.exportDashboardPage"
+msgstr "Export dashboard page"
+
+msgid "icon.viewDashboardPage"
+msgstr "View dashboard page"
+
+msgid "icon.viewHistory"
+msgstr "View history"
+
+msgid "icon.viewSituationUpdate"
+msgstr "View situation update"
+
+msgid "icon.viewSituationUpdateHistory"
+msgstr "View history"
+
+msgid "icon.viewUpdate"
+msgstr "View update"
+
+msgid "icon.viewUpdateHistory"
+msgstr "View history"
+
+msgid "label.adminResponse"
+msgstr "HSDU response"
+
+msgid "label.changedEmail"
+msgstr "Email address changed"
+
+msgid "label.viewHistory"
+msgstr "View history"
+
+msgid "tab.viewHSDUList"
+msgstr "View HSDU list"
+
+msgid "tableHeader.facility_id"
+msgstr "HSDU ID"
+
+msgid "tableHeader.facilityId"
+msgstr "HSDU ID"
+
+msgid "tableHeader.facilityName"
+msgstr "HSDU name"
+
+msgid "tableHeader.lastModifiedBy"
+msgstr "Last modified by"
+
+msgid "tableHeader.workspaceId"
+msgstr "Workspace ID"
+
+msgid "tableHeader.workspaceName"
+msgstr "Workspace name"
