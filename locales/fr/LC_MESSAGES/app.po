@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
 "PO-Revision-Date: 2025-08-20 11:01+0000\n"
-"Last-Translator: HeRAMS <herams@who.int>\n"
+"Last-Translator: Ayumi Kodama <kodamaa@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
 "Language: fr\n"
@@ -59,13 +59,13 @@ msgid "pageTitle.login"
 msgstr "Se connecter"
 
 msgid "confirm.deleteProject"
-msgstr "Voulez-vous supprimer ce projet ?"
+msgstr "Souhaitez-vous supprimer ce projet ?"
 
 msgid "error.noMatchingUsers"
 msgstr "Aucun utilisateur ne correspond à votre recherche"
 
 msgid "error.passwordRequired"
-msgstr "Mot de passe obligatoire"
+msgstr "Veuillez saisir votre mot de passe."
 
 msgid "error.projectLanguageEnglish"
 msgstr "Nom du projet en anglais est requis"
@@ -74,7 +74,7 @@ msgid "error.noMatchingRoles"
 msgstr "Aucun rôle ne correspond à votre recherche"
 
 msgid "warning.emptyProject"
-msgstr "Voulez-vous supprimer tous les espaces de travail dans ce projet ?"
+msgstr "Souhaitez-vous supprimer tous les espaces de travail dans ce projet ?"
 
 msgid "error.projectDiffSurvey"
 msgstr "Le questionnaire d'UPSS et sur la situation doivent être différentes"
@@ -83,7 +83,9 @@ msgid "error.projectSelectSitSurvey"
 msgstr "Veuillez sélectionner un questionnaire de situation"
 
 msgid "error.projectLatitudeZero"
-msgstr "La latitude et la longitude ne peuvent être zéro"
+msgstr ""
+"La latitude et la longitude ne peuvent pas toutes les deux être égales à "
+"zéro."
 
 msgid "error.projectSelectAdminSurvey"
 msgstr "Veuillez sélectionner un questionnaire UPSS"
@@ -122,7 +124,7 @@ msgid "label.createdBy"
 msgstr "Créé par"
 
 msgid "label.createUserRole"
-msgstr "Ajouter les utilisateurs"
+msgstr "Ajouter des utilisateurs"
 
 msgid "label.deletingHsdu"
 msgstr "Suppression de l'UPSS en cours..."
@@ -258,7 +260,7 @@ msgid "pageTitle.userProfile"
 msgstr "Profil"
 
 msgid "pageTitle.viewAdminUpdate"
-msgstr "Mises à jour de l'UPSS"
+msgstr "Mise à jour de l'UPSS"
 
 msgid "pageTitle.viewSitUpdate"
 msgstr "Mise à jour de la situation"
@@ -272,9 +274,8 @@ msgstr "Date de création"
 msgid "placeholder.selectUsers"
 msgstr ""
 
-#, fuzzy
 msgid "tab.adminUpdates"
-msgstr "Mise à jour l'UPSS (:AdmUpCount)"
+msgstr "Mises à jour de l'UPSS (:AdmUpCount)"
 
 msgid "tab.deleteHsdu"
 msgstr "Supprimer l'UPSS"
@@ -339,16 +340,16 @@ msgstr ""
 "annulée."
 
 msgid "confirm.deleteUserRole"
-msgstr "Voulez-vous supprimer ce rôle ?"
+msgstr "Souhaitez-vous retirer ce rôle ?"
 
 msgid "confirm.emptyProject"
-msgstr "Voulez-vous supprimer tous les espaces de travail pour ce projet ?"
+msgstr "Souhaitez-vous supprimer tous les espaces de travail pour ce projet ?"
 
 msgid "error.invalidEmail"
-msgstr "L'adresse mail invalide"
+msgstr "Adresse e-mail invalide"
 
 msgid "error.emailRequired"
-msgstr "L'adresse mail est obligatoire"
+msgstr "L'adresse e-mail est requise."
 
 msgid "error.noMatchingWss"
 msgstr "Aucun espace de travail ne correspond à votre recherche"
@@ -357,7 +358,7 @@ msgid "error.mandatoryFields"
 msgstr "Champ obligatoire"
 
 msgid "label.country"
-msgstr "Pay"
+msgstr "Pays"
 
 msgid "tableHeader.hsdus"
 msgstr "UPSS"
@@ -407,18 +408,17 @@ msgstr "Réponse"
 msgid "tab.wsExport"
 msgstr "Exporter les données"
 
-#, fuzzy
 msgid "warning.deleteHsdu"
-msgstr "Voulez-vous supprimer cette UPSS ?"
+msgstr "Souhaitez-vous supprimer cette UPSS ?"
 
 msgid "label.newsleter"
-msgstr "Abonnez-vous à la newsletter"
+msgstr "S’abonner à la newsletter"
 
 msgid "pageTitle.createProject"
 msgstr "Créer un projet"
 
 msgid "warning.deleteProject"
-msgstr "Voulez-vous supprimer ce projet ?"
+msgstr "Souhaitez-vous supprimer ce projet ?"
 
 msgid "label.deleteProject"
 msgstr "Supprimer le projet"
@@ -441,9 +441,8 @@ msgstr "Répondre à la demande d'accès"
 msgid "tab.projectExport"
 msgstr "Exporter les données"
 
-#, fuzzy
 msgid "tab.sitUpdates"
-msgstr "Mises à jour de la situation  (:SitUpCount)"
+msgstr "Mises à jour de la situation (:SitUpCount)"
 
 msgid "tableHeader.lastUpdatedBy"
 msgstr "Dernière mise à jour par"
@@ -485,7 +484,7 @@ msgid "tableHeader.hsduFunc"
 msgstr "Fonctionnalité"
 
 msgid "label.hsdus"
-msgstr "UPSSs"
+msgstr "UPSS"
 
 msgid "tableHeader.userEmail"
 msgstr "Adresse e-mail de l’utilisateur"
@@ -556,13 +555,13 @@ msgid "button.createRole"
 msgstr "Créer un rôle"
 
 msgid "button.createSurvey"
-msgstr "Créer une enquête"
+msgstr "Créer un questionnaire"
 
 msgid "button.createSitUpdate"
 msgstr "Mettre à jour la situation"
 
 msgid "button.dashboard"
-msgstr "Tableau de bord"
+msgstr "Tableaux de bord"
 
 msgid "button.delete"
 msgstr "Supprimer"
@@ -580,7 +579,7 @@ msgid "button.deleteUserRole"
 msgstr ""
 
 msgid "button.requestAccess"
-msgstr "Demande d'accès"
+msgstr "Demander l'accès"
 
 msgid "button.impersonate"
 msgstr ""
@@ -725,7 +724,7 @@ msgid "button.ok"
 msgstr "Ok"
 
 msgid "label.lastUpdatedDate"
-msgstr "Dernière mise à jour"
+msgstr "Dernière mise à jour le"
 
 msgid "label.roleTargetProject"
 msgstr "au projet"
@@ -734,7 +733,7 @@ msgid "pageTitle.createHsdu"
 msgstr "Enregistre l'UPSS"
 
 msgid "button.createHsdu"
-msgstr "Enregistre l'UPSS"
+msgstr "Enregistrer l'UPSS"
 
 msgid "button.cancel"
 msgstr "Annuler"
@@ -743,7 +742,7 @@ msgid "button.createAdminUpdate"
 msgstr "Mettre à jour l'UPSS"
 
 msgid "label.importSitFields"
-msgstr "Mise à jour de la situation"
+msgstr "Mises à jour de la situation"
 
 msgid "label.invalidFileFormat"
 msgstr "Format de fichier invalide"
@@ -768,10 +767,10 @@ msgid "label.importWs"
 msgstr "Espaces de travail"
 
 msgid "label.importSitValidation"
-msgstr "Validation des importations"
+msgstr "Validation de l'importation"
 
 msgid "button.importValidate"
-msgstr "Valider l ' importation"
+msgstr "Valider l'importation"
 
 msgid "button.submit"
 msgstr "Soumettre"
@@ -783,7 +782,7 @@ msgid "label.showMore"
 msgstr "Afficher plus"
 
 msgid "label.importBaseline"
-msgstr ""
+msgstr "Référence"
 
 msgid "error.importRowNumber"
 msgstr "Erreur détectée à la ligne: Numéro de ligne"
@@ -812,7 +811,7 @@ msgid "label.selectedFile"
 msgstr "Fichier sélectionné"
 
 msgid "label.importSitUpdates"
-msgstr "Mise à jour de la situation"
+msgstr "Mises à jour de la situation"
 
 msgid "message.requestInvalid"
 msgstr ""
@@ -832,31 +831,31 @@ msgid "icon.impersonateUser"
 msgstr "Se connecter en tant qu’utilisateur"
 
 msgid "icon.deleteSitUpdate"
-msgstr "Supprimer la mise à jour de situation"
+msgstr "Supprimer la mise à jour de la situation"
 
 msgid "icon.viewSitUpdate"
-msgstr "Afficher mis à jour de situation"
+msgstr "Afficher la mise à jour de la situation"
 
 msgid "icon.editSitUpdate"
-msgstr ""
+msgstr "Modifier la mise à jour de la situation"
 
 msgid "icon.viewAdminUpdate"
-msgstr "Voir la mise à jour d'UPSS"
+msgstr "Afficher la mise à jour de l'UPSS"
 
 msgid "icon.deleteAdminUpdate"
-msgstr "Supprimer la mise à jour d'UPSS"
+msgstr "Supprimer la mise à jour de l'UPSS"
 
 msgid "icon.editAdminUpdate"
-msgstr "Modifier la mise à jour d'UPSS"
+msgstr "Modifier la mise à jour de l'UPSS"
 
 msgid "icon.deleteSurvey"
 msgstr "Supprimer le questionnaire"
 
 msgid "icon.deleteUser"
-msgstr "Supprimer l ' utilisateur"
+msgstr "Supprimer l'utilisateur"
 
 msgid "icon.deleteUserRole"
-msgstr "Supprimer l ' utilisateur"
+msgstr "Supprimer le rôle de l'utilisateur"
 
 msgid "warning.titleRemoveProjectLanguage"
 msgstr "Supprimer la langue du projet"
@@ -868,7 +867,7 @@ msgid "label.exportHistory"
 msgstr "Exporter l’historique des réponses"
 
 msgid "label.exportSendEmail"
-msgstr "Envoyer une notification par e-mail lorsque l'exportation est prête"
+msgstr "Envoyer une notification par e-mail lorsque l’exportation est prête"
 
 msgid "label.exportAsOf"
 msgstr "Exporter la dernière réponse en date du"
@@ -897,7 +896,7 @@ msgid "button.close"
 msgstr "Fermer"
 
 msgid "tableHeader.auditOldValue"
-msgstr "Valeurs anciennes"
+msgstr "Anciennes valeurs"
 
 msgid "label.hsdu"
 msgstr "UPSS"
@@ -929,7 +928,7 @@ msgid "label.history"
 msgstr "Historique des données enregistrées"
 
 msgid "label.projectLanguages"
-msgstr "Langue"
+msgstr "Langues"
 
 #, fuzzy
 msgid "label.userDateFormat"
@@ -982,8 +981,8 @@ msgstr "Année-Mois-Jour"
 
 msgid "label.emptyDashboard"
 msgstr ""
-"Cette action supprimera la structure du tableau de bord et toutes les pages. "
-"Vous voulez continuer ?"
+"Cette action supprimera la structure du tableau de bord ainsi que toutes les "
+"pages. Souhaitez-vous continuer ?"
 
 msgid "chartPage.ncdOverview"
 msgstr "Vue d’ensemble"
@@ -1026,10 +1025,10 @@ msgstr "Eau"
 
 msgid "label.dashDisclaimer"
 msgstr ""
-"Remarque : Le déploiement de HeRAMS, y compris la collecte de données, la "
-"validation et la vérification, est en cours. Par conséquent, l'analyse "
-"présentée ici est susceptible d’être modifiée et a été réalisée uniquement "
-"dans le but d’informer les opérations"
+"Remarque: Il est important de noter que le déploiement de HeRAMS, y compris "
+"la collecte, la validation et la vérification des données, est toujours en "
+"cours. Par conséquent, l’analyse présentée ici est susceptible d’évoluer et "
+"est fournie uniquement à titre informatif pour soutenir les opérations."
 
 msgid "label.userTimezone"
 msgstr "Fuseau horaire"
@@ -1107,7 +1106,7 @@ msgid "label.excludeHsdusNonFunc"
 msgstr "Exclure les UPSS non fonctionnelles"
 
 msgid "label.excludeHsdusIncomp"
-msgstr "Exclure les UPSS dont la baseline est incomplètes"
+msgstr "Exclure les UPSS dont la référence est incomplète."
 
 msgid "icon.viewAdminUpdateHistory"
 msgstr "Afficher l’historique"
@@ -1185,7 +1184,7 @@ msgid "chartPage.building"
 msgstr "État du bâtiment"
 
 msgid "chartPage.chn"
-msgstr "Nutrition et santé des enfants"
+msgstr "Nutrition et santé de l'enfant"
 
 msgid "chartPage.cleanEquip"
 msgstr "Equipement de nettoyage"
@@ -1248,19 +1247,19 @@ msgid "chartPage.waterSources"
 msgstr "Sources"
 
 msgid "error.confirmPasswordEmpty"
-msgstr "Veuillez remplir le mot de passe répété pour continuer"
+msgstr "Veuillez ressaisir votre mot de passe pour continuer."
 
 msgid "error.currentPasswordEmpty"
-msgstr "Veuillez remplir votre mot de passe actuel pour continuer"
+msgstr "Veuillez entrer votre mot de passe actuel pour continuer."
 
 msgid "error.emailEmpty"
-msgstr "E-mail est vide"
+msgstr "Le champ adresse e-mail est vide."
 
 msgid "error.nameLength"
 msgstr "Le nom est trop court"
 
 msgid "error.newPasswordEmpty"
-msgstr "Veuillez remplir votre nouveau mot de passe pour continuer"
+msgstr "Veuillez saisir votre nouveau mot de passe pour continuer."
 
 msgid "error.pageCodeNotFound"
 msgstr "La page importée manque le code de page"
@@ -1272,13 +1271,13 @@ msgid "error.passwordMismatch"
 msgstr "Les mots de passe ne correspondent pas"
 
 msgid "error.passwordsNotMatch"
-msgstr "Le mot de passe répété ne correspond pas"
+msgstr "Le mot de passe répété ne correspond pas au mot de passe initial."
 
 msgid "error.passwordTooLong"
-msgstr "Mot de passe trop long"
+msgstr "Mot de passe est trop long"
 
 msgid "error.passwordTooShort"
-msgstr "Mot de passe trop court"
+msgstr "Mot de passe est trop court"
 
 msgid "icon.disableUser"
 msgstr "Désactiver l'utilisateur"
@@ -1343,9 +1342,9 @@ msgstr "Nouvel e-mail"
 
 msgid "label.newEmailSaved"
 msgstr ""
-"Votre demande a été soumise. Vous recevrez un e-mail sur votre nouvelle "
-"adresse pour confirmer le changement, veuillez vérifier votre boîte de "
-"réception. "
+"Votre demande a été soumise. Vous recevrez un e-mail à votre nouvelle "
+"adresse e-mail pour confirmer le changement. Veuillez vérifier votre boîte "
+"de réception."
 
 msgid "label.newPwd"
 msgstr "Nouveau mot de passe"
@@ -1363,7 +1362,7 @@ msgid "label.NotifGoToRequest"
 msgstr "Aller à la demande d'accès"
 
 msgid "label.NotifImportDetails"
-msgstr "Voir détails sur l'importation"
+msgstr "Afficher les détails de l'importation"
 
 msgid "label.notifMarkRead"
 msgstr "Marquer comme lu"
@@ -1400,11 +1399,11 @@ msgstr "Questions"
 
 msgid "label.registerUserSent"
 msgstr ""
-"Vous recevrez un e-mail pour valider votre inscription. Veuillez cocher "
-"votre boîte de réception"
+"Vous recevrez un e-mail pour valider votre inscription. Veuillez vérifier "
+"votre boîte de réception."
 
 msgid "label.registerUserSuccess"
-msgstr "Utilisateur enregistré avec succès"
+msgstr "Utilisateur inscrit avec succès"
 
 msgid "label.rePassword"
 msgstr "Répéter le mot de passe"
@@ -1525,3 +1524,90 @@ msgstr "État de la réponse"
 
 msgid "tableHeader.wsAccessRequest"
 msgstr "Demande d'accès"
+
+msgid "button.confirmDeleteLastAdminResponse"
+msgstr "Supprimer la dernière réponse de l'UPSS"
+
+msgid "button.viewHSDUListAllResponses"
+msgstr "Toutes les réponses"
+
+msgid "button.viewHSDUListLatestResponses"
+msgstr "Dernières réponses"
+
+msgid "button.viewHSDUListOnlyAdminResponses"
+msgstr "Mises à jour de l'UPSS"
+
+msgid "button.viewHSDUListOnlySituationResponses"
+msgstr "Mises à jour de la situation"
+
+msgid "error.unauthorized"
+msgstr "Non autorisé"
+
+msgid "icon.deleteDashboardPage"
+msgstr "Supprimer la page du tableau de bord"
+
+msgid "icon.deleteSituationUpdate"
+msgstr "Supprimer la mise à jour de la situation"
+
+msgid "icon.deleteUpdate"
+msgstr "Supprimer la mise à jour"
+
+msgid "icon.editDashboardPage"
+msgstr "Modifier la page du tableau de bord"
+
+msgid "icon.editSituationUpdate"
+msgstr "Modifier la mise à jour de la situation"
+
+msgid "icon.editUpdate"
+msgstr "Modifier la mise à jour"
+
+msgid "icon.exportDashboardPage"
+msgstr "Exporter la page du tableau de bord"
+
+msgid "icon.viewDashboardPage"
+msgstr "Afficher la page du tableau du bord"
+
+msgid "icon.viewHistory"
+msgstr "Afficher l'historique"
+
+msgid "icon.viewSituationUpdate"
+msgstr "Afficher la mise à jour de la situation"
+
+msgid "icon.viewSituationUpdateHistory"
+msgstr "Afficher l'historique"
+
+msgid "icon.viewUpdate"
+msgstr "Afficher la mise à jour"
+
+msgid "icon.viewUpdateHistory"
+msgstr "Afficher l'historique"
+
+msgid "label.adminResponse"
+msgstr "La réponse de l'UPSS"
+
+msgid "label.changedEmail"
+msgstr "Adresse e-mail modifiée"
+
+msgid "label.viewHistory"
+msgstr "Afficher l'historique"
+
+msgid "tab.viewHSDUList"
+msgstr "Afficher la liste des UPSS"
+
+msgid "tableHeader.facility_id"
+msgstr "Identifiant de l'UPSS"
+
+msgid "tableHeader.facilityId"
+msgstr "Identifiant de l'UPSS"
+
+msgid "tableHeader.facilityName"
+msgstr "Nom de l'UPSS"
+
+msgid "tableHeader.lastModifiedBy"
+msgstr "Dernière mise à jour par"
+
+msgid "tableHeader.workspaceId"
+msgstr "Identifiant de l’espace de travail"
+
+msgid "tableHeader.workspaceName"
+msgstr "Nom de l'espace de travail"
