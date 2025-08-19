@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-05-21 07:13+0000\n"
+"PO-Revision-Date: 2025-08-20 11:01+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13\n"
 
 msgid "projectLanguage"
 msgstr ""
@@ -67,9 +67,11 @@ msgstr "¿ Está seguro de querer eliminar este proyecto ?"
 msgid "error.noMatchingWss"
 msgstr "Ningún espacio de trabajo coincide con su búsqueda"
 
+#, fuzzy
 msgid "error.emailRequired"
 msgstr "El e-mail es obligatorio"
 
+#, fuzzy
 msgid "error.invalidEmail"
 msgstr "E-mail inválido"
 
@@ -326,6 +328,7 @@ msgstr "¿ Está seguro de querer eliminar esta UPSS ?"
 msgid "tableHeader.createdDate"
 msgstr "Fecha de creación"
 
+#, fuzzy
 msgid "label.lastUpdatedDate"
 msgstr "Fecha de modificación"
 
@@ -821,6 +824,7 @@ msgstr "Validación de la importación"
 msgid "label.invalidFileFormat"
 msgstr "El fichero tiene un formato inválido"
 
+#, fuzzy
 msgid "icon.deleteUserRole"
 msgstr "Eliminar usuario"
 
@@ -871,6 +875,7 @@ msgstr "Incluir texto en el encabezado"
 msgid "label.exportHistory"
 msgstr "Exportar todas las repuestas en el intervalo"
 
+#, fuzzy
 msgid "label.exportSendEmail"
 msgstr ""
 "Enviar una notificación por e-mail cuando la exportación esté completada"
@@ -964,6 +969,7 @@ msgstr "Año-Mes-Día"
 msgid "tableHeader.createSitUpdate"
 msgstr "Modificar situación"
 
+#, fuzzy
 msgid "label.userDateFormat"
 msgstr "Formato de fecha"
 
@@ -1375,6 +1381,7 @@ msgstr "Ver detalles"
 msgid "notif.dataImport"
 msgstr "Importación de datos"
 
+#, fuzzy
 msgid "error.currentPasswordEmpty"
 msgstr "Indique su nueva contraseña para continuar"
 
@@ -1405,15 +1412,18 @@ msgstr "Cambiar contraseña"
 msgid "label.userDisabled"
 msgstr "Usuario desactivado"
 
+#, fuzzy
 msgid "error.passwordsNotMatch"
 msgstr "La contraseña repetida no coincide con la nueva contraseña"
 
 msgid "label.repeatNewPwd"
 msgstr "Repita la nueva contraseña"
 
+#, fuzzy
 msgid "error.confirmPasswordEmpty"
 msgstr "Repita la nueva contraseña para continuar"
 
+#, fuzzy
 msgid "error.newPasswordEmpty"
 msgstr "Indique su contraseña actual para continuar"
 
@@ -1441,9 +1451,11 @@ msgstr "Borrador guardado con éxito"
 msgid "tableHeader.status"
 msgstr "Estado de la respuesta"
 
+#, fuzzy
 msgid "label.newEmail"
 msgstr "Nuevo e-mail"
 
+#, fuzzy
 msgid "error.emailEmpty"
 msgstr "El e-mail está vacio"
 
@@ -1456,6 +1468,7 @@ msgstr "Desconectar"
 msgid "tab.changeEmail"
 msgstr "Cambiar e-mail"
 
+#, fuzzy
 msgid "label.newEmailSaved"
 msgstr ""
 "Su solicitud ha sido registrada. Recibirá un e-mail en su nueva dirección "
@@ -1470,6 +1483,7 @@ msgstr "Nombre"
 msgid "label.forgotPwd"
 msgstr "¿Ha olvidado su contraseña?"
 
+#, fuzzy
 msgid "label.forgotPwdSent"
 msgstr ""
 "Le hemos enviado un e-mail con un enlace para reiniciar su contraseña. "
