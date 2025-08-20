@@ -133,6 +133,12 @@ msgstr ""
 msgid "button.send"
 msgstr ""
 
+msgid "button.softDeleteProject"
+msgstr ""
+
+msgid "button.softDeleteWs"
+msgstr ""
+
 msgid "button.submit"
 msgstr ""
 
@@ -341,6 +347,12 @@ msgid "confirm.deleteUserRole"
 msgstr ""
 
 msgid "confirm.emptyProject"
+msgstr ""
+
+msgid "confirm.softDeleteProject"
+msgstr ""
+
+msgid "confirm.softDeleteWs"
 msgstr ""
 
 msgid "error.confirmPasswordEmpty"
@@ -982,6 +994,18 @@ msgstr ""
 msgid "label.situationResponse"
 msgstr ""
 
+msgid "label.softDeleteProject"
+msgstr ""
+
+msgid "label.softDeleteWs"
+msgstr ""
+
+msgid "label.softDeletingProject"
+msgstr ""
+
+msgid "label.softDeletingWs"
+msgstr ""
+
 msgid "label.status"
 msgstr ""
 
@@ -1525,6 +1549,12 @@ msgstr ""
 msgid "tooltip.emptyWs"
 msgstr ""
 
+msgid "tooltip.softDeleteProject"
+msgstr ""
+
+msgid "tooltip.softDeleteWs"
+msgstr ""
+
 msgid "true"
 msgstr ""
 
@@ -1538,6 +1568,12 @@ msgid "warning.emptyProject"
 msgstr ""
 
 msgid "warning.removeProjectLanguage"
+msgstr ""
+
+msgid "warning.softDeleteProject"
+msgstr ""
+
+msgid "warning.softDeleteWs"
 msgstr ""
 
 msgid "warning.titleRemoveProjectLanguage"
