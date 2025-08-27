@@ -691,6 +691,9 @@ msgstr ""
 msgid "label.exportHistory"
 msgstr ""
 
+msgid "label.exportIncludeDrafts"
+msgstr ""
+
 msgid "label.exportSendEmail"
 msgstr ""
 
@@ -1289,6 +1292,9 @@ msgid "tab.deleteHsdu"
 msgstr ""
 
 msgid "tab.globalUsers"
+msgstr ""
+
+msgid "tab.hsduExport"
 msgstr ""
 
 msgid "tab.hsdus"
