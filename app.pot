@@ -862,6 +862,9 @@ msgstr ""
 msgid "label.password"
 msgstr ""
 
+msgid "label.project"
+msgstr ""
+
 msgid "label.projectAdminSurvey"
 msgstr ""
 
@@ -1081,6 +1084,9 @@ msgstr ""
 msgid "message.exportSubmited"
 msgstr ""
 
+msgid "message.projectAccessRequestSubject"
+msgstr ""
+
 msgid "message.requestDenied"
 msgstr ""
 
@@ -1088,6 +1094,15 @@ msgid "message.requestGranted"
 msgstr ""
 
 msgid "message.requestInvalid"
+msgstr ""
+
+msgid "message.requestProjectDenied"
+msgstr ""
+
+msgid "message.requestProjectGranted"
+msgstr ""
+
+msgid "message.requestProjectInvalid"
 msgstr ""
 
 msgid "message.requestSubject"
