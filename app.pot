@@ -1486,6 +1486,9 @@ msgstr ""
 msgid "tableHeader.questions"
 msgstr ""
 
+msgid "tableHeader.requestAccess"
+msgstr ""
+
 msgid "tableHeader.requestedDate"
 msgstr ""
 
