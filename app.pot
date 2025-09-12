@@ -1315,6 +1315,9 @@ msgstr ""
 msgid "tab.hsdus"
 msgstr ""
 
+msgid "tab.inactiveHsdus"
+msgstr ""
+
 msgid "tab.material"
 msgstr ""
 
