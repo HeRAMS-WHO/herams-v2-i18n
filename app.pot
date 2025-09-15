@@ -1348,6 +1348,9 @@ msgstr ""
 msgid "tab.surveys"
 msgstr ""
 
+msgid "tab.testCache"
+msgstr ""
+
 msgid "tab.userProfile"
 msgstr ""
 
@@ -1559,6 +1562,9 @@ msgid "tableHeader.wsName"
 msgstr ""
 
 msgid "tableHeader.wsOwner"
+msgstr ""
+
+msgid "title for testCache"
 msgstr ""
 
 msgid "tooltip.dashURL"
