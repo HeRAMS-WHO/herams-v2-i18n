@@ -577,6 +577,9 @@ msgstr ""
 msgid "label.auditUpdated"
 msgstr ""
 
+msgid "label.available"
+msgstr ""
+
 msgid "label.changedEmail"
 msgstr ""
 
@@ -670,10 +673,19 @@ msgstr ""
 msgid "label.emptyWs"
 msgstr ""
 
+msgid "label.excludeBarriers"
+msgstr ""
+
 msgid "label.excludeHsdusIncomp"
 msgstr ""
 
 msgid "label.excludeHsdusNonFunc"
+msgstr ""
+
+msgid "label.excludeSelectedQuestions"
+msgstr ""
+
+msgid "label.exportAllQuestions"
 msgstr ""
 
 msgid "label.exportAnswersText"
@@ -692,6 +704,9 @@ msgid "label.exportHistory"
 msgstr ""
 
 msgid "label.exportIncludeDrafts"
+msgstr ""
+
+msgid "label.exportOnlySelectedQuestions"
 msgstr ""
 
 msgid "label.exportSendEmail"
@@ -892,6 +907,9 @@ msgstr ""
 msgid "label.questions"
 msgstr ""
 
+msgid "label.questionsList"
+msgstr ""
+
 msgid "label.registerUserSent"
 msgstr ""
 
@@ -989,6 +1007,9 @@ msgid "label.roleTypeCustom"
 msgstr ""
 
 msgid "label.roleTypeStandard"
+msgstr ""
+
+msgid "label.selected"
 msgstr ""
 
 msgid "label.selectedFile"
