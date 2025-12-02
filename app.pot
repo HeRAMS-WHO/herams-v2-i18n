@@ -1015,6 +1015,9 @@ msgstr ""
 msgid "label.selectedFile"
 msgstr ""
 
+msgid "label.showLess"
+msgstr ""
+
 msgid "label.showMore"
 msgstr ""
 
