@@ -124,6 +124,9 @@ msgstr ""
 msgid "button.save"
 msgstr ""
 
+msgid "button.saveAsPdf"
+msgstr ""
+
 msgid "button.saveDraft"
 msgstr ""
 
