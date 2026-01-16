@@ -148,6 +148,9 @@ msgstr ""
 msgid "button.unreadNotif"
 msgstr ""
 
+msgid "button.viewDash"
+msgstr ""
+
 msgid "button.viewHSDUListAllResponses"
 msgstr ""
 
