@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2025-09-25 09:02+0000\n"
+"PO-Revision-Date: 2026-02-05 11:01+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 msgid "projectLanguage"
 msgstr "Langue du projet"
@@ -141,6 +141,7 @@ msgstr "Langue"
 msgid "label.globalRoles"
 msgstr "Rôles"
 
+#, fuzzy
 msgid "label.lastUpdatedBy"
 msgstr "Dernière mise à jour par"
 
@@ -444,6 +445,7 @@ msgstr "Exporter les données"
 msgid "tab.sitUpdates"
 msgstr "Mises à jour de la situation (:SitUpCount)"
 
+#, fuzzy
 msgid "tableHeader.lastUpdatedBy"
 msgstr "Dernière mise à jour par"
 
@@ -597,6 +599,7 @@ msgstr "Demandes en attente"
 msgid "button.return"
 msgstr "Retour"
 
+#, fuzzy
 msgid "button.workspaces"
 msgstr "Espaces de travail"
 
@@ -724,6 +727,7 @@ msgstr "Champ"
 msgid "button.ok"
 msgstr "Ok"
 
+#, fuzzy
 msgid "label.lastUpdatedDate"
 msgstr "Dernière mise à jour le"
 
@@ -956,6 +960,7 @@ msgstr "Ajouter la page"
 msgid "chartPage.commOverview"
 msgstr "Vue d’ensemble"
 
+#, fuzzy
 msgid "button.deleteDash"
 msgstr "Supprimer le tableau de bord"
 
@@ -1040,6 +1045,7 @@ msgstr "Admin 1"
 msgid "chartPage.svlServices"
 msgstr "Disponibilité des services"
 
+#, fuzzy
 msgid "tableHeader.lastUpdatedDate"
 msgstr "Date de dernière mise à jour"
 
@@ -1398,6 +1404,7 @@ msgstr "Question"
 msgid "label.questions"
 msgstr "Questions"
 
+#, fuzzy
 msgid "label.registerUserSent"
 msgstr ""
 "Vous recevrez un e-mail pour valider votre inscription. Veuillez vérifier "
