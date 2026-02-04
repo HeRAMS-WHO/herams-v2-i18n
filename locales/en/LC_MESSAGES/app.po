@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-12-12 15:00+0000\n"
+"PO-Revision-Date: 2026-02-04 09:35+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 msgid "label.projectName"
 msgstr "Project name"
@@ -1637,3 +1637,129 @@ msgstr "Delete project"
 
 msgid "label.softDeletingWs"
 msgstr "Delete workspace"
+
+msgid "button.saveAsPdf"
+msgstr "Save as pdf"
+
+msgid "confirm.softDeleteProject"
+msgstr "Confirm to delete"
+
+msgid "confirm.softDeleteWs"
+msgstr "Confirm to delete WS"
+
+msgid "label.available"
+msgstr "available"
+
+#, fuzzy
+msgid "label.confirmationDeleteLastAdminSurveyResponseExplanation"
+msgstr "confirmation to delete last admin survey response explanation"
+
+msgid "label.excludeBarriers"
+msgstr "Exclude barriers "
+
+#, fuzzy
+msgid "label.excludeSelectedQuestions"
+msgstr "Exclude selected questions"
+
+msgid "label.exportAllQuestions"
+msgstr "Export all questions"
+
+msgid "label.exportOnlySelectedQuestions"
+msgstr "Export only selected questions"
+
+#, fuzzy
+msgid "label.importWarningCount"
+msgstr "Import warning count"
+
+#, fuzzy
+msgid "label.questionsList"
+msgstr "Question list"
+
+#, fuzzy
+msgid "label.selected"
+msgstr "Selected"
+
+msgid "label.showLess"
+msgstr "Show less"
+
+#, fuzzy
+msgid "tableHeader.adminResponse"
+msgstr "Admin response"
+
+msgid "tableHeader.requestAccess"
+msgstr "Request Access"
+
+#, fuzzy
+msgid "tableHeader.situationResponse"
+msgstr "Situation response"
+
+msgid "label.situationResponse"
+msgstr "Situation response"
+
+#, fuzzy
+msgid "label.whatKindOfSurveyDoYouWantToDelete"
+msgstr "What kind of survey do you want to delete?"
+
+#, fuzzy
+msgid "label.whatKindOfSurveyDoYouWantToEdit"
+msgstr "What kind of survey do you want to edit?"
+
+msgid "label.whatKindOfSurveyDoYouWantToView"
+msgstr "What kind of survey do you want to view?"
+
+msgid "label.whatKindOfSurveyDoYouWantToViewHistory"
+msgstr "What kind of survey do you want to view history?"
+
+#, fuzzy
+msgid "message.projectAccessRequestSubject"
+msgstr "Project access request subject"
+
+#, fuzzy
+msgid "message.requestProjectDenied"
+msgstr "Project request denied "
+
+#, fuzzy
+msgid "message.requestProjectGranted"
+msgstr "Project request granted"
+
+#, fuzzy
+msgid "message.requestProjectInvalid"
+msgstr "Project request invalid "
+
+msgid "tab.hsduExport"
+msgstr "HSDU export"
+
+#, fuzzy
+msgid "tab.hsdus :openedFacilitiesCount"
+msgstr "HSDU: opened facility count"
+
+#, fuzzy
+msgid "tab.inactiveHsdus :notOpenedFacilitiesCount"
+msgstr "inactive HSDU: not opened facility count"
+
+#, fuzzy
+msgid "tab.testCache"
+msgstr "Test cache"
+
+#, fuzzy
+msgid "tableHeader.updatedAt"
+msgstr "Updated at"
+
+#, fuzzy
+msgid "tooltip.softDeleteProject"
+msgstr "Soft delete project"
+
+#, fuzzy
+msgid "tooltip.softDeleteWs"
+msgstr "Soft delete WS"
+
+#, fuzzy
+msgid "warning.softDeleteProject"
+msgstr "Soft delete project"
+
+msgid "warning.softDeleteWs"
+msgstr "Soft delete WS"
+
+#, fuzzy
+msgid "true"
+msgstr "True"
