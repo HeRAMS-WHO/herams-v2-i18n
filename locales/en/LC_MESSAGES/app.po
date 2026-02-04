@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2026-02-04 10:10+0000\n"
+"PO-Revision-Date: 2026-02-05 11:01+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -133,7 +133,7 @@ msgid "button.viewSitUpdate"
 msgstr "View"
 
 msgid "button.workspaces"
-msgstr "Workspaces"
+msgstr "Go to project"
 
 msgid "confirm.deleteHsdu"
 msgstr "Delete HSDU"
@@ -253,10 +253,10 @@ msgid "label.language"
 msgstr "Language"
 
 msgid "label.lastUpdatedBy"
-msgstr "Last updated by"
+msgstr "Last modified by"
 
 msgid "label.lastUpdatedDate"
-msgstr "Last updated on"
+msgstr "Last modified on"
 
 msgid "label.latitude"
 msgstr "Latitude"
@@ -680,7 +680,7 @@ msgid "tab.roles"
 msgstr "Roles"
 
 msgid "tableHeader.lastUpdatedBy"
-msgstr "Last updated by"
+msgstr "Last modified by"
 
 msgid "tableHeader.roleType"
 msgstr "Type"
@@ -933,7 +933,7 @@ msgid "icon.viewSitUpdateHistory"
 msgstr "View history"
 
 msgid "tableHeader.lastUpdatedDate"
-msgstr "Last updated"
+msgstr "Last modified on"
 
 msgid "label.dateFormatDMY"
 msgstr "Day/Month/Year"
@@ -957,7 +957,7 @@ msgid "tableHeader.createSitUpdate"
 msgstr "Update situation"
 
 msgid "button.deleteDash"
-msgstr "Clear dashboard"
+msgstr "Delete dashboard"
 
 msgid "confirm.deleteDashboard"
 msgstr "Delete dashboard"
@@ -1475,7 +1475,7 @@ msgstr "Name"
 msgid "label.registerUserSent"
 msgstr ""
 "You will receive an e-mail to validate your registration. Please check your "
-"inbox"
+"inbox."
 
 msgid "label.rePassword"
 msgstr "Repeat password"
@@ -1612,7 +1612,7 @@ msgid "chartPage.gsc"
 msgstr "General clinical and trauma care"
 
 msgid "error.noPermissionsSelected"
-msgstr "Error: No permission selected."
+msgstr "Error: No permission selected"
 
 msgid "false"
 msgstr "False"
@@ -1627,7 +1627,7 @@ msgid "label.project"
 msgstr "Project"
 
 msgid "label.softDeleteProject"
-msgstr "Empty project"
+msgstr "Delete project"
 
 msgid "label.softDeleteWs"
 msgstr "Delete workspace"
@@ -1642,7 +1642,7 @@ msgid "button.saveAsPdf"
 msgstr "Save as pdf"
 
 msgid "confirm.softDeleteProject"
-msgstr "Confirm to delete"
+msgstr "Confirm to delete project"
 
 msgid "confirm.softDeleteWs"
 msgstr "Confirm to delete WS"
@@ -1650,14 +1650,12 @@ msgstr "Confirm to delete WS"
 msgid "label.available"
 msgstr "available"
 
-#, fuzzy
 msgid "label.confirmationDeleteLastAdminSurveyResponseExplanation"
 msgstr "confirmation to delete last admin survey response explanation"
 
 msgid "label.excludeBarriers"
 msgstr "Exclude barriers "
 
-#, fuzzy
 msgid "label.excludeSelectedQuestions"
 msgstr "Exclude selected questions"
 
@@ -1667,40 +1665,33 @@ msgstr "Export all questions"
 msgid "label.exportOnlySelectedQuestions"
 msgstr "Export only selected questions"
 
-#, fuzzy
 msgid "label.importWarningCount"
 msgstr "Import warning count"
 
-#, fuzzy
 msgid "label.questionsList"
 msgstr "Question list"
 
-#, fuzzy
 msgid "label.selected"
 msgstr "Selected"
 
 msgid "label.showLess"
 msgstr "Show less"
 
-#, fuzzy
 msgid "tableHeader.adminResponse"
 msgstr "Admin response"
 
 msgid "tableHeader.requestAccess"
 msgstr "Request Access"
 
-#, fuzzy
 msgid "tableHeader.situationResponse"
 msgstr "Situation response"
 
 msgid "label.situationResponse"
 msgstr "Situation response"
 
-#, fuzzy
 msgid "label.whatKindOfSurveyDoYouWantToDelete"
 msgstr "What kind of survey do you want to delete?"
 
-#, fuzzy
 msgid "label.whatKindOfSurveyDoYouWantToEdit"
 msgstr "What kind of survey do you want to edit?"
 
@@ -1710,57 +1701,45 @@ msgstr "What kind of survey do you want to view?"
 msgid "label.whatKindOfSurveyDoYouWantToViewHistory"
 msgstr "What kind of survey do you want to view history?"
 
-#, fuzzy
 msgid "message.projectAccessRequestSubject"
 msgstr "Project access request subject"
 
-#, fuzzy
 msgid "message.requestProjectDenied"
 msgstr "Project request denied "
 
-#, fuzzy
 msgid "message.requestProjectGranted"
 msgstr "Project request granted"
 
-#, fuzzy
 msgid "message.requestProjectInvalid"
 msgstr "Project request invalid "
 
 msgid "tab.hsduExport"
 msgstr "HSDU export"
 
-#, fuzzy
 msgid "tab.hsdus :openedFacilitiesCount"
 msgstr "HSDU: opened facility count"
 
-#, fuzzy
 msgid "tab.inactiveHsdus :notOpenedFacilitiesCount"
 msgstr "inactive HSDU: not opened facility count"
 
-#, fuzzy
 msgid "tab.testCache"
 msgstr "Test cache"
 
-#, fuzzy
 msgid "tableHeader.updatedAt"
 msgstr "Updated at"
 
-#, fuzzy
 msgid "tooltip.softDeleteProject"
 msgstr "Soft delete project"
 
-#, fuzzy
 msgid "tooltip.softDeleteWs"
 msgstr "Soft delete WS"
 
-#, fuzzy
 msgid "warning.softDeleteProject"
 msgstr "Soft delete project"
 
 msgid "warning.softDeleteWs"
 msgstr "Soft delete WS"
 
-#, fuzzy
 msgid "true"
 msgstr "True"
 
