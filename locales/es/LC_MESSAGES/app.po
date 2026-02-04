@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2025-09-25 09:02+0000\n"
+"PO-Revision-Date: 2026-02-05 11:01+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 msgid "projectLanguage"
 msgstr ""
@@ -125,6 +125,7 @@ msgstr "Idoma"
 msgid "label.hsdus"
 msgstr "UPSSs"
 
+#, fuzzy
 msgid "label.lastUpdatedBy"
 msgstr "Modificado por"
 
@@ -374,6 +375,7 @@ msgstr ""
 "Su solicitud de acceso al espacio de trabajo :workspaceName ha sido "
 "rechazada "
 
+#, fuzzy
 msgid "tableHeader.lastUpdatedBy"
 msgstr "Modificado por"
 
@@ -518,6 +520,7 @@ msgstr "Responder"
 msgid "button.return"
 msgstr "Volver"
 
+#, fuzzy
 msgid "button.workspaces"
 msgstr "Espacios de trabajo"
 
@@ -934,6 +937,7 @@ msgstr "Histórico del registro"
 msgid "label.projectLanguages"
 msgstr "Idiomas"
 
+#, fuzzy
 msgid "tableHeader.lastUpdatedDate"
 msgstr "Última modificación"
 
@@ -980,6 +984,7 @@ msgstr "Idioma de preferencia"
 msgid "label.userTimezone"
 msgstr "Zona horaria"
 
+#, fuzzy
 msgid "button.deleteDash"
 msgstr "Eliminar tablero"
 
@@ -1523,6 +1528,7 @@ msgstr "La contraseña es demasiado corta"
 msgid "label.rePassword"
 msgstr "Repita la contraseña"
 
+#, fuzzy
 msgid "label.registerUserSent"
 msgstr ""
 "Le hemos enviado un e-mail para verificar su inscripción. Consulte su "
