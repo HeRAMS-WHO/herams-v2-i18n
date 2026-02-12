@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2026-02-05 11:01+0000\n"
+"PO-Revision-Date: 2026-02-12 14:12+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -55,7 +55,7 @@ msgid "button.cancel"
 msgstr "Cancel"
 
 msgid "button.createAdminUpdate"
-msgstr "Update HSDU"
+msgstr "Update MFL"
 
 msgid "button.createHsdu"
 msgstr "Register HSDU"
@@ -428,7 +428,7 @@ msgid "pageTitle.material"
 msgstr "Material demo"
 
 msgid "pageTitle.newAdminUpdate"
-msgstr "Update HSDU"
+msgstr "Update MFL"
 
 msgid "pageTitle.newSitUpdate"
 msgstr "Update situation"
@@ -455,7 +455,7 @@ msgid "pageTitle.userSpace"
 msgstr "User space"
 
 msgid "pageTitle.viewAdminUpdate"
-msgstr "HSDU update"
+msgstr "MFL update"
 
 msgid "pageTitle.viewSitUpdate"
 msgstr "Situation update"
@@ -479,7 +479,7 @@ msgid "placeholder.wss"
 msgstr "Start typing to select a workspace ..."
 
 msgid "tab.adminUpdates"
-msgstr "HSDU updates (:AdmUpCount)"
+msgstr "MFL updates (:AdmUpCount)"
 
 msgid "tab.dashSettings"
 msgstr "Dashboard settings"
@@ -788,7 +788,7 @@ msgid "button.submit"
 msgstr "Submit"
 
 msgid "label.importAdminUpdates"
-msgstr "HSDU updates"
+msgstr "MFL updates"
 
 msgid "label.importedErrorCount"
 msgstr ":recordCountParameter rows found with errors and could not be imported"
@@ -806,7 +806,7 @@ msgid "pageTitle.importCompleted"
 msgstr "Import completed"
 
 msgid "icon.viewAdminUpdate"
-msgstr "View HSDU update"
+msgstr "View MFL update"
 
 msgid "icon.viewSitUpdate"
 msgstr "View situation update"
@@ -830,13 +830,13 @@ msgid "icon.impersonateUser"
 msgstr "Impersonate user"
 
 msgid "icon.deleteAdminUpdate"
-msgstr "Delete HSDU update"
+msgstr "Delete MFL update"
 
 msgid "icon.deleteUser"
 msgstr "Delete user"
 
 msgid "icon.editAdminUpdate"
-msgstr "Edit HSDU update"
+msgstr "Edit MFL update"
 
 msgid "warning.titleRemoveProjectLanguage"
 msgstr "Remove project language"
@@ -1522,7 +1522,7 @@ msgid "button.viewHSDUListLatestResponses"
 msgstr "Latest responses"
 
 msgid "button.viewHSDUListOnlyAdminResponses"
-msgstr "HSDU updates"
+msgstr "MFL updates"
 
 msgid "button.viewHSDUListOnlySituationResponses"
 msgstr "Situation updates"
