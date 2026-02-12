@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2026-02-12 14:12+0000\n"
+"PO-Revision-Date: 2026-02-12 14:22+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -175,7 +175,7 @@ msgid "error.projectLatitudeZero"
 msgstr "Both latitude and longitude cannot be zero"
 
 msgid "error.projectSelectAdminSurvey"
-msgstr "Please select a HSDU survey"
+msgstr "Please select a MFL survey"
 
 msgid "error.projectSelectCountry"
 msgstr "Please select a country"
@@ -274,7 +274,7 @@ msgid "label.noSitUpdates"
 msgstr "No updates expected"
 
 msgid "label.projectAdminSurvey"
-msgstr "HSDU Survey"
+msgstr "MFL Survey"
 
 msgid "label.projects"
 msgstr "Projects"
@@ -1513,7 +1513,7 @@ msgstr ""
 "please wait for 5 minutes and check your notifications to download the file"
 
 msgid "button.confirmDeleteLastAdminResponse"
-msgstr "Delete latest HSDU response"
+msgstr "Delete latest MFL response"
 
 msgid "button.viewHSDUListAllResponses"
 msgstr "All responses"
@@ -1570,7 +1570,7 @@ msgid "icon.viewUpdateHistory"
 msgstr "View history"
 
 msgid "label.adminResponse"
-msgstr "HSDU response"
+msgstr "MFL response"
 
 msgid "label.changedEmail"
 msgstr "Email address changed"
@@ -1651,7 +1651,7 @@ msgid "label.available"
 msgstr "available"
 
 msgid "label.confirmationDeleteLastAdminSurveyResponseExplanation"
-msgstr "confirmation to delete last admin survey response explanation"
+msgstr "confirmation to delete last MFL survey response explanation"
 
 msgid "label.excludeBarriers"
 msgstr "Exclude barriers "
@@ -1678,7 +1678,7 @@ msgid "label.showLess"
 msgstr "Show less"
 
 msgid "tableHeader.adminResponse"
-msgstr "Admin response"
+msgstr "MFL response"
 
 msgid "tableHeader.requestAccess"
 msgstr "Request Access"
