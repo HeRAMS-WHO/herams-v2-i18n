@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2026-02-05 11:01+0000\n"
+"PO-Revision-Date: 2026-02-12 14:12+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -198,6 +198,7 @@ msgstr "Material demo"
 msgid "pageTitle.hsduName"
 msgstr ":hsduName"
 
+#, fuzzy
 msgid "pageTitle.newAdminUpdate"
 msgstr "Modificar UPSS"
 
@@ -216,6 +217,7 @@ msgstr "Modificación de situación"
 msgid "placeholder.selectUsers"
 msgstr ""
 
+#, fuzzy
 msgid "tab.adminUpdates"
 msgstr "Modificaciones de UPSS (:AdmUpCount)"
 
@@ -400,6 +402,7 @@ msgstr "Nombre del proyecto"
 msgid "pageTitle.dashboard"
 msgstr "Tablero"
 
+#, fuzzy
 msgid "button.createAdminUpdate"
 msgstr "Modificar UPSS"
 
@@ -445,6 +448,7 @@ msgstr "al proyecto"
 msgid "label.viewAdminUpdate"
 msgstr "Ver"
 
+#, fuzzy
 msgid "pageTitle.viewAdminUpdate"
 msgstr "Modification de UPSS"
 
@@ -795,6 +799,7 @@ msgstr "Base de referencia"
 msgid "label.showMore"
 msgstr "Mostrar más"
 
+#, fuzzy
 msgid "label.importAdminUpdates"
 msgstr "Modificaciones de UPSS"
 
@@ -838,18 +843,21 @@ msgstr "Editar modificación"
 msgid "icon.deleteUser"
 msgstr "Eliminar usuario"
 
+#, fuzzy
 msgid "icon.viewAdminUpdate"
 msgstr "Ver modificiación"
 
 msgid "icon.deleteSitUpdate"
 msgstr "Eliminar modificación"
 
+#, fuzzy
 msgid "icon.editAdminUpdate"
 msgstr "Editar modificiación"
 
 msgid "icon.impersonateUser"
 msgstr "Suplantar usuario"
 
+#, fuzzy
 msgid "icon.deleteAdminUpdate"
 msgstr "Eliminar modificación"
 
