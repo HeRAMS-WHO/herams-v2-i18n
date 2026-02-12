@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2026-02-12 14:12+0000\n"
+"PO-Revision-Date: 2026-02-12 14:22+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
@@ -87,6 +87,7 @@ msgstr ""
 "La latitude et la longitude ne peuvent pas toutes les deux être égales à "
 "zéro."
 
+#, fuzzy
 msgid "error.projectSelectAdminSurvey"
 msgstr "Veuillez sélectionner un questionnaire UPSS"
 
@@ -519,6 +520,7 @@ msgstr "Questionnaires"
 msgid "label.viewAdminUpdate"
 msgstr ""
 
+#, fuzzy
 msgid "label.projectAdminSurvey"
 msgstr "Questionnaire de l'UPSS"
 
@@ -1541,6 +1543,7 @@ msgstr "État de la réponse"
 msgid "tableHeader.wsAccessRequest"
 msgstr "Demande d'accès"
 
+#, fuzzy
 msgid "button.confirmDeleteLastAdminResponse"
 msgstr "Supprimer la dernière réponse de l'UPSS"
 
@@ -1599,6 +1602,7 @@ msgstr "Afficher la mise à jour"
 msgid "icon.viewUpdateHistory"
 msgstr "Afficher l'historique"
 
+#, fuzzy
 msgid "label.adminResponse"
 msgstr "La réponse de l'UPSS"
 
