@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2026-02-05 11:01+0000\n"
+"PO-Revision-Date: 2026-02-12 14:12+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
@@ -242,6 +242,7 @@ msgstr "Modifier"
 msgid "pageTitle.hsduName"
 msgstr ""
 
+#, fuzzy
 msgid "pageTitle.newAdminUpdate"
 msgstr "Mettre à jour l'UPSS"
 
@@ -260,6 +261,7 @@ msgstr ""
 msgid "pageTitle.userProfile"
 msgstr "Profil"
 
+#, fuzzy
 msgid "pageTitle.viewAdminUpdate"
 msgstr "Mise à jour de l'UPSS"
 
@@ -275,6 +277,7 @@ msgstr "Date de création"
 msgid "placeholder.selectUsers"
 msgstr ""
 
+#, fuzzy
 msgid "tab.adminUpdates"
 msgstr "Mises à jour de l'UPSS (:AdmUpCount)"
 
@@ -743,6 +746,7 @@ msgstr "Enregistrer l'UPSS"
 msgid "button.cancel"
 msgstr "Annuler"
 
+#, fuzzy
 msgid "button.createAdminUpdate"
 msgstr "Mettre à jour l'UPSS"
 
@@ -792,6 +796,7 @@ msgstr "Référence"
 msgid "error.importRowNumber"
 msgstr "Erreur détectée à la ligne: Numéro de ligne"
 
+#, fuzzy
 msgid "label.importAdminUpdates"
 msgstr "Mises à jour de l'UPSS"
 
@@ -844,12 +849,15 @@ msgstr "Afficher la mise à jour de la situation"
 msgid "icon.editSitUpdate"
 msgstr "Modifier la mise à jour de la situation"
 
+#, fuzzy
 msgid "icon.viewAdminUpdate"
 msgstr "Afficher la mise à jour de l'UPSS"
 
+#, fuzzy
 msgid "icon.deleteAdminUpdate"
 msgstr "Supprimer la mise à jour de l'UPSS"
 
+#, fuzzy
 msgid "icon.editAdminUpdate"
 msgstr "Modifier la mise à jour de l'UPSS"
 
@@ -1542,6 +1550,7 @@ msgstr "Toutes les réponses"
 msgid "button.viewHSDUListLatestResponses"
 msgstr "Dernières réponses"
 
+#, fuzzy
 msgid "button.viewHSDUListOnlyAdminResponses"
 msgstr "Mises à jour de l'UPSS"
 
