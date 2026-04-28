@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2026-02-12 14:22+0000\n"
+"PO-Revision-Date: 2026-04-29 14:11+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 msgid "projectLanguage"
 msgstr "Langue du projet"
@@ -604,9 +604,8 @@ msgstr "Demandes en attente"
 msgid "button.return"
 msgstr "Retour"
 
-#, fuzzy
 msgid "button.workspaces"
-msgstr "Espaces de travail"
+msgstr "Aller au projet"
 
 msgid "button.viewRequest"
 msgstr "Afficher"
@@ -1632,3 +1631,24 @@ msgstr "Identifiant de l’espace de travail"
 
 msgid "tableHeader.workspaceName"
 msgstr "Nom de l'espace de travail"
+
+msgid "button.saveAsPdf"
+msgstr "Enregistrer au format PDF"
+
+msgid "button.softDeleteProject"
+msgstr "Vider le projet"
+
+msgid "button.softDeleteWs"
+msgstr "Vider l'espace de travail"
+
+msgid "chartPage.gsc"
+msgstr "Services cliniques généraux et soins de traumatologie"
+
+msgid "confirm.softDeleteProject"
+msgstr "Confirmer la suppression du projet"
+
+msgid "confirm.softDeleteWs"
+msgstr "Confirmer la suppression de l'espace de travail"
+
+msgid "error.noPermissionsSelected"
+msgstr "Erreur : aucune autorisation sélectionnée"
