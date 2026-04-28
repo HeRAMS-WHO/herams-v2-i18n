@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2026-02-12 14:22+0000\n"
+"PO-Revision-Date: 2026-04-29 14:11+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 msgid "label.projectName"
 msgstr "Project name"
@@ -55,7 +55,7 @@ msgid "button.cancel"
 msgstr "Cancel"
 
 msgid "button.createAdminUpdate"
-msgstr "Update MFL"
+msgstr "Add a new update"
 
 msgid "button.createHsdu"
 msgstr "Register HSDU"
@@ -175,7 +175,7 @@ msgid "error.projectLatitudeZero"
 msgstr "Both latitude and longitude cannot be zero"
 
 msgid "error.projectSelectAdminSurvey"
-msgstr "Please select a MFL survey"
+msgstr "Please select a survey"
 
 msgid "error.projectSelectCountry"
 msgstr "Please select a country"
@@ -788,7 +788,7 @@ msgid "button.submit"
 msgstr "Submit"
 
 msgid "label.importAdminUpdates"
-msgstr "MFL updates"
+msgstr "Import updates"
 
 msgid "label.importedErrorCount"
 msgstr ":recordCountParameter rows found with errors and could not be imported"
@@ -806,7 +806,7 @@ msgid "pageTitle.importCompleted"
 msgstr "Import completed"
 
 msgid "icon.viewAdminUpdate"
-msgstr "View MFL update"
+msgstr "View response"
 
 msgid "icon.viewSitUpdate"
 msgstr "View situation update"
@@ -830,13 +830,13 @@ msgid "icon.impersonateUser"
 msgstr "Impersonate user"
 
 msgid "icon.deleteAdminUpdate"
-msgstr "Delete MFL update"
+msgstr "Delete response"
 
 msgid "icon.deleteUser"
 msgstr "Delete user"
 
 msgid "icon.editAdminUpdate"
-msgstr "Edit MFL update"
+msgstr "Edit response"
 
 msgid "warning.titleRemoveProjectLanguage"
 msgstr "Remove project language"
@@ -1513,7 +1513,7 @@ msgstr ""
 "please wait for 5 minutes and check your notifications to download the file"
 
 msgid "button.confirmDeleteLastAdminResponse"
-msgstr "Delete latest MFL response"
+msgstr "Delete response"
 
 msgid "button.viewHSDUListAllResponses"
 msgstr "All responses"
@@ -1651,7 +1651,7 @@ msgid "label.available"
 msgstr "available"
 
 msgid "label.confirmationDeleteLastAdminSurveyResponseExplanation"
-msgstr "confirmation to delete last MFL survey response explanation"
+msgstr "confirmation to delete this response"
 
 msgid "label.excludeBarriers"
 msgstr "Exclude barriers "
