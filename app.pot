@@ -1090,6 +1090,9 @@ msgstr ""
 msgid "label.whatKindOfSurveyDoYouWantToViewHistory"
 msgstr ""
 
+msgid "label.workspaceLackOfPermissions"
+msgstr ""
+
 msgid "label.ws"
 msgstr ""
 
