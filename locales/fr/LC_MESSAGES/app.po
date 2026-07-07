@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2026-04-29 14:11+0000\n"
+"PO-Revision-Date: 2026-07-08 12:01+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"X-Generator: Weblate 2026.7.1.dev0\n"
 
 msgid "projectLanguage"
 msgstr "Langue du projet"
@@ -87,9 +87,8 @@ msgstr ""
 "La latitude et la longitude ne peuvent pas toutes les deux être égales à "
 "zéro."
 
-#, fuzzy
 msgid "error.projectSelectAdminSurvey"
-msgstr "Veuillez sélectionner un questionnaire UPSS"
+msgstr "Veuillez sélectionner un questionnaire"
 
 msgid "label.createdDate"
 msgstr "Date de création"
@@ -142,9 +141,8 @@ msgstr "Langue"
 msgid "label.globalRoles"
 msgstr "Rôles"
 
-#, fuzzy
 msgid "label.lastUpdatedBy"
-msgstr "Dernière mise à jour par"
+msgstr "Dernière modification par"
 
 msgid "label.roleScopeProject"
 msgstr "Projet"
@@ -449,9 +447,8 @@ msgstr "Exporter les données"
 msgid "tab.sitUpdates"
 msgstr "Mises à jour de la situation (:SitUpCount)"
 
-#, fuzzy
 msgid "tableHeader.lastUpdatedBy"
-msgstr "Dernière mise à jour par"
+msgstr "Dernière modification par"
 
 msgid "label.editAdminUpdate"
 msgstr ""
@@ -480,9 +477,8 @@ msgstr "Tableau de bord"
 msgid "pageTitle.createSurvey"
 msgstr "Créer un questionnaire"
 
-#, fuzzy
 msgid "tab.hsdus"
-msgstr "UPSS  (:hsduCount)"
+msgstr "UPSS (:openedFacilitiesCount)"
 
 msgid "tableHeader.actions"
 msgstr "Opérations"
@@ -731,9 +727,8 @@ msgstr "Champ"
 msgid "button.ok"
 msgstr "Ok"
 
-#, fuzzy
 msgid "label.lastUpdatedDate"
-msgstr "Dernière mise à jour le"
+msgstr "Dernière modification le"
 
 msgid "label.roleTargetProject"
 msgstr "au projet"
@@ -747,9 +742,8 @@ msgstr "Enregistrer l'UPSS"
 msgid "button.cancel"
 msgstr "Annuler"
 
-#, fuzzy
 msgid "button.createAdminUpdate"
-msgstr "Mettre à jour l'UPSS"
+msgstr "Ajouter une mise à jour"
 
 msgid "label.importSitFields"
 msgstr "Mises à jour de la situation"
@@ -797,9 +791,8 @@ msgstr "Référence"
 msgid "error.importRowNumber"
 msgstr "Erreur détectée à la ligne: Numéro de ligne"
 
-#, fuzzy
 msgid "label.importAdminUpdates"
-msgstr "Mises à jour de l'UPSS"
+msgstr "Importer les mises à jour"
 
 #, fuzzy
 msgid "label.importedRecordCount"
@@ -850,17 +843,14 @@ msgstr "Afficher la mise à jour de la situation"
 msgid "icon.editSitUpdate"
 msgstr "Modifier la mise à jour de la situation"
 
-#, fuzzy
 msgid "icon.viewAdminUpdate"
-msgstr "Afficher la mise à jour de l'UPSS"
+msgstr "Afficher la mise à jour"
 
-#, fuzzy
 msgid "icon.deleteAdminUpdate"
-msgstr "Supprimer la mise à jour de l'UPSS"
+msgstr "Supprimer la mise à jour"
 
-#, fuzzy
 msgid "icon.editAdminUpdate"
-msgstr "Modifier la mise à jour de l'UPSS"
+msgstr "Modifier la mise à jour"
 
 msgid "icon.deleteSurvey"
 msgstr "Supprimer le questionnaire"
@@ -1054,9 +1044,8 @@ msgstr "Admin 1"
 msgid "chartPage.svlServices"
 msgstr "Disponibilité des services"
 
-#, fuzzy
 msgid "tableHeader.lastUpdatedDate"
-msgstr "Date de dernière mise à jour"
+msgstr "Date de dernière modification"
 
 msgid "icon.viewSitUpdateHistory"
 msgstr "Afficher l’historique"
@@ -1542,9 +1531,8 @@ msgstr "État de la réponse"
 msgid "tableHeader.wsAccessRequest"
 msgstr "Demande d'accès"
 
-#, fuzzy
 msgid "button.confirmDeleteLastAdminResponse"
-msgstr "Supprimer la dernière réponse de l'UPSS"
+msgstr "Supprimer la réponse"
 
 msgid "button.viewHSDUListAllResponses"
 msgstr "Toutes les réponses"
@@ -1652,3 +1640,63 @@ msgstr "Confirmer la suppression de l'espace de travail"
 
 msgid "error.noPermissionsSelected"
 msgstr "Erreur : aucune autorisation sélectionnée"
+
+msgid "label.available"
+msgstr "disponible"
+
+msgid "label.confirmationDeleteLastAdminSurveyResponse"
+msgstr "Réponse supprimée"
+
+msgid "label.excludeBarriers"
+msgstr "Exclure les obstacles "
+
+msgid "label.exportAllQuestions"
+msgstr "Exporter toutes les questions"
+
+msgid "label.exportIncludeDrafts"
+msgstr "Inclure les réponses en brouillon"
+
+msgid "label.exportOnlySelectedQuestions"
+msgstr "Exporter uniquement les questions sélectionnées"
+
+msgid "label.project"
+msgstr "Projet"
+
+msgid "label.showLess"
+msgstr "Afficher moins"
+
+msgid "label.situationResponse"
+msgstr "Réponse de situation"
+
+msgid "label.softDeleteProject"
+msgstr "Supprimer le projet"
+
+msgid "label.softDeleteWs"
+msgstr "Supprimer l'espace de travail"
+
+msgid "label.softDeletingProject"
+msgstr "Supprimer le projet"
+
+msgid "label.softDeletingWs"
+msgstr "Supprimer l'espace de travail"
+
+msgid "label.whatKindOfSurveyDoYouWantToView"
+msgstr "Quel type de questionnaire souhaitez-vous afficher ?"
+
+msgid "label.whatKindOfSurveyDoYouWantToViewHistory"
+msgstr "De quel type de questionnaire souhaitez-vous consulter l’historique ?"
+
+msgid "tab.hsduExport"
+msgstr "Exporter l'UPSS"
+
+msgid "tab.inactiveHsdus"
+msgstr "UPSS inactifs (:notOpenedFacilitiesCount)"
+
+msgid "tableHeader.requestAccess"
+msgstr "Demander l’accès"
+
+msgid "warning.softDeleteWs"
+msgstr "Suppression temporaire de l’espace de travail"
+
+msgid "false"
+msgstr "Faux"
