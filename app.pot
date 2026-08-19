@@ -16,6 +16,9 @@ msgstr ""
 msgid "button.confirmDeleteLastAdminResponse"
 msgstr ""
 
+msgid "button.continue"
+msgstr ""
+
 msgid "button.createAdminUpdate"
 msgstr ""
 
@@ -464,6 +467,9 @@ msgid "error.selectUsers"
 msgstr ""
 
 msgid "error.selectWss"
+msgstr ""
+
+msgid "error.surveyDateExists"
 msgstr ""
 
 msgid "error.unauthorized"
@@ -1111,7 +1117,13 @@ msgstr ""
 msgid "message.draftSaved"
 msgstr ""
 
+msgid "message.exportDownloaded"
+msgstr ""
+
 msgid "message.exportDuplicate"
+msgstr ""
+
+msgid "message.exportPreparing"
 msgstr ""
 
 msgid "message.exportSubmited"
@@ -1649,5 +1661,8 @@ msgid "warning.softDeleteWs"
 msgstr ""
 
 msgid "warning.titleRemoveProjectLanguage"
+msgstr ""
+
+msgid "warning.titleSurveyDateExists"
 msgstr ""
 
