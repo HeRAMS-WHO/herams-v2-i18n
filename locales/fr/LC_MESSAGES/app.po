@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:03+0200\n"
-"PO-Revision-Date: 2026-07-08 12:01+0000\n"
+"PO-Revision-Date: 2026-08-21 10:30+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/herams-v2/"
 "platform/fr/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2026.7.1.dev0\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 msgid "projectLanguage"
 msgstr "Langue du projet"
@@ -426,6 +426,7 @@ msgstr "Souhaitez-vous supprimer ce projet ?"
 msgid "label.deleteProject"
 msgstr "Supprimer le projet"
 
+#, fuzzy
 msgid "tab.workspaces"
 msgstr "Espaces de travail"
 
@@ -1599,6 +1600,7 @@ msgstr "Adresse e-mail modifiée"
 msgid "label.viewHistory"
 msgstr "Afficher l'historique"
 
+#, fuzzy
 msgid "tab.viewHSDUList"
 msgstr "Afficher la liste des UPSS"
 
