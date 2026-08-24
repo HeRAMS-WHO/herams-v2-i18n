@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2026-08-22 12:51+0000\n"
+"PO-Revision-Date: 2026-08-25 08:51+0000\n"
 "Last-Translator: HeRAMS <herams@who.int>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/herams-v2/"
 "platform/es/>\n"
@@ -1221,7 +1221,6 @@ msgstr "Nutrición y salud infantil"
 msgid "pageTitle.dashboardFilters"
 msgstr "Filtros del tablero"
 
-#, fuzzy
 msgid "button.add"
 msgstr "Añadir"
 
