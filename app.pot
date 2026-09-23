@@ -982,6 +982,9 @@ msgstr ""
 msgid "label.response"
 msgstr ""
 
+msgid "label.responseSaved"
+msgstr ""
+
 msgid "label.roleName"
 msgstr ""
 
@@ -1114,6 +1117,9 @@ msgstr ""
 msgid "menu.showKeys"
 msgstr ""
 
+msgid "message.dataSaved"
+msgstr ""
+
 msgid "message.draftSaved"
 msgstr ""
 
@@ -1153,7 +1159,13 @@ msgstr ""
 msgid "message.requestSubject"
 msgstr ""
 
+msgid "message.responseSaved"
+msgstr ""
+
 msgid "message.roleAdded"
+msgstr ""
+
+msgid "message.uploadingData"
 msgstr ""
 
 msgid "notif.accessRequestApproved"
