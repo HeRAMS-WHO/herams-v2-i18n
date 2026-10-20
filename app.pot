@@ -757,6 +757,12 @@ msgstr ""
 msgid "label.hsduBuildCond"
 msgstr ""
 
+msgid "label.hsduDataComplete"
+msgstr ""
+
+msgid "label.hsduDataIncomplete"
+msgstr ""
+
 msgid "label.hsdus"
 msgstr ""
 
@@ -1492,6 +1498,9 @@ msgstr ""
 msgid "tableHeader.hsduCode"
 msgstr ""
 
+msgid "tableHeader.hsduDataCompleteness"
+msgstr ""
+
 msgid "tableHeader.hsduEquipCond"
 msgstr ""
 
@@ -1643,6 +1652,9 @@ msgid "tooltip.emptyProject"
 msgstr ""
 
 msgid "tooltip.emptyWs"
+msgstr ""
+
+msgid "tooltip.hsduDataIncomplete"
 msgstr ""
 
 msgid "tooltip.softDeleteProject"
