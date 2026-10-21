@@ -988,6 +988,12 @@ msgstr ""
 msgid "label.response"
 msgstr ""
 
+msgid "label.responseDraft"
+msgstr ""
+
+msgid "label.responseNew"
+msgstr ""
+
 msgid "label.responseSaved"
 msgstr ""
 
@@ -1583,6 +1589,9 @@ msgid "tableHeader.requestResponse"
 msgstr ""
 
 msgid "tableHeader.requestResponseDate"
+msgstr ""
+
+msgid "tableHeader.responseFlag"
 msgstr ""
 
 msgid "tableHeader.responses"
