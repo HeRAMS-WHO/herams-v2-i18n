@@ -1132,6 +1132,9 @@ msgstr ""
 msgid "message.dataSaved"
 msgstr ""
 
+msgid "message.discardResponseChanges"
+msgstr ""
+
 msgid "message.draftSaved"
 msgstr ""
 
