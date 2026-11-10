@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-17 12:55+0200\n"
-"PO-Revision-Date: 2026-09-26 14:51+0000\n"
-"Last-Translator: HeRAMS <herams@who.int>\n"
+"PO-Revision-Date: 2026-11-10 08:37+0000\n"
+"Last-Translator: HeRAMS <herams@users.noreply.hosted.weblate.org>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/herams-v2/"
 "platform/en/>\n"
 "Language: en\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.10.dev0\n"
+"X-Generator: Weblate 2026.11.2.dev0\n"
 
 msgid "label.projectName"
 msgstr "Project name"
@@ -1778,3 +1778,27 @@ msgstr "Uploading data"
 
 msgid "message.dataSaved"
 msgstr "Data saved"
+
+msgid "label.hsduDataComplete"
+msgstr "HSDU Data complete"
+
+msgid "label.hsduDataIncomplete"
+msgstr "HSDU data incomplete"
+
+msgid "label.responseDraft"
+msgstr "Response draft"
+
+msgid "label.responseNew"
+msgstr "Response new"
+
+msgid "message.discardResponseChanges"
+msgstr "Discard response changes"
+
+msgid "tableHeader.hsduDataCompleteness"
+msgstr "Data completeness"
+
+msgid "tableHeader.responseFlag"
+msgstr "Response flag"
+
+msgid "tooltip.hsduDataIncomplete"
+msgstr "Data incomplete"
