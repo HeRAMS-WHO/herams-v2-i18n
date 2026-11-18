@@ -472,6 +472,9 @@ msgstr ""
 msgid "error.surveyDateExists"
 msgstr ""
 
+msgid "error.title"
+msgstr ""
+
 msgid "error.unauthorized"
 msgstr ""
 
