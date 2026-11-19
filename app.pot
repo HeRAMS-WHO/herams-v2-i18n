@@ -139,6 +139,9 @@ msgstr ""
 msgid "button.send"
 msgstr ""
 
+msgid "button.sendRegistrationLink"
+msgstr ""
+
 msgid "button.softDeleteProject"
 msgstr ""
 
@@ -823,6 +826,9 @@ msgstr ""
 msgid "label.latitude"
 msgstr ""
 
+msgid "label.learnMoreAbout"
+msgstr ""
+
 msgid "label.loading"
 msgstr ""
 
@@ -1124,6 +1130,12 @@ msgid "label.wsName"
 msgstr ""
 
 msgid "label.wss"
+msgstr ""
+
+msgid "link.backToLogin"
+msgstr ""
+
+msgid "link.createNewAccount"
 msgstr ""
 
 msgid "menu.logout"
@@ -1652,6 +1664,9 @@ msgid "tableHeader.wsOwner"
 msgstr ""
 
 msgid "title for testCache"
+msgstr ""
+
+msgid "title.userLogin"
 msgstr ""
 
 msgid "tooltip.dashURL"
